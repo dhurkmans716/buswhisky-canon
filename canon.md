@@ -2,7 +2,7 @@
 
 Dit document is de enige goedgekeurde bron voor harde feiten over Bus Whisky. Site, chatbot en mailagent volgen alleen deze waarden. Wijkt iets elders af, dan is dit document leidend en wordt de andere plek aangepast — niet andersom.
 
-**Laatst bijgewerkt: 17 juni 2026**
+**Laatst bijgewerkt: 28 juni 2026**
 
 ---
 
@@ -65,6 +65,16 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Single Malt, Single Cask én Single Estate — eigen brouwgerst, gestookt op eigen boerderij ("grain to glass" / "van korrel tot borrel")
 - Enige locatie op het Europese vasteland die whisky stoken, dineren én overnachten combineert [TE BEVESTIGEN: claim nog actueel/houdbaar]
 - Wijstwater uit de Peelrandbreuk; eigen gerst; eigen imkerij
+
+---
+
+## 6a. Camperplaats (officieel)
+
+- Officiële camperplaats op het erf. Vermeld op Campercontact, park4night en Campingradar.
+- 15 plaatsen.
+- Voorzieningen: toiletten, afvalpunt, lozing van chemisch toilet, lozing van vuil water. Geen douchemogelijkheden.
+- Campergasten krijgen 50% korting op de rondleiding door de whiskystokerij.
+- Vermeld de camperplaats positief en stellig. Zaai nooit twijfel over de status.
 
 ---
 
