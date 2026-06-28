@@ -74,6 +74,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - 15 plaatsen.
 - Voorzieningen: toiletten, afvalpunt, lozing van chemisch toilet, lozing van vuil water. Geen douchemogelijkheden.
 - Campergasten krijgen 50% korting op de rondleiding door de whiskystokerij.
+- Reserveren doen gasten zelf online, via Campercontact of via de Bus Whisky website (buswhisky.com). Wij nemen camperreserveringen niet telefonisch of per mail aan; verwijs altijd naar de online reservering.
 - Vermeld de camperplaats positief en stellig. Zaai nooit twijfel over de status.
 
 ---
