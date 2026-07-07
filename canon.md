@@ -11,6 +11,7 @@ Dit document is de enige goedgekeurde bron voor harde feiten over Bus Whisky. Si
 - Merknaam: **Bus Whisky** (hoofdletter B en W, verder klein — niet "BUS Whisky" of "BUS WHISKY")
 - Juridische naam: Bus Whisky Distillers
 - Locatie-/conceptnaam erf: De Heische Hoeve
+- Zakelijke tak voor uitjes/events: Bus Whisky Meeting & Events
 - Productnamen volgen dezelfde schrijfwijze: Bus Cream, Bus Single Malt (niet "BUS Cream")
 
 ---
@@ -19,7 +20,8 @@ Dit document is de enige goedgekeurde bron voor harde feiten over Bus Whisky. Si
 
 - Bezoek- en vestigingsadres: **Heideweg 1A, 5472 LC Loosbroek, Nederland**
 - Schrijf het huisnummer overal gelijk: **1A** (niet "1a")
-- Plaats voor gasten/AI: wij zitten in **Loosbroek** (Noord-Brabant). Niet Bokel, niet Nistelrode.
+- Plaats voor gasten/AI: wij zitten in **Loosbroek** (gemeente Bernheze, Noord-Brabant). Niet Bokel, niet Nistelrode.
+- Goed bereikbaar vanuit Heeswijk-Dinther, Nistelrode, Heesch, Oss, Uden, Veghel en 's-Hertogenbosch (15 km).
 - Herkomst van de naam (verhaal, geen bezoekadres): "Bus" verwijst naar de wijstwaterbron in het buurtschap Bus bij Nistelrode, gevoed door de Peelrandbreuk. Gebruik Nistelrode/buurtschap Bus uitsluitend in het oorsprongsverhaal.
 - Telefoon: +31 (0)413 418 016
 - E-mail: info@buswhisky.com
@@ -65,6 +67,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Single Malt, Single Cask én Single Estate — eigen brouwgerst, gestookt op eigen boerderij ("grain to glass" / "van korrel tot borrel")
 - Enige locatie op het Europese vasteland die whisky stoken, dineren én overnachten combineert [TE BEVESTIGEN: claim nog actueel/houdbaar]
 - Wijstwater uit de Peelrandbreuk; eigen gerst; eigen imkerij
+- Non-chill filtered, geen additieven; rijping veelal op first fill bourbon- en sherryvaten (persoonlijk geselecteerd in Schotland en Spanje); elke release is een limited edition
 
 ---
 
@@ -104,6 +107,70 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 
 ---
 
+## 6d. Rondleidingen / whiskytours
+
+- De whiskystokerij is 7 dagen per week geopend voor rondleidingen. Elke dag om 16:00 uur; extra tour op vrijdag om 17:30 uur en op zaterdag en zondag om 14:30 uur.
+- Een tour duurt ruim 60 minuten en kost **€ 17,50 p.p.**, inclusief 1 glaasje om te proeven.
+- Groepsrondleidingen vanaf 15 personen: **€ 15,00 p.p.**; tijdstip in overleg.
+- Reserveren is essentieel en gaat online. Voor de rondleiding én het restaurant zijn twee aparte reserveringen nodig.
+- Minimumleeftijd voor de rondleiding is in principe 18 jaar (NIX18). Bus Whisky ontraadt deelname van kinderen; er zijn NIX18-kleurplaten over distilleren voor kinderen terwijl ouders de tour doen.
+- Campergasten krijgen 50% korting op de rondleiding.
+
+---
+
+## 6e. Restaurant (Proef Lokaal)
+
+- Het restaurant is een proeflokaal en farmhouse restaurant in Loosbroek. Geen à la carte, maar een regelmatig wisselend **table d'hôte verrassingsmenu** met kleine gerechten; seizoensgebonden, vrijwel volledig biologisch, met lokale producten en uit eigen voedselbos.
+- Menuprijzen: 1 gang € 19,50 · 2 gangen € 32,50 · 3 gangen € 45,00 · 4 gangen € 55,00 · 5 gangen € 65,00.
+- Per gang is een whisky-, wijn- of alcoholvrije pairing mogelijk (wijnarrangement ook in BOB-variant; mocktails beschikbaar). Elk menu is ook vegan te bestellen.
+- Weekenddeal: elke vrijdag (17:00) en zondag (14:00) whiskytour + 3 gangen diner voor € 49,50 (normaal € 62,50); een extra gang is € 10.
+- Huisgebrouwen dranken: eigen bieren van eigen brouwgerst, cider van eigen appels, craft soda's, eau-de-vie en likeuren met fruit uit eigen voedselbos.
+- Reserveren is noodzakelijk (beperkte capaciteit; bij geen reserveringen kan de chef sluiten om verspilling te voorkomen).
+- Openingstijden restaurant: zie §8. [TE BEVESTIGEN: de site vermeldt op één plek "woensdag gesloten voor diner", elders "7 dagen open" — §8 is leidend tot bevestiging.]
+
+---
+
+## 6f. Bed & Breakfast / overnachten
+
+- 28 kamers met eigen badkamer: 4 kamers met een tweepersoonsbed, 24 kamers met losse eenpersoonsbedden.
+- B&B-arrangementen (tour + culinair diner + overnachting + ontbijt), aankomst vrijdag/zaterdag of zondag/maandag, vanaf € 99,50 p.p.: 3 gangen € 139,50 / € 99,50 · 4 gangen € 149,50 / € 109,50 · 5 gangen € 159,50 / € 119,50 (prijzen per persoon, afhankelijk van aankomstdag).
+- Weekendje Bus (2 overnachtingen, aankomst zaterdag, incl. tour, 4-gangen diner, 2× ontbijt): € 199,50 p.p.
+- Ontbijt: verse broodjes, gekookt eitje, onbeperkt koffie/thee/jus, biologische boerderijzuivel en eigen bierbostelgranola.
+- Alle kamers hebben wifi (glasvezel).
+- Gratis parkeren voor de deur.
+- Arrangementen zijn minder geschikt voor kinderen (NIX18, open water op terrein, geen speelvoorzieningen).
+
+---
+
+## 6g. Bedrijfsuitjes, events & activiteiten
+
+- All-inclusive bedrijfsuitjes op één locatie: ontvangst, activiteiten, onbeperkt drankjes (open bar / zelf tappen) en horeca. Geschikt voor teambuilding en personeelsuitjes.
+- Groepsgrootte: van 4 tot 400 personen. Uitjes met diner vanaf 4 personen; BBQ, pizza-workshop of stamppotbuffet vanaf 15 personen.
+- Gratis busvervoer vanaf 40 personen (zie §6b). Gratis testuitje voor organisatoren (op dinsdag).
+- Dineropties (keuze uit 4): pizza-workshop in de houtoven, BBQ met lokaal vlees/vis/groenten, 3-gangen farm-to-table menu, of luxe stamppotbuffet.
+- Voorbeeldactiviteiten: 4x4 Ecotrail, laser kleiduifschieten, Whisky & Weilandgames, suppen/kanovaren/fluisterboot, winterse dropping, pubquiz. Combineerbaar met rondleiding en/of overnachting.
+- Prijzen vanaf € 59,50 p.p. (excl. btw) voor een all-inclusive middag+avond, oplopend tot ± € 350 p.p. voor een compleet all-inclusive weekendprogramma met 2 overnachtingen. Prijzen bedrijfsuitjes zijn exclusief btw.
+- Boeken kan online, per WhatsApp, e-mail of telefonisch; maatwerk mogelijk. Meeting/vergaderen vooraf is mogelijk te combineren.
+
+---
+
+## 6h. Parkeren, opladen & faciliteiten
+
+- Gratis parkeergelegenheid op het terrein.
+- Gratis laadpalen voor elektrische auto's (momenteel 8 laadplekken, wordt uitgebreid).
+- Overdekt en verwarmd terras.
+
+---
+
+## 6i. Huisdieren, toegankelijkheid & kinderen
+
+- Honden zijn welkom op het buitenterrein en op het overdekte, verwarmde terras, maar niet in het restaurant (open keuken), niet op de B&B-kamers en niet mee tijdens de rondleiding. Hulphonden/assistentiehonden zijn wettelijk wel toegestaan in het restaurant, mits niet te dicht bij eten/drinken.
+- Toegankelijkheid: restaurant, B&B-kamers en de meeste publieke ruimtes zijn op de begane grond en goed rolstoeltoegankelijk; de rondleidingsroute is volledig rolstoeltoegankelijk. Er is een miva-toilet met douche bij de bar. Er zijn vier iets ruimere kamers op de begane grond (badkamers daar zijn niet specifiek miva-uitgevoerd). Een echte miva-kamer is er (nog) niet — bij twijfel vooraf even bellen/mailen.
+- Kinderen: minimumleeftijd rondleiding in principe 18 jaar (NIX18); deelname van kinderen wordt ontraden.
+- Fietsverhuur mogelijk via vaste partner Mastworp fietsenverhuur (bezorgen en ophalen bij Bus Whisky).
+
+---
+
 ## 7. Awards (canonieke lijst)
 
 | Wedstrijd | Medaille | Jaar |
@@ -137,6 +204,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 ## 9. Producten (alleen vrijgegeven producten)
 
 - **Bus Cream** — 70 cl, 14,9% — € 24,95. Whiskycream op basis van Bus Single Malt; tonen van vanille, karamel, noga en melkchocolade
+- **Bus Single Malt** — 50 cl, 5 jaar, first fill bourbon, 46% (excl. tube) — € 49,95. Aroma's van graan, mout, hooi en karamel; smaak van karamel en boter, jonge eik, florale tonen, zoete sinaasappel, gedroogd fruit, zoethout, vijgen en bittersweet chocolade
 - Whisky-releases: limited editions, first fill bourbon- en sherryvaten, non-chill filtered, geen additieven
 - Producten in ontwikkeling worden niet in de publieke canon opgenomen tot release
 
@@ -145,7 +213,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 ## 9a. Eten, dieetwensen & allergenen
 
 - Alle menu's zijn ook vegan mogelijk.
-- We houden rekening met gasten die glutenvrij eten en met andere voorkomende dieetwensen of allergenen.
+- We houden rekening met gasten die glutenvrij eten en met andere voorkomende dieetwensen of allergenen. Geef dieetwensen of allergieën vooraf door bij de reservering.
 
 ---
 
