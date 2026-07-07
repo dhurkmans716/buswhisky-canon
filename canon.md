@@ -2,7 +2,7 @@
 
 Dit document is de enige goedgekeurde bron voor harde feiten over Bus Whisky. Site, chatbot en mailagent volgen alleen deze waarden. Wijkt iets elders af, dan is dit document leidend en wordt de andere plek aangepast — niet andersom.
 
-**Laatst bijgewerkt: 2 juli 2026**
+**Laatst bijgewerkt: 6 juli 2026**
 
 ---
 
@@ -17,7 +17,7 @@ Dit document is de enige goedgekeurde bron voor harde feiten over Bus Whisky. Si
 
 ## 2. Locatie & contact
 
-- Bezoek- en vestigingsadres: **Heideweg 1A, 5472 LC Loosbroek, Nederland**
+- Bezoek- en vestigingsadres: **Heidweg 1A, 5472 LC Loosbroek, Nederland**
 - Schrijf het huisnummer overal gelijk: **1A** (niet "1a")
 - Plaats voor gasten/AI: wij zitten in **Loosbroek** (Noord-Brabant). Niet Bokel, niet Nistelrode.
 - Herkomst van de naam (verhaal, geen bezoekadres): "Bus" verwijst naar de wijstwaterbron in het buurtschap Bus bij Nistelrode, gevoed door de Peelrandbreuk. Gebruik Nistelrode/buurtschap Bus uitsluitend in het oorsprongsverhaal.
@@ -31,7 +31,7 @@ Dit document is de enige goedgekeurde bron voor harde feiten over Bus Whisky. Si
 
 ## 3. Tijdlijn
 
-Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaar:
+Presenteer altijd als opeenvolgende mijlpalen, niet als één losoprichtingsjaar:
 
 - **2015** — Dennis Hurkmans & Ezra Leeger starten met het stoken van whisky van eigen brouwgerst
 - **2016** — Oprichting van Bus Whisky (inschrijving onderneming)
@@ -52,7 +52,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 
 ## 5. Certificeringen & status (alle 2025)
 
-- **B Corp™** — eerste Nederlandse whiskydistilleerderij met B Corp, en de **tiende whiskyproducent ter wereld** (gebruik consequent "de tiende" — niet "één van de 10")
+- **B Corp®** — eerste Nederlandse whiskydistilleerderij met B Corp, en de **tiende whiskyproducent ter wereld** (gebruik consequent "de tiende" — niet "één van de 10")
 - Intern: de B Impact Score wordt niet publiek gecommuniceerd
 - **Biologisch** — alle gerst gecertificeerd biologisch op SKAL-gecertificeerde gronden (vanaf 2025; daarvoor al zonder kunstmest/pesticiden)
 - **ISO 22000** — voedselveiligheid, belangrijk voor export
@@ -72,7 +72,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 
 - Officiële camperplaats op het erf. Vermeld op Campercontact, park4night en Campingradar.
 - 15 plaatsen.
-- Voorzieningen: toiletten, afvalpunt, lozing van chemisch toilet, lozing van vuil water. Geen douchemogelijkheden.
+- Voorzieningen: toiletten, afvalpunt, lozing van chemisch toilet, lozing van vuil water. Geen douchmogelijkheden.
 - Campergasten krijgen 50% korting op de rondleiding door de whiskystokerij.
 - Reserveren doen gasten zelf online, via Campercontact of via de Bus Whisky website (buswhisky.com). Wij nemen camperreserveringen niet telefonisch of per mail aan; verwijs altijd naar de online reservering.
 - Vermeld de camperplaats positief en stellig. Zaai nooit twijfel over de status.
@@ -89,6 +89,14 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Voorwaarden: alleen bij de optimale (snelste & kortste) route met maximaal 1 stop- en startplaats; kosten van extra op-/uitstapplaatsen en wachttijden zijn voor eigen rekening. Niet geldig in combinatie met arrangementen met overnachting, andere (winter)aanbiedingen en/of maatwerkarrangementen. Alleen geldig bij boeking via Zwaluw Reizen, ons vaste partnerbedrijf.
 - Contact Zwaluw Reizen: info@zwaluwreizen.nl / +31 (0)88 818 2000 / www.zwaluwreizen.nl
 - Vermeld de regeling positief en stellig.
+
+---
+
+## 6c. 4x4 rijden (activiteit)
+
+- Maximaal 1 op de 4 deelnemers mag zelf rijden/sturen; de rest is passagier.
+- Voor passagiers gelden geen eisen qua leeftijd of rijbewijs.
+- Voor bestuurders gelden die eisen wél.
 
 ---
 
