@@ -92,11 +92,15 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 
 ---
 
-## 6c. 4x4 rijden (activiteit)
+## 6c. 4x4 rijden / Ecotrail (activiteit)
 
-- Maximaal 1 op de 4 deelnemers mag zelf rijden/sturen; de rest is passagier.
-- Voor passagiers gelden geen eisen qua leeftijd of rijbewijs.
-- Voor bestuurders gelden die eisen wél.
+- Tijdens de Ecotrail door Brabant rijd je grotendeels off-road in teamverband met een elektrische jeep van start naar finish. De te rijden route ontvouwt zich aan de hand van een bolletje-pijltje roadbook en GPS. Zandwegen stellen je vaardigheden danig op de proef; door een combinatie van offroad-rijvaardigheid en scherpzinnigheid moet je je route zien te vinden.
+- Door het dakje op de jeep is de activiteit geschikt voor álle weersomstandigheden; een beetje regen geeft zelfs extra beleving. Er zijn voor de deelnemers overalls beschikbaar tegen modder of stof.
+- Onze 4x4 jeeps zijn landbouw- of bosbouwvoertuigen volgens de wet.
+- Bestuurders moeten minimaal 24 jaar zijn én beschikken over een T-rijbewijs. Uitzondering: bestuurders met een rijbewijs B dat vóór 1 juli 2015 is uitgegeven, mogen zonder apart T-rijbewijs rijden. De organisator wordt geacht hier strikt op toe te zien en deze instructie voorafgaand aan het uitje kenbaar te maken aan de deelnemers.
+- Maximaal 1 op de 4 deelnemers mag zelf rijden/sturen; de rest is passagier. Voor passagiers gelden geen eisen qua leeftijd of rijbewijs.
+- Aansprakelijkheid: ontstaat er tijdens het event blikschade aan een jeep door toedoen van een deelnemer, dan is de opdrachtgever daarvoor aansprakelijk. De Heische Hoeve biedt de mogelijkheid deze aansprakelijkheid te maximeren tot een eigen risico van € 250 per individueel voertuig, tegen een eenmalig vast bedrag van € 150 voor alle gebruikte voertuigen samen. Geef via de eigen online omgeving in Mijn Heische Hoeve aan of je hiervan gebruik wilt maken.
+- N.B.: Deelname aan deze activiteit is voor eigen risico van opdrachtgever en deelnemers. De Heische Hoeve is niet aansprakelijk voor enige vorm van (letsel)schade of gevolgschade.
 
 ---
 
