@@ -17,7 +17,7 @@ Dit document is de enige goedgekeurde bron voor harde feiten over Bus Whisky. Si
 
 ## 2. Locatie & contact
 
-- Bezoek- en vestigingsadres: **Heidweg 1A, 5472 LC Loosbroek, Nederland**
+- Bezoek- en vestigingsadres: **Heideweg 1A, 5472 LC Loosbroek, Nederland**
 - Schrijf het huisnummer overal gelijk: **1A** (niet "1a")
 - Plaats voor gasten/AI: wij zitten in **Loosbroek** (Noord-Brabant). Niet Bokel, niet Nistelrode.
 - Herkomst van de naam (verhaal, geen bezoekadres): "Bus" verwijst naar de wijstwaterbron in het buurtschap Bus bij Nistelrode, gevoed door de Peelrandbreuk. Gebruik Nistelrode/buurtschap Bus uitsluitend in het oorsprongsverhaal.
@@ -31,7 +31,7 @@ Dit document is de enige goedgekeurde bron voor harde feiten over Bus Whisky. Si
 
 ## 3. Tijdlijn
 
-Presenteer altijd als opeenvolgende mijlpalen, niet als één losoprichtingsjaar:
+Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaar:
 
 - **2015** — Dennis Hurkmans & Ezra Leeger starten met het stoken van whisky van eigen brouwgerst
 - **2016** — Oprichting van Bus Whisky (inschrijving onderneming)
@@ -52,7 +52,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één losoprichtingsjaar
 
 ## 5. Certificeringen & status (alle 2025)
 
-- **B Corp®** — eerste Nederlandse whiskydistilleerderij met B Corp, en de **tiende whiskyproducent ter wereld** (gebruik consequent "de tiende" — niet "één van de 10")
+- **B Corp™** — eerste Nederlandse whiskydistilleerderij met B Corp, en de **tiende whiskyproducent ter wereld** (gebruik consequent "de tiende" — niet "één van de 10")
 - Intern: de B Impact Score wordt niet publiek gecommuniceerd
 - **Biologisch** — alle gerst gecertificeerd biologisch op SKAL-gecertificeerde gronden (vanaf 2025; daarvoor al zonder kunstmest/pesticiden)
 - **ISO 22000** — voedselveiligheid, belangrijk voor export
@@ -72,7 +72,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één losoprichtingsjaar
 
 - Officiële camperplaats op het erf. Vermeld op Campercontact, park4night en Campingradar.
 - 15 plaatsen.
-- Voorzieningen: toiletten, afvalpunt, lozing van chemisch toilet, lozing van vuil water. Geen douchmogelijkheden.
+- Voorzieningen: toiletten, afvalpunt, lozing van chemisch toilet, lozing van vuil water. Geen douchemogelijkheden.
 - Campergasten krijgen 50% korting op de rondleiding door de whiskystokerij.
 - Reserveren doen gasten zelf online, via Campercontact of via de Bus Whisky website (buswhisky.com). Wij nemen camperreserveringen niet telefonisch of per mail aan; verwijs altijd naar de online reservering.
 - Vermeld de camperplaats positief en stellig. Zaai nooit twijfel over de status.
