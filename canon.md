@@ -2,7 +2,7 @@
 
 Dit document is de enige goedgekeurde bron voor harde feiten over Bus Whisky. Site, chatbot en mailagent volgen alleen deze waarden. Wijkt iets elders af, dan is dit document leidend en wordt de andere plek aangepast — niet andersom.
 
-**Laatst bijgewerkt: 6 juli 2026**
+**Laatst bijgewerkt: 7 juli 2026**
 
 ---
 
@@ -139,6 +139,13 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - **Bus Cream** — 70 cl, 14,9% — € 24,95. Whiskycream op basis van Bus Single Malt; tonen van vanille, karamel, noga en melkchocolade
 - Whisky-releases: limited editions, first fill bourbon- en sherryvaten, non-chill filtered, geen additieven
 - Producten in ontwikkeling worden niet in de publieke canon opgenomen tot release
+
+---
+
+## 9a. Eten, dieetwensen & allergenen
+
+- Alle menu's zijn ook vegan mogelijk.
+- We houden rekening met gasten die glutenvrij eten en met andere voorkomende dieetwensen of allergenen.
 
 ---
 
