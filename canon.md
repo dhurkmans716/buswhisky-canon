@@ -234,6 +234,19 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 
 ---
 
+## 6o. Beschikbaarheid checken (bots)
+
+- Actuele beschikbaarheid wordt realtime bepaald en staat NIET als datumlijst in de canon; die zou direct verouderen.
+- Bronnen: Formitable voor restaurant, B&B, rondleidingen en whiskyproeverijen; KMT voor vergaderingen, bedrijfsuitjes en bruiloften. De publieke check per categorie en arrangement (met alternatieve data bij volgeboekt) staat op heischehoeve.com/beschikbaarheid.
+- De AI-kanalen (website-chatbot, mailagent en de AI-telefoniste) gebruiken hiervoor een gedeelde beschikbaarheids-tool; ze checken alleen en boeken nooit zelf. Bij twijfel of voor het definitief boeken: verwijs naar heischehoeve.com/beschikbaarheid of bied aan iemand te laten terugbellen of mailen.
+- Vaste regels om alvast op te reageren, ook zonder live check:
+  - Bruiloften: alleen in juli/augustus (hoogseizoen) en 1 november–31 maart (LIGHT-arrangement); niet in mei, juni, september en oktober. Altijd 2 overnachtingen.
+  - B&B: arrangementen zijn altijd inclusief overnachting (minimaal 1 nacht).
+  - Restaurant: 7 dagen per week open; reserveren wordt sterk aanbevolen.
+  - Bedrijfsuitjes: van 4 tot 400 personen; de datum-beschikbaarheid loopt via KMT.
+
+---
+
 ## 7. Awards (canonieke lijst)
 
 | Wedstrijd | Medaille | Jaar |
