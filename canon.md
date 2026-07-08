@@ -121,12 +121,12 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 ## 6e. Restaurant (Proef Lokaal)
 
 - Het restaurant is een proeflokaal en farmhouse restaurant in Loosbroek. Geen à la carte, maar een regelmatig wisselend **table d'hôte verrassingsmenu** met kleine gerechten; seizoensgebonden, vrijwel volledig biologisch, met lokale producten en uit eigen voedselbos.
-- Menuprijzen: 1 gang € 19,50 · 2 gangen € 32,50 · 3 gangen € 45,00 · 4 gangen € 55,00 · 5 gangen € 65,00.
+- Menuprijzen: 1 gang € 24,50 · 2 gangen € 39,50 · 3 gangen € 49,50 · 4 gangen € 59,50 · 5 gangen € 69,50.
 - Per gang is een whisky-, wijn- of alcoholvrije pairing mogelijk (wijnarrangement ook in BOB-variant; mocktails beschikbaar). Elk menu is ook vegan te bestellen.
 - Weekenddeal: elke vrijdag (17:00) en zondag (14:00) whiskytour + 3 gangen diner voor € 49,50 (normaal € 62,50); een extra gang is € 10.
 - Huisgebrouwen dranken: eigen bieren van eigen brouwgerst, cider van eigen appels, craft soda's, eau-de-vie en likeuren met fruit uit eigen voedselbos.
 - Reserveren is noodzakelijk (beperkte capaciteit; bij geen reserveringen kan de chef sluiten om verspilling te voorkomen).
-- Openingstijden restaurant: zie §8. [TE BEVESTIGEN: de site vermeldt op één plek "woensdag gesloten voor diner", elders "7 dagen open" — §8 is leidend tot bevestiging.]
+- Openingstijden restaurant: zie §8 (7 dagen per week open voor diner; za & zo ook lunch vanaf 12:00).
 
 ---
 
