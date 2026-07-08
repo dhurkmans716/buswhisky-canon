@@ -76,6 +76,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 
 - Officiële camperplaats op het erf. Vermeld op Campercontact, park4night en Campingradar.
 - 15 plaatsen.
+- Let op: dit is een camperplaats, dus we ontvangen uitsluitend campers — helaas geen caravans of tenten.
 - Prijs: vanaf **€ 15,- per nacht** (excl. toeristenbelasting), inclusief gratis water en elektra (6A). Toiletgebruik tijdens de openingstijden van het restaurant.
 - Geen wifi op de camperplaats (wel wifi in het hoofdgebouw en de B&B-kamers).
 - Camping Culinair: campergasten kunnen aanschuiven voor een 4-gangen diner met whisky-pairings in festivalsfeer (aparte editie; online boeken).
