@@ -137,7 +137,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Per gang is een whisky-, wijn- of alcoholvrije pairing mogelijk (wijnarrangement ook in BOB-variant; mocktails beschikbaar). Elk menu is ook vegan te bestellen.
 - Weekenddeal: elke vrijdag (17:00) en zondag (14:00) whiskytour + 3 gangen diner voor € 49,50 (normaal € 62,50); een extra gang is € 10.
 - Huisgebrouwen dranken: eigen bieren van eigen brouwgerst, cider van eigen appels, craft soda's, eau-de-vie en likeuren met fruit uit eigen voedselbos.
-- Reserveren heeft onze voorkeur (beperkte capaciteit; bij weinig of geen reserveringen kan de chef besluiten te sluiten om verspilling te voorkomen). Inloop is ook mogelijk, maar zonder reservering is er geen garantie op een plek.
+- Reserveren heeft onze voorkeur. Inloop is ook mogelijk, maar zonder reservering is er geen garantie op een plek.
 - Openingstijden restaurant: zie §8 (7 dagen per week open voor diner; za & zo ook lunch vanaf 12:00).
 
 ---
