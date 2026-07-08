@@ -216,7 +216,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 ## 6l. Winkel, retail & investeren
 
 - Bus Whisky is te koop in de eigen winkel/slijterij bij de distilleerderij en online (buswhisky.com/slijterij). Er is ook een dealer locator voor lokale verkooppunten.
-- **Cadeaubonnen** zijn beschikbaar voor whiskyproeverijen en andere belevenissen.
+- **Cadeaubonnen** zijn beschikbaar voor whiskyproeverijen en andere belevenissen. Ze zijn te koop in de winkel/slijterij (tijdens de winkel-/receptietijden, zie §8) én online (buswhisky.com, giftshop). Er zijn ook 'message in a bottle'-flesjes met een waardebon erin, als origineel cadeau.
 - **Investeren:** je kunt investeren in aandelen of een eigen whiskyvat kopen (buswhisky.com/investeren).
 
 ---
@@ -262,17 +262,19 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 
 ## 8. Openingstijden (definitief — 7 dagen open)
 
-| Dag | Restaurant | Rondleidingen |
-|---|---|---|
-| Maandag | 15:30–22:00 | 16:00 |
-| Dinsdag | 15:30–22:00 | 16:00 |
-| Woensdag | 15:30–22:00 | 16:00 |
-| Donderdag | 15:30–22:00 | 16:00 |
-| Vrijdag | 15:30–22:00 | 16:00 en 17:30 |
-| Zaterdag | 12:00–22:00 | 14:30 en 16:00 |
-| Zondag | 12:00–22:00 | 14:30 en 16:00 |
+| Dag | Restaurant | Winkel & receptie | Rondleidingen |
+|---|---|---|---|
+| Maandag | 15:30–22:00 | 8:00–17:30 | 16:00 |
+| Dinsdag | 15:30–22:00 | 8:00–17:30 | 16:00 |
+| Woensdag | 15:30–22:00 | 8:00–17:30 | 16:00 |
+| Donderdag | 15:30–22:00 | 8:00–17:30 | 16:00 |
+| Vrijdag | 15:30–22:00 | 8:00–17:30 | 16:00 en 17:30 |
+| Zaterdag | 12:00–22:00 | 10:00–17:30 | 14:30 en 16:00 |
+| Zondag | 12:00–22:00 | 10:00–17:30 | 14:30 en 16:00 |
 
 - Restaurant is **7 dagen per week** open
+- **Winkel en receptie** zijn los van het restaurant geopend: maandag t/m vrijdag 8:00–17:30, zaterdag en zondag 10:00–17:30
+- Let op: het restaurant opent pas om 15:30 (za & zo 12:00), maar winkel en receptie zijn overdag al eerder open — verwar deze tijden niet. Wie langs wil komen voor bijvoorbeeld een cadeaubon of aankoop kan overdag terecht tijdens de winkel-/receptietijden
 - Tijden altijd met dubbele punt: 16:00 (niet 16.00)
 - Rondleidingen in vaste volgorde vroeg naar laat
 
