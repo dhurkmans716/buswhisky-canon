@@ -2,7 +2,7 @@
 
 Dit document is de enige goedgekeurde bron voor harde feiten over Bus Whisky. Site, chatbot en mailagent volgen alleen deze waarden. Wijkt iets elders af, dan is dit document leidend en wordt de andere plek aangepast — niet andersom.
 
-**Laatst bijgewerkt: 7 juli 2026**
+**Laatst bijgewerkt: 8 juli 2026**
 
 ---
 
@@ -28,6 +28,7 @@ Dit document is de enige goedgekeurde bron voor harde feiten over Bus Whisky. Si
 - KvK: 17207582
 - BTW: NL818075119B01
 - IBAN: NL75 RABO 0129 0736 95 / BIC: RABONL2U
+- Betalen: **geen contant geld**; wel pinpas, creditcard en NFC/mobiel betalen (bijv. Apple Pay / Google Pay).
 
 ---
 
@@ -75,6 +76,9 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 
 - Officiële camperplaats op het erf. Vermeld op Campercontact, park4night en Campingradar.
 - 15 plaatsen.
+- Prijs: vanaf **€ 15,- per nacht** (excl. toeristenbelasting), inclusief gratis water en elektra (6A). Toiletgebruik tijdens de openingstijden van het restaurant.
+- Geen wifi op de camperplaats (wel wifi in het hoofdgebouw en de B&B-kamers).
+- Camping Culinair: campergasten kunnen aanschuiven voor een 4-gangen diner met whisky-pairings in festivalsfeer (aparte editie; online boeken).
 - Voorzieningen: toiletten, afvalpunt, lozing van chemisch toilet, lozing van vuil water. Geen douchemogelijkheden.
 - Campergasten krijgen 50% korting op de rondleiding door de whiskystokerij.
 - Reserveren doen gasten zelf online, via Campercontact of via de Bus Whisky website (buswhisky.com). Wij nemen camperreserveringen niet telefonisch of per mail aan; verwijs altijd naar de online reservering.
@@ -118,10 +122,19 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 
 ---
 
+## 6d-1. Reserveren, walk-in & bevestiging
+
+- Reserveren wordt sterk aanbevolen; restaurant én rondleidingen zitten vaak vol. Walk-ins zijn welkom, maar zonder reservering is er geen garantie op plek.
+- Voor standaardreserveringen is **geen aanbetaling** nodig.
+- Bevestiging: bij een online reservering volgt automatisch een bevestiging per e-mail; bij een telefonische reservering bevestigen we via WhatsApp. Een e-mailbevestiging kan altijd op verzoek (mail naar info@buswhisky.com).
+
+---
+
 ## 6e. Restaurant (Proef Lokaal)
 
 - Het restaurant is een proeflokaal en farmhouse restaurant in Loosbroek. Geen à la carte, maar een regelmatig wisselend **table d'hôte verrassingsmenu** met kleine gerechten; seizoensgebonden, vrijwel volledig biologisch, met lokale producten en uit eigen voedselbos.
 - Menuprijzen: 1 gang € 24,50 · 2 gangen € 39,50 · 3 gangen € 49,50 · 4 gangen € 59,50 · 5 gangen € 69,50.
+- [TE CONTROLEREN: deze menuprijzen zijn mogelijk €5/gang te hoog. De weekenddeal hieronder (tour + 3-gangen diner € 49,50, normaal € 62,50) impliceert een 3-gangen diner van € 45,00 en dus prijzen 1: € 19,50 · 2: € 32,50 · 3: € 45,00 · 4: € 55,00 · 5: € 65,00. Dennis controleert welke set klopt.]
 - Per gang is een whisky-, wijn- of alcoholvrije pairing mogelijk (wijnarrangement ook in BOB-variant; mocktails beschikbaar). Elk menu is ook vegan te bestellen.
 - Weekenddeal: elke vrijdag (17:00) en zondag (14:00) whiskytour + 3 gangen diner voor € 49,50 (normaal € 62,50); een extra gang is € 10.
 - Huisgebrouwen dranken: eigen bieren van eigen brouwgerst, cider van eigen appels, craft soda's, eau-de-vie en likeuren met fruit uit eigen voedselbos.
@@ -165,6 +178,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 ## 6i. Huisdieren, toegankelijkheid & kinderen
 
 - Honden zijn welkom op het buitenterrein en op het overdekte, verwarmde terras, maar niet in het restaurant (open keuken), niet op de B&B-kamers en niet mee tijdens de rondleiding. Hulphonden/assistentiehonden zijn wettelijk wel toegestaan in het restaurant, mits niet te dicht bij eten/drinken.
+- Kinderstoelen zijn aanwezig. Er is buitenzitplaats op het (overdekte, verwarmde) terras.
 - Toegankelijkheid: restaurant, B&B-kamers en de meeste publieke ruimtes zijn op de begane grond en goed rolstoeltoegankelijk; de rondleidingsroute is volledig rolstoeltoegankelijk. Er is een miva-toilet met douche bij de bar. Er zijn vier iets ruimere kamers op de begane grond (badkamers daar zijn niet specifiek miva-uitgevoerd). Een echte miva-kamer is er (nog) niet — bij twijfel vooraf even bellen/mailen.
 - Kinderen: minimumleeftijd rondleiding in principe 18 jaar (NIX18); deelname van kinderen wordt ontraden.
 - Fietsverhuur mogelijk via vaste partner Mastworp fietsenverhuur (bezorgen en ophalen bij Bus Whisky).
@@ -188,6 +202,36 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - **Bezichtigingen:** alleen op afspraak, op basis van een concrete offerte of optie. Tarieven zijn vast en niet onderhandelbaar.
 - **Bekende bruiloften:** o.a. Bizzey (Leo) & Renée (2014, bohemian/festival) en presentatrice en Wie-is-de-Mol-deelneemster Evelien de Bruijn & Paul van der Lugt (2015).
 - **Contact bruiloften:** landelijkebruiloft.nl · info@heischehoeve.nl · 0413-229153.
+
+---
+
+## 6k. Whisky-proeverijen
+
+- Naast de reguliere rondleiding zijn er aparte whisky-proeverijen met meerdere opties.
+- Rondleiding met uitgebreide whiskyproeverij: boekbaar op **donderdag om 20:00 uur, elke 8 weken**. Online reserveren.
+- **Proeverij op eigen locatie:** mogelijk vanaf **€ 35,- per persoon** (minimaal 10 personen).
+
+---
+
+## 6l. Winkel, retail & investeren
+
+- Bus Whisky is te koop in de eigen winkel/slijterij bij de distilleerderij en online (buswhisky.com/slijterij). Er is ook een dealer locator voor lokale verkooppunten.
+- **Cadeaubonnen** zijn beschikbaar voor whiskyproeverijen en andere belevenissen.
+- **Investeren:** je kunt investeren in aandelen of een eigen whiskyvat kopen (buswhisky.com/investeren).
+
+---
+
+## 6m. Theatershow
+
+- De Bus Whisky Theatershow is een live-event dat whisky-storytelling, muziek en entertainment combineert, vaak gehost in bioscopen of bijzondere locaties. Kaarten en data online (buswhisky.com/theatershow).
+
+---
+
+## 6n. In de omgeving
+
+- Volop wandelen en fietsen in natuurgebied de Maashorst.
+- In de buurt: Alpacaboerderij Vorstenbosch, de Kilsdonkse Molen (watermolen), de brouwerij bij Abdij van Berne en Kasteel Heeswijk.
+- Aanrader: de binnenstad van 's-Hertogenbosch, met o.a. een rondvaart over de Binnendieze.
 
 ---
 
@@ -244,3 +288,23 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - **Engels:** vriendelijk, informeel
 - De chatbot/mailagent is Bus Whisky en noemt zichzelf nooit AI, bot, model of script, en verwijst nooit naar "kennisbank", "de informatie die aan mij is meegegeven" of "de beheerders"
 - Weet de agent iets niet zeker: eerlijk zeggen, niets verzinnen, aanbieden door te verbinden of de vraag te laten mailen
+
+---
+
+## 11. Online boeken & handige links
+
+Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsApp te sturen).
+
+- Restaurant / Proef Lokaal reserveren: buswhisky.com/proeflokaal
+- Whisky-proeverijen boeken: buswhisky.com/whiskyproeverij
+- Bed & Breakfast: buswhisky.com/bed-breakfast-brabant-whiskystokerij
+- Theatershow: buswhisky.com/theatershow
+- Camperplaats reserveren: via Campercontact (camperplaats Bus Whisky Distillers, Loosbroek)
+- Camping Culinair: buswhisky.com/camping-culinair-winteredition
+- Winkel / slijterij: buswhisky.com/slijterij
+- Cadeaubonnen: buswhisky.com (giftshop)
+- Investeren / eigen vat: buswhisky.com/investeren
+- Werken bij: buswhisky.com/werken
+- Bedrijfsuitjes, meetings & beschikbaarheid: heischehoeve.com
+- Bruiloften: landelijkebruiloft.nl
+- Route (Google Maps): op verzoek delen
