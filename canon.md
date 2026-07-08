@@ -134,7 +134,6 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 
 - Het restaurant is een proeflokaal en farmhouse restaurant in Loosbroek. Geen à la carte, maar een regelmatig wisselend **table d'hôte verrassingsmenu** met kleine gerechten; seizoensgebonden, vrijwel volledig biologisch, met lokale producten en uit eigen voedselbos.
 - Menuprijzen: 1 gang € 24,50 · 2 gangen € 39,50 · 3 gangen € 49,50 · 4 gangen € 59,50 · 5 gangen € 69,50.
-- [TE CONTROLEREN: deze menuprijzen zijn mogelijk €5/gang te hoog. De weekenddeal hieronder (tour + 3-gangen diner € 49,50, normaal € 62,50) impliceert een 3-gangen diner van € 45,00 en dus prijzen 1: € 19,50 · 2: € 32,50 · 3: € 45,00 · 4: € 55,00 · 5: € 65,00. Dennis controleert welke set klopt.]
 - Per gang is een whisky-, wijn- of alcoholvrije pairing mogelijk (wijnarrangement ook in BOB-variant; mocktails beschikbaar). Elk menu is ook vegan te bestellen.
 - Weekenddeal: elke vrijdag (17:00) en zondag (14:00) whiskytour + 3 gangen diner voor € 49,50 (normaal € 62,50); een extra gang is € 10.
 - Huisgebrouwen dranken: eigen bieren van eigen brouwgerst, cider van eigen appels, craft soda's, eau-de-vie en likeuren met fruit uit eigen voedselbos.
