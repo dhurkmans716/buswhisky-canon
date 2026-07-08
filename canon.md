@@ -329,6 +329,8 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsApp te sturen).
 
 - Restaurant / Proef Lokaal reserveren: buswhisky.com/proeflokaal
+- Rondleiding / whiskytour reserveren: https://buswhisky.com/activiteiten?ft-ticket=ef9aafe5
+  - Groepsrondleiding (vanaf 15 personen, scherper tarief € 15,00 p.p. en tijd in overleg): https://buswhisky.com/activiteiten?ft-ticket=2d463b72
 - Whisky-proeverijen boeken: buswhisky.com/whiskyproeverij
   - Donderdagproeverij (rondleiding + uitgebreide whiskyproeverij, do 20:00) — deeplink: https://buswhisky.com/whiskyproeverij?ft-ticket=e0ee264c
 - Bed & Breakfast: buswhisky.com/bed-breakfast-brabant-whiskystokerij
