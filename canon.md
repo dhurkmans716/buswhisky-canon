@@ -157,7 +157,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 ## 6h. Parkeren, opladen & faciliteiten
 
 - Gratis parkeergelegenheid op het terrein.
-- Gratis laadpalen voor elektrische auto's (momenteel 8 laadplekken, wordt uitgebreid).
+- Laadpalen voor elektrische auto's (momenteel 8 laadplekken, wordt uitgebreid); opladen is betaald.
 - Overdekt en verwarmd terras.
 
 ---
