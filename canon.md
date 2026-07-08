@@ -349,3 +349,8 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 - Bedrijfsuitjes, meetings & beschikbaarheid: heischehoeve.com
 - Bruiloften: landelijkebruiloft.nl
 - Route (Google Maps): op verzoek delen
+
+### Automatisch gesynct — Formitable-deeplinks (niet handmatig bewerken tussen de markers)
+
+<!-- FORMITABLE-DEEPLINKS:START -->
+<!-- FORMITABLE-DEEPLINKS:END -->
