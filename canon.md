@@ -183,7 +183,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
   - Weekendbruiloft LIGHT laagseizoen (vrijdag–zondag, 1 november–31 maart): € 6.950
   - Midweekbruiloft hoogseizoen (dinsdag–donderdag, juli/augustus): € 8.950
   - Weekendbruiloft hoogseizoen (vrijdag–zondag, juli/augustus): € 11.950
-- **Seizoen:** hoogseizoen is juli en augustus. [TE BEVESTIGEN: de tarievenpagina meldt elders dat er in herfst/winter geen bruiloften mogelijk zijn, terwijl het LIGHT-arrangement van 1 november tot 31 maart loopt — graag verduidelijken.]
+- **Seizoen:** hoogseizoen is juli en augustus; ook in de herfst- en winterperiode zijn bruiloften mogelijk (LIGHT-arrangement, 1 november–31 maart). In mei, juni, september en oktober zijn er géén bruiloften.
 - **Bijkomende kosten:** borg € 500, schoonmaak € 350, linnenverhuur (verplicht) € 7,50 p.p., toeristenbelasting € 1,40 per persoon per nacht.
 - **Bezichtigingen:** alleen op afspraak, op basis van een concrete offerte of optie. Tarieven zijn vast en niet onderhandelbaar.
 - **Bekende bruiloften:** o.a. Bizzey (Leo) & Renée (2014, bohemian/festival) en presentatrice en Wie-is-de-Mol-deelneemster Evelien de Bruijn & Paul van der Lugt (2015).
