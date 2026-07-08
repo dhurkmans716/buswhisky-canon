@@ -77,10 +77,10 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Officiële camperplaats op het erf. Vermeld op Campercontact, park4night en Campingradar.
 - 15 plaatsen.
 - Let op: dit is een camperplaats, dus we ontvangen uitsluitend campers — helaas geen caravans of tenten.
-- Prijs: vanaf **€ 15,- per nacht** (excl. toeristenbelasting), inclusief gratis water en elektra (6A). Toiletgebruik tijdens de openingstijden van het restaurant.
+- Prijs: vanaf **€ 13,50 per nacht** (excl. lokale heffingen), inclusief gratis water en elektra (6A). De toiletten van het restaurant zijn 24/7 beschikbaar voor campergasten.
 - Geen wifi op de camperplaats (wel wifi in het hoofdgebouw en de B&B-kamers).
-- Camping Culinair: campergasten kunnen aanschuiven voor een 4-gangen diner met whisky-pairings in festivalsfeer (aparte editie; online boeken).
-- Voorzieningen: toiletten, afvalpunt, lozing van chemisch toilet, lozing van vuil water. Geen douchemogelijkheden.
+- Camping Culinair: campergasten kunnen aanschuiven voor een 4-gangen diner met whisky-pairings in festivalsfeer. Dit is er alleen op geselecteerde dagen (ongeveer 1x per maand en op feestdagen); online boeken.
+- Voorzieningen: kosteloze loospunten voor vuil water en chemisch toilet en kosteloze afvalinzameling. Er zijn geen douches.
 - Campergasten krijgen 50% korting op de rondleiding door de whiskystokerij.
 - Reserveren doen gasten zelf online, via Campercontact of via de Bus Whisky website (buswhisky.com). Wij nemen camperreserveringen niet telefonisch of per mail aan; verwijs altijd naar de online reservering.
 - Vermeld de camperplaats positief en stellig. Zaai nooit twijfel over de status.
