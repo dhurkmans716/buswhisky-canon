@@ -171,6 +171,26 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 
 ---
 
+## 6j. Bruiloften (De Heische Hoeve)
+
+- De Heische Hoeve is een **officiële trouwlocatie** in Loosbroek: je kunt er trouwen (op het romantische eiland in de tuin), vieren én met alle gasten overnachten — alles op één locatie. Aparte website: landelijkebruiloft.nl.
+- **Doe-het-zelf concept:** je bepaalt zelf sfeer, thema, aankleding, tafelindeling en catering; geen verplichte huiscateraar of horecaverplichtingen. Al het meubilair en servies staat kosteloos tot je beschikking.
+- **Exclusiviteit:** er is altijd maar één bruiloft tegelijk; je hebt exclusief een eigen vleugel met tuin.
+- **Locatie:** ruim 40.000 m² met tuinen, waterpartijen, trouweiland, wijngaard, fruitboomgaarden, moestuinen en de eigen whiskystokerij. Overdekt terras voor diner in de tuin; zalen met dansvloer voor binnen.
+- **Capaciteit:** minimaal 40, maximaal 200 personen. Overnachten voor 56 personen (28 hotelkamers).
+- **Altijd 2 overnachtingen:** de huur is op basis van 2 nachten (dag ervoor, trouwdag, dag erna). Een bruiloft zonder overnachting of met slechts 1 overnachting is niet mogelijk.
+- **Arrangementen (2 dagen, inclusief onbeperkt koffie/thee/frisdrank, 2 fusten bier van 50 liter en 40 flessen wijn):**
+  - Weekendbruiloft LIGHT laagseizoen (vrijdag–zondag, 1 november–31 maart): € 6.950
+  - Midweekbruiloft hoogseizoen (dinsdag–donderdag, juli/augustus): € 8.950
+  - Weekendbruiloft hoogseizoen (vrijdag–zondag, juli/augustus): € 11.950
+- **Seizoen:** hoogseizoen is juli en augustus. [TE BEVESTIGEN: de tarievenpagina meldt elders dat er in herfst/winter geen bruiloften mogelijk zijn, terwijl het LIGHT-arrangement van 1 november tot 31 maart loopt — graag verduidelijken.]
+- **Bijkomende kosten:** borg € 500, schoonmaak € 350, linnenverhuur (verplicht) € 7,50 p.p., toeristenbelasting € 1,40 per persoon per nacht.
+- **Bezichtigingen:** alleen op afspraak, op basis van een concrete offerte of optie. Tarieven zijn vast en niet onderhandelbaar.
+- **Bekende bruiloften:** o.a. Bizzey (Leo) & Renée (2014, bohemian/festival) en presentatrice en Wie-is-de-Mol-deelneemster Evelien de Bruijn & Paul van der Lugt (2015).
+- **Contact bruiloften:** landelijkebruiloft.nl · info@heischehoeve.nl · 0413-229153.
+
+---
+
 ## 7. Awards (canonieke lijst)
 
 | Wedstrijd | Medaille | Jaar |
