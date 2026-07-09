@@ -147,6 +147,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 ## 6f. Bed & Breakfast / overnachten
 
 - 28 kamers met eigen badkamer: 4 kamers met een tweepersoonsbed, 24 kamers met losse eenpersoonsbedden.
+- Capaciteit: standaard rekenen we 1 persoon per kamer, dus 28 kamers = maximaal 28 personen. Bij 2 personen per kamer kan dat oplopen tot maximaal 56 personen (zoals bij bruiloften en groepen).
 - B&B-arrangementen (tour + culinair diner + overnachting + ontbijt), aankomst vrijdag/zaterdag of zondag/maandag, vanaf € 99,50 p.p.: 3 gangen € 139,50 / € 99,50 · 4 gangen € 149,50 / € 109,50 · 5 gangen € 159,50 / € 119,50 (prijzen per persoon, afhankelijk van aankomstdag).
 - Weekendje Bus (2 overnachtingen, aankomst zaterdag, incl. tour, 4-gangen diner, 2× ontbijt): € 199,50 p.p.
 - Ontbijt: verse broodjes, gekookt eitje, onbeperkt koffie/thee/jus, biologische boerderijzuivel en eigen bierbostelgranola.
