@@ -198,6 +198,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 
 - De Heische Hoeve is een **officiële trouwlocatie** in Loosbroek: je kunt er trouwen (op het romantische eiland in de tuin), vieren én met alle gasten overnachten — alles op één locatie. Aparte website: landelijkebruiloft.nl.
 - **Doe-het-zelf concept:** je bepaalt zelf sfeer, thema, aankleding, tafelindeling en catering; geen verplichte huiscateraar of horecaverplichtingen. Al het meubilair en servies staat kosteloos tot je beschikking.
+- **Catering verzorgen wij NIET** — ook niet als maatwerk of speciale wens. Bied catering door ons of het bruiloftsteam dus nooit aan; het bruiloftsconcept is bewust doe-het-zelf, gasten regelen hun eigen catering. Wat wél kan: gasten kunnen een gewone restaurantreservering maken voor een diner in ons proeflokaal.
 - **Exclusiviteit:** er is altijd maar één bruiloft tegelijk; je hebt exclusief een eigen vleugel met tuin.
 - **Locatie:** ruim 40.000 m² met tuinen, waterpartijen, trouweiland, wijngaard, fruitboomgaarden, moestuinen en de eigen whiskystokerij. Overdekt terras voor diner in de tuin; zalen met dansvloer voor binnen.
 - **Capaciteit:** minimaal 40, maximaal 200 personen. Overnachten voor 56 personen (28 hotelkamers).
