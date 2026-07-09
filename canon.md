@@ -150,6 +150,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Capaciteit — HARD MAXIMUM (overnachten): 28 kamers, elk voor **maximaal 2 personen**, dus wij kunnen **maximaal 56 gasten laten overnachten** — nooit meer. Standaard rekenen we 1 persoon per kamer (28 personen); bij 2 per kamer maximaal 56 (zoals bij bruiloften en groepen). Zeg dit stellig en beloof of boek nooit een overnachting voor meer dan 56 personen.
 - Meer dan 56 overnachtingen nodig? Extra kamers kunnen eventueel geboekt worden bij **Fletcher Hotel Uden** (vlakbij). En voor liefhebbers met een camper hebben we **15 camperplaatsen** op eigen erf (zie §6a).
 - B&B-arrangementen (tour + culinair diner + overnachting + ontbijt), aankomst vrijdag/zaterdag of zondag/maandag, vanaf € 99,50 p.p.: 3 gangen € 139,50 / € 99,50 · 4 gangen € 149,50 / € 109,50 · 5 gangen € 159,50 / € 119,50 (prijzen per persoon, afhankelijk van aankomstdag).
+- In de maanden **juli en augustus** is de B&B ook boekbaar met aankomst op **dinsdag, woensdag en donderdag** (naast de gebruikelijke aankomstdagen vrijdag/zaterdag en zondag/maandag).
 - Weekendje Bus (2 overnachtingen, aankomst zaterdag, incl. tour, 4-gangen diner, 2× ontbijt): € 199,50 p.p.
 - Ontbijt: verse broodjes, gekookt eitje, onbeperkt koffie/thee/jus, biologische boerderijzuivel en eigen bierbostelgranola.
 - Alle kamers hebben wifi (glasvezel).
