@@ -217,7 +217,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 ## 6k. Whisky-proeverijen
 
 - Naast de reguliere rondleiding zijn er aparte whisky-proeverijen met meerdere opties.
-- Rondleiding met uitgebreide whiskyproeverij: boekbaar op **donderdag om 20:00 uur, elke 8 weken**. Online reserveren.
+- Rondleiding met uitgebreide whiskyproeverij (de 'donderdagproeverij'): **alleen op donderdagavond om 20:00 uur en maar één keer per 8 weken — dus NIET elke donderdag.** Prijs **€ 50,- per persoon**. Inclusief een uitgebreide rondleiding (stokerij, warehouse en bottelarij) plus het proeven van de new make en 4 verschillende whiskyreleases, met uitleg per release. Eventueel te combineren met een diner in het restaurant. Presenteer dit nooit als 'elke donderdag' en reken zélf geen datum uit; stuur de gast de deeplink (§11) om de beschikbare donderdagen en de prijs te checken.
 - **Proeverij op eigen locatie:** mogelijk vanaf **€ 35,- per persoon** (minimaal 10 personen).
 
 ---
@@ -426,7 +426,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 - Rondleiding / whiskytour reserveren: https://buswhisky.com/activiteiten?ft-ticket=ef9aafe5
   - Groepsrondleiding (vanaf 15 personen, scherper tarief € 15,00 p.p. en tijd in overleg): https://buswhisky.com/activiteiten?ft-ticket=2d463b72
 - Whisky-proeverijen boeken: buswhisky.com/whiskyproeverij
-  - Donderdagproeverij (rondleiding + uitgebreide whiskyproeverij, do 20:00) — deeplink: https://buswhisky.com/whiskyproeverij?ft-ticket=e0ee264c
+  - Donderdagproeverij (rondleiding + uitgebreide whiskyproeverij, donderdag 20:00, één keer per 8 weken, € 50 p.p.) — deeplink: https://buswhisky.com/whiskyproeverij?ft-ticket=e0ee264c
 - Bed & Breakfast: buswhisky.com/bed-breakfast-brabant-whiskystokerij
   - B&B 3-gangen — aankomst vr/za: https://buswhisky.com/bed-breakfast-brabant-whiskystokerij?ft-ticket=06ef4002 | zo/ma: https://buswhisky.com/bed-breakfast-brabant-whiskystokerij?ft-ticket=136c5210
   - B&B 4-gangen — aankomst vr/za: https://buswhisky.com/bed-breakfast-brabant-whiskystokerij?ft-ticket=1ea3b7b8 | zo/ma: https://buswhisky.com/bed-breakfast-brabant-whiskystokerij?ft-ticket=6ff63a2d
