@@ -231,7 +231,35 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 
 ## 6m. Theatershow
 
-- De Bus Whisky Theatershow is een live-event dat whisky-storytelling, muziek en entertainment combineert, vaak gehost in bioscopen of bijzondere locaties. Kaarten en data online (buswhisky.com/theatershow).
+- De Bus Whisky Theatershow is een live-event dat whisky-storytelling, muziek en entertainment combineert, gehost in theaters door heel Nederland. Kaarten via buswhisky.com/theatershow of de kassa van het betreffende theater.
+- Vraagt iemand naar een specifieke plaats die niet in de onderstaande lijst staat: noem de eerstvolgende voorstelling(en) die qua reisafstand het dichtst bij die plaats liggen (met datum en theater), en zeg er eerlijk bij dat er in die plaats zelf (nog) geen voorstelling gepland staat.
+- Noem uitsluitend data en locaties uit de onderstaande lijst; verzin nooit een datum of plaats. Staat er niets (meer) in de toekomst, verwijs dan naar buswhisky.com/theatershow.
+
+### Speellijst theatershow (automatisch gesynct uit buswhisky.com/theatershow — niet handmatig bewerken tussen de markers)
+
+<!-- THEATERSHOW:START -->
+- 11 september 2026 — Amersfoort, Flint (muziek: Erwin Nyhoff)
+- 16 september 2026 — Uden, Markant (muziek: Björn van der Doelen)
+- 17 september 2026 — Roosendaal, De Kring (muziek: Björn van der Doelen)
+- 2 oktober 2026 — Hendrik-Ido-Ambacht, CC Cascade (muziek: Erwin Nyhoff)
+- 9 oktober 2026 — Helmond, Theater het Speelhuis (muziek: Erwin Nyhoff)
+- 29 oktober 2026 — Weert, Munttheater (muziek: Erwin Nyhoff)
+- 6 november 2026 — Gorredijk, De Skans (muziek: Erwin Nyhoff)
+- 7 november 2026 — Oosterhout, Theater de Bussel (muziek: Björn van der Doelen)
+- 20 november 2026 — Roermond, Theater de Oranjerie (muziek: Björn van der Doelen)
+- 27 november 2026 — Wijchen, Theater 't Mozaïek (muziek: Björn van der Doelen)
+- 29 november 2026 — Coevorden, Theater Hofpoort (muziek: Erwin Nyhoff)
+- 2 december 2026 — Goirle, CC Jan van Besouw (muziek: Björn van der Doelen)
+- 9 januari 2027 — Mill, Myllesweerd (muziek: Björn van der Doelen)
+- 16 januari 2027 — Bladel, Gemeenschapscentrum BRUIS (muziek: Björn van der Doelen)
+- 28 januari 2027 — Zutphen, Theater Hanzehof (muziek: Erwin Nyhoff)
+- 29 januari 2027 — Capelle aan den IJssel, Isala Theater (muziek: Björn van der Doelen)
+- 17 februari 2027 — Purmerend, Theater de Purmaryn (muziek: Erwin Nyhoff)
+- 26 februari 2027 — Venray, Schouwburg Venray (muziek: Björn van der Doelen)
+- 5 maart 2027 — Ulft, DRU Industriepark (muziek: Björn van der Doelen)
+- 6 maart 2027 — Nijkerk, Streams Breede Beeck (muziek: Erwin Nyhoff)
+- 13 maart 2027 — Heesch, CC De Pas (muziek: Björn van der Doelen)
+<!-- THEATERSHOW:END -->
 
 ---
 
