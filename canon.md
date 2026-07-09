@@ -178,7 +178,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Ruim terrein (ca. 40.000 m²) met tuinen, waterpartijen, wijngaard, fruitboomgaarden, moestuinen en eigen voedselbos; de whiskystokerij staat op het erf.
 - Miva-toilet met douche bij de bar.
 - Bijzondere terreinfaciliteiten: wijngaard, voedselbos, forelvijver en bijenstal.
-- E-bikes kunnen gasten gratis opladen (de betaalde laadpalen zijn voor elektrische auto's).
+- E-bikes kunnen niet worden opgeladen bij de 8 laadplekken voor elektrische auto's. Bij de fietsenstalling zijn wél stopcontacten aanwezig om je e-bike gratis op te laden.
 
 ---
 
