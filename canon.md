@@ -68,6 +68,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Single Malt, Single Cask én Single Estate — eigen brouwgerst, gestookt op eigen boerderij ("grain to glass" / "van korrel tot borrel")
 - Enige locatie op het Europese vasteland die whisky stoken, dineren én overnachten combineert [TE BEVESTIGEN: claim nog actueel/houdbaar]
 - Wijstwater uit de Peelrandbreuk; eigen gerst; eigen imkerij
+- Over het wijstwater: er zit wijstwater in Bus Whisky, maar een klein beetje. Omdat whisky een voedingsmiddel is, gelden strikte regels (Drinkwaterbesluit) voor onder meer ijzer en mangaan; daarom gebruiken we het wijstwater in beperkte mate. Overdrijf de rol van het wijstwater dus niet en presenteer het niet als iets dat je puur uit een glas drinkt.
 - Non-chill filtered, geen additieven; rijping veelal op first fill bourbon- en sherryvaten (persoonlijk geselecteerd in Schotland en Spanje); elke release is een limited edition
 
 ---
@@ -77,7 +78,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Officiële camperplaats op het erf. Vermeld op Campercontact, park4night en Campingradar.
 - 15 plaatsen.
 - Let op: dit is een camperplaats, dus we ontvangen uitsluitend campers — helaas geen caravans of tenten.
-- Prijs: vanaf **€ 13,50 per nacht** (excl. lokale heffingen), inclusief gratis water en elektra (6A). De toiletten van het restaurant zijn 24/7 beschikbaar voor campergasten. *(Intern: € 13,50 is de canonieke prijs; noem nooit € 15 — dat is verouderd.)*
+- Prijs: vanaf **€ 13,50 per nacht** (excl. lokale heffingen; de lokale heffing is de toeristenbelasting van € 2,50 per persoon per nacht), inclusief gratis water en elektra (6A). De toiletten van het restaurant zijn 24/7 beschikbaar voor campergasten. *(Intern: € 13,50 is de canonieke prijs; noem nooit € 15 — dat is verouderd.)*
 - Geen wifi op de camperplaats (wel wifi in het hoofdgebouw en de B&B-kamers).
 - Camping Culinair: campergasten kunnen aanschuiven voor een 4-gangen diner met whisky-pairings in festivalsfeer. Dit is er alleen op geselecteerde dagen (ongeveer 1x per maand en op feestdagen); online boeken.
 - Voorzieningen: kosteloze loospunten voor vuil water en chemisch toilet en kosteloze afvalinzameling. Er zijn GEEN douches voor campergasten — niet op de camperplaats en ook nergens anders op het terrein. Verwijs campergasten nooit naar het miva-toilet bij de bar om te douchen; dat is een mindervalidevoorziening, geen douchegelegenheid voor gasten.
@@ -157,6 +158,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Ontbijt: verse broodjes, gekookt eitje, onbeperkt koffie/thee/jus, biologische boerderijzuivel en eigen bierbostelgranola.
 - Alle kamers hebben wifi (glasvezel).
 - Gratis parkeren voor de deur.
+- Toeristenbelasting: € 2,50 per persoon per nacht (ter dekking van de lokale heffingen). Dit geldt bij elke overnachting: B&B, camperplaats, bruiloft of ander arrangement.
 - Arrangementen zijn minder geschikt voor kinderen (NIX18, open water op terrein, geen speelvoorzieningen).
 
 ---
@@ -212,7 +214,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
   - Midweekbruiloft hoogseizoen (dinsdag–donderdag, juli/augustus): € 8.950
   - Weekendbruiloft hoogseizoen (vrijdag–zondag, juli/augustus): € 11.950
 - **Seizoen:** hoogseizoen is juli en augustus; ook in de herfst- en winterperiode zijn bruiloften mogelijk (LIGHT-arrangement, 1 november–31 maart). In mei, juni, september en oktober zijn er géén bruiloften.
-- **Bijkomende kosten:** borg € 500, schoonmaak € 350, linnenverhuur (verplicht) € 7,50 p.p., toeristenbelasting € 1,40 per persoon per nacht.
+- **Bijkomende kosten:** borg € 500, schoonmaak € 350, linnenverhuur (verplicht) € 7,50 p.p., toeristenbelasting € 2,50 per persoon per nacht (ter dekking van de lokale heffingen).
 - **Bezichtigingen:** alleen op afspraak, op basis van een concrete offerte of optie. Tarieven zijn vast en niet onderhandelbaar.
 - **Bekende bruiloften:** o.a. Bizzey (Leo) & Renée (2014, bohemian/festival) en presentatrice en Wie-is-de-Mol-deelneemster Evelien de Bruijn & Paul van der Lugt (2015).
 - **Contact bruiloften:** landelijkebruiloft.nl · info@heischehoeve.nl · 0413-229153.
