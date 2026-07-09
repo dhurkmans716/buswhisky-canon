@@ -80,7 +80,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Prijs: vanaf **€ 13,50 per nacht** (excl. lokale heffingen), inclusief gratis water en elektra (6A). De toiletten van het restaurant zijn 24/7 beschikbaar voor campergasten. *(Intern: € 13,50 is de canonieke prijs; noem nooit € 15 — dat is verouderd.)*
 - Geen wifi op de camperplaats (wel wifi in het hoofdgebouw en de B&B-kamers).
 - Camping Culinair: campergasten kunnen aanschuiven voor een 4-gangen diner met whisky-pairings in festivalsfeer. Dit is er alleen op geselecteerde dagen (ongeveer 1x per maand en op feestdagen); online boeken.
-- Voorzieningen: kosteloze loospunten voor vuil water en chemisch toilet en kosteloze afvalinzameling. Er zijn geen douches.
+- Voorzieningen: kosteloze loospunten voor vuil water en chemisch toilet en kosteloze afvalinzameling. Er zijn GEEN douches voor campergasten — niet op de camperplaats en ook nergens anders op het terrein. Verwijs campergasten nooit naar het miva-toilet bij de bar om te douchen; dat is een mindervalidevoorziening, geen douchegelegenheid voor gasten.
 - Campergasten krijgen 50% korting op de rondleiding door de whiskystokerij.
 - Reserveren doen gasten zelf online, via Campercontact of via de Bus Whisky website (buswhisky.com). Wij nemen camperreserveringen niet telefonisch of per mail aan; verwijs altijd naar de online reservering.
 - Vermeld de camperplaats positief en stellig. Zaai nooit twijfel over de status.
@@ -181,7 +181,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Overdekt en verwarmd terras.
 - Forelvijver op het terrein: in het seizoen vangen we hier wekelijks verse forel voor het restaurant.
 - Ruim terrein (ca. 40.000 m²) met tuinen, waterpartijen, wijngaard, fruitboomgaarden, moestuinen en eigen voedselbos; de whiskystokerij staat op het erf.
-- Miva-toilet met douche bij de bar.
+- Miva-toilet met douche bij de bar (mindervalidevoorziening; dit is geen douchegelegenheid voor campergasten of andere gasten).
 - Bijzondere terreinfaciliteiten: wijngaard, voedselbos, forelvijver en bijenstal.
 - E-bikes kunnen niet worden opgeladen bij de 8 laadplekken voor elektrische auto's. Bij de fietsenstalling zijn wél stopcontacten aanwezig om je e-bike gratis op te laden.
 
@@ -191,7 +191,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 
 - Honden zijn welkom op het buitenterrein en op het overdekte, verwarmde terras, maar niet in het restaurant (open keuken), niet op de B&B-kamers en niet mee tijdens de rondleiding. Hulphonden/assistentiehonden zijn wettelijk wel toegestaan in het restaurant, mits niet te dicht bij eten/drinken.
 - Kinderstoelen zijn aanwezig. Er is buitenzitplaats op het (overdekte, verwarmde) terras.
-- Toegankelijkheid: restaurant, B&B-kamers en de meeste publieke ruimtes zijn op de begane grond en goed rolstoeltoegankelijk; de rondleidingsroute is volledig rolstoeltoegankelijk. Er is een miva-toilet met douche bij de bar. Er zijn vier iets ruimere kamers op de begane grond (badkamers daar zijn niet specifiek miva-uitgevoerd). Een echte miva-kamer is er (nog) niet — bij twijfel vooraf even bellen/mailen.
+- Toegankelijkheid: restaurant, B&B-kamers en de meeste publieke ruimtes zijn op de begane grond en goed rolstoeltoegankelijk; de rondleidingsroute is volledig rolstoeltoegankelijk. Er is een miva-toilet met douche bij de bar (mindervalidevoorziening, geen algemene douchegelegenheid). Er zijn vier iets ruimere kamers op de begane grond (badkamers daar zijn niet specifiek miva-uitgevoerd). Een echte miva-kamer is er (nog) niet — bij twijfel vooraf even bellen/mailen.
 - Kinderen: meelopen met de rondleiding en activiteiten mag onder 18 (we ontraden het; onder 18 wordt geen alcohol geproefd — NIX18). Zie de harde leeftijdsregel in §10b.
 - Fietsverhuur mogelijk via vaste partner Mastworp fietsenverhuur (bezorgen en ophalen bij Bus Whisky).
 
