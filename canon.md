@@ -9,8 +9,8 @@ Dit document is de enige goedgekeurde bron voor harde feiten over Bus Whisky. Si
 ## 1. Naam & schrijfwijze
 
 - Merknaam: **Bus Whisky** (hoofdletter B en W, verder klein — niet "BUS Whisky" of "BUS WHISKY")
-- Juridische naam: Bus Whisky Distillers
-- Locatie-/conceptnaam erf: De Heische Hoeve
+- Bus Whisky Distillers: de whiskystokerij (tevens de juridische naam).
+- De Heische Hoeve is de naam van de boerderij waar Bus Whisky gevestigd is en waar het ooit allemaal begon. Naar gasten toe heet tegenwoordig alles **Bus Whisky**; de naam Heische Hoeve leeft alleen nog voort in de bieren die bierbrouwer Bram brouwt. Presenteer onderdelen dus als Bus Whisky, niet als "De Heische Hoeve".
 - Zakelijke tak voor uitjes/events: Bus Whisky Meeting & Events
 - Productnamen volgen dezelfde schrijfwijze: Bus Cream, Bus Single Malt (niet "BUS Cream")
 
