@@ -142,6 +142,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Reserveren heeft onze voorkeur. Inloop is ook mogelijk, maar zonder reservering is er geen garantie op een plek.
 - Het volledige meergangen verrassingsmenu kan ook buiten op het overdekte, verwarmde terras worden geserveerd.
 - Openingstijden restaurant: zie §8 (7 dagen per week open voor diner; za & zo ook lunch vanaf 12:00).
+- Laatste reserveringstijd is 20:00 uur; daarna blijft het restaurant open tot 22:00 (of zo lang gasten natafelen). Reserveren ná 20:00 kan niet.
 
 ---
 
@@ -321,6 +322,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Tijden altijd met dubbele punt: 16:00 (niet 16.00)
 - Rondleidingen in vaste volgorde vroeg naar laat
 - De sluitingstijd 22:00 geldt voor het restaurant. Groepen, bedrijfsuitjes en bruiloften hebben een eigen programma met eigen eindtijden die per programma verschillen.
+- Laatste reserveringstijd voor het restaurant is 20:00 uur. Het restaurant is open tot 22:00 (of zo lang gasten nog gezellig natafelen — gezelligheid kent geen tijd), maar een tafel reserveren kan uiterlijk om 20:00. Stel bij een late reservering nooit een tijd ná 20:00 voor en boek die ook niet.
 
 ---
 
