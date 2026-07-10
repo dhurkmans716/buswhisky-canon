@@ -461,7 +461,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 ### Automatisch gesynct — Formitable-deeplinks (niet handmatig bewerken tussen de markers)
 
 <!-- FORMITABLE-DEEPLINKS:START -->
-*Boekbare arrangementen — shift-links (ft-restaurant + ft-ticket + ft-friend). Bijgewerkt: 10-07-2026 (26 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
+*Boekbare arrangementen — shift-links (ft-restaurant + ft-ticket + ft-friend). Bijgewerkt: 10-07-2026 (27 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
 
 - 3 gangen B&B (vrij&za, €159,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=06ef4002&ft-friend=1CD88408D99732F3F18D5675ABDF4E52
 - 3 gangen B&B (zo&ma, €99,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=136c5210&ft-friend=723C2389CA61B48B8797BE2D0C9A96FB
@@ -469,6 +469,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 - 4 gangen B&B (zo&ma, €109,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=6ff63a2d&ft-friend=94773A865DC22B5DC7FD76D8630C35F6
 - 5 gangen B&B (vrij&za, €179,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=dd25f0f7&ft-friend=65A0C73208FCCEC37B67925279D577E7
 - 5 gangen B&B (zo&ma, €119,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=64e7f446&ft-friend=D25F4335445F3391221FC9C3996F4033
+- 5 gangen B&B + fles single malt: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=2dfb0dff&ft-friend=5998F5140DF8F5FC56D094180C770099
 - Camping Culinair: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=9a9705ef&ft-friend=1503666E3364D5884CC2DA588DF16217
 - Camping Culinair - Winteredition: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=fd8d882e&ft-friend=01DE4E0F990B2CBE8A0D9AB5F7814D6F
 - Dutch Whisky Event: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=dfb6e55f&ft-friend=3544D94EDB94D1B8627EE20026836D16
