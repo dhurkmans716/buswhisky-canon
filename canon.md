@@ -460,7 +460,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 ### Automatisch gesynct — Formitable-deeplinks (niet handmatig bewerken tussen de markers)
 
 <!-- FORMITABLE-DEEPLINKS:START -->
-*Automatisch gesynct uit Formitable — alle boekbare arrangementen/tickets. Bijgewerkt: 09-07-2026 (65 items). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
+*Automatisch gesynct uit Formitable — alle boekbare arrangementen/tickets. Bijgewerkt: 10-07-2026 (65 items). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
 
 - 3 daags B&B arrangement: https://buswhisky.com/?ft-ticket=cc6983fc
 - 3 gangen B&B: https://buswhisky.com/?ft-ticket=136c5210
