@@ -438,15 +438,15 @@ Deze regels gelden altijd en gaan vóór op verkoopdrang. Ze zijn niet onderhand
 Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsApp te sturen).
 
 - Restaurant / Proef Lokaal reserveren: buswhisky.com/proeflokaal
-- Rondleiding / whiskytour reserveren: https://buswhisky.com/activiteiten?ft-ticket=ef9aafe5
-  - Groepsrondleiding (vanaf 15 personen, scherper tarief € 15,00 p.p. en tijd in overleg): https://buswhisky.com/activiteiten?ft-ticket=2d463b72
+- Rondleiding / whiskytour reserveren: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=ef9aafe5&ft-friend=53EB738F07BD1CCB5012D37BF8026793
+  - Groepsrondleiding (vanaf 15 personen, scherper tarief € 15,00 p.p. en tijd in overleg): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=2d463b72&ft-friend=984BA4213BF212765587E529AECDD24B
 - Whisky-proeverijen boeken: buswhisky.com/whiskyproeverij
-  - Donderdagproeverij (rondleiding + uitgebreide whiskyproeverij, donderdag 20:00, één keer per 8 weken, € 50 p.p.) — deeplink: https://buswhisky.com/whiskyproeverij?ft-ticket=e0ee264c
+  - Donderdagproeverij (rondleiding + uitgebreide whiskyproeverij, donderdag 20:00, één keer per 8 weken, € 50 p.p.) — deeplink: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=e0ee264c&ft-friend=98C19289C898DFAF49FF4F5DA52A02D1
 - Bed & Breakfast: buswhisky.com/bed-breakfast-brabant-whiskystokerij
-  - B&B 3-gangen — aankomst vr/za: https://buswhisky.com/bed-breakfast-brabant-whiskystokerij?ft-ticket=06ef4002 | zo/ma: https://buswhisky.com/bed-breakfast-brabant-whiskystokerij?ft-ticket=136c5210
-  - B&B 4-gangen — aankomst vr/za: https://buswhisky.com/bed-breakfast-brabant-whiskystokerij?ft-ticket=1ea3b7b8 | zo/ma: https://buswhisky.com/bed-breakfast-brabant-whiskystokerij?ft-ticket=6ff63a2d
-  - B&B 5-gangen — aankomst vr/za: https://buswhisky.com/bed-breakfast-brabant-whiskystokerij?ft-ticket=dd25f0f7 | zo/ma: https://buswhisky.com/bed-breakfast-brabant-whiskystokerij?ft-ticket=64e7f446
-  - Weekendje Bus (2 nachten, aankomst za): https://buswhisky.com/bed-breakfast-brabant-whiskystokerij?ft-ticket=15992a71
+  - B&B 3-gangen — aankomst vr/za: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=06ef4002&ft-friend=1CD88408D99732F3F18D5675ABDF4E52 | zo/ma: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=136c5210&ft-friend=723C2389CA61B48B8797BE2D0C9A96FB
+  - B&B 4-gangen — aankomst vr/za: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=1ea3b7b8&ft-friend=50CC4FB5DDF5075B5D4308CB6D073306 | zo/ma: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=6ff63a2d&ft-friend=94773A865DC22B5DC7FD76D8630C35F6
+  - B&B 5-gangen — aankomst vr/za: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=dd25f0f7&ft-friend=65A0C73208FCCEC37B67925279D577E7 | zo/ma: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=64e7f446&ft-friend=D25F4335445F3391221FC9C3996F4033
+  - Weekendje Bus (2 nachten, aankomst za): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=15992a71&ft-friend=3000C0C5587973175036F0D84E5DBBFE
 - Theatershow: buswhisky.com/theatershow
 - Camperplaats reserveren: via Campercontact (camperplaats Bus Whisky Distillers, Loosbroek)
 - Camping Culinair: buswhisky.com/camping-culinair-winteredition
