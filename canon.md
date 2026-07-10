@@ -461,71 +461,32 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 ### Automatisch gesynct — Formitable-deeplinks (niet handmatig bewerken tussen de markers)
 
 <!-- FORMITABLE-DEEPLINKS:START -->
-*Automatisch gesynct uit Formitable — alle boekbare arrangementen/tickets. Bijgewerkt: 10-07-2026 (65 items). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
+*Boekbare arrangementen — shift-links (ft-restaurant + ft-ticket + ft-friend). Bijgewerkt: 10-07-2026 (26 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
 
-- 3 daags B&B arrangement: https://buswhisky.com/?ft-ticket=cc6983fc
-- 3 gangen B&B: https://buswhisky.com/?ft-ticket=136c5210
-- 3 gangen B&B: https://buswhisky.com/?ft-ticket=06ef4002
-- 4 gangen B&B: https://buswhisky.com/?ft-ticket=6ff63a2d
-- 4 gangen B&B: https://buswhisky.com/?ft-ticket=1ea3b7b8
-- 5 gangen B&B: https://buswhisky.com/?ft-ticket=dd25f0f7
-- 5 gangen B&B: https://buswhisky.com/?ft-ticket=64e7f446
-- 5 gangen B&B + fles single malt: https://buswhisky.com/?ft-ticket=2dfb0dff
-- Ambassadeursprogramma Horeca: https://buswhisky.com/?ft-ticket=be46e53f
-- Bus Whisky Groupdeal: https://buswhisky.com/?ft-ticket=b82612bf
-- Bus Whisky Traveldeal: https://buswhisky.com/?ft-ticket=c797fcdb
-- BUS Whiskydeal (Aankomst op maandag): https://buswhisky.com/?ft-ticket=2bf7db16
-- BUS Whiskydeal (aankomst op vrijdag of zaterdag): https://buswhisky.com/?ft-ticket=0ad8ebc6
-- BUS Whiskydeal (aankomst op zondag): https://buswhisky.com/?ft-ticket=0e97c71a
-- Camping Culinair: https://buswhisky.com/?ft-ticket=9a9705ef
-- Camping Culinair - Winteredition: https://buswhisky.com/?ft-ticket=fd8d882e
-- Dutch Whisky Event: https://buswhisky.com/?ft-ticket=dfb6e55f
-- DUTCH WHISKY EVENT: OVERNACHTING + ONTBIJT VOOR 1 PERSOON: https://buswhisky.com/?ft-ticket=afafeaf3
-- DUTCH WHISKY EVENT: OVERNACHTING + ONTBIJT VOOR 2 PERSONEN: https://buswhisky.com/?ft-ticket=519abf77
-- Groepsrondleiding Bus Whiskystokerij: https://buswhisky.com/?ft-ticket=2d463b72
-- Heische Hoeve | 3 gangen diner: https://buswhisky.com/?ft-ticket=476d4204
-- Heische Hoeve | BBQ: https://buswhisky.com/?ft-ticket=9a603a29
-- Heische Hoeve | Lunch: https://buswhisky.com/?ft-ticket=1bd8d60a
-- Heische Hoeve | Ontbijt: https://buswhisky.com/?ft-ticket=3b4acfea
-- Heische Hoeve | Overnachting 1PK: https://buswhisky.com/?ft-ticket=cc025117
-- Heische Hoeve | Overnachting 2PK: https://buswhisky.com/?ft-ticket=bac57ff5
-- Heische Hoeve | Pizza Workshop: https://buswhisky.com/?ft-ticket=c4989bcc
-- Lunchdeal: https://buswhisky.com/?ft-ticket=0bb9e343
-- Meivakantie Special: https://buswhisky.com/?ft-ticket=fadf1964
-- NINA aanbieding 5 gangen B&B: https://buswhisky.com/?ft-ticket=d1d54e7a
-- Online Whiskyproeverij: https://buswhisky.com/?ft-ticket=55167e1e
-- PLUS Spaaractiedeal | 2e persoon gratis mee-eten: https://buswhisky.com/?ft-ticket=a3ba3fe6
-- Reservering Boerderijrestaurant: https://buswhisky.com/?ft-ticket=398ca47b
-- Reservering kampeerplek met luxe privé sanitair: https://buswhisky.com/?ft-ticket=9d5f34aa
-- Rondleiding Bus whiskystokerij (60 min): https://buswhisky.com/?ft-ticket=ef9aafe5
-- Rondleiding geboekt via Partnerwebsite: https://buswhisky.com/?ft-ticket=083f6bbe
-- Rondleiding Tripper: https://buswhisky.com/?ft-ticket=f136d365
-- Sharefund diner + overnachting + ontbijt voor 2 pers: https://buswhisky.com/?ft-ticket=c55a8bf8
-- Sharefund tasting + rondleiding 2 pers: https://buswhisky.com/?ft-ticket=d3f00d1e
-- Site Inspectie bij Bus Whisky: https://buswhisky.com/?ft-ticket=0fc767f3
-- Slijters Invite ambassadeurs programma: https://buswhisky.com/?ft-ticket=33d3ea83
-- Slijters invite whisky workshop: https://buswhisky.com/?ft-ticket=2c84858f
-- Social Whisky Deal voor 2p vrij&za: https://buswhisky.com/?ft-ticket=d1e91ac3
-- Social Whisky Deal voor 2p zo&ma: https://buswhisky.com/?ft-ticket=fced8bce
-- Valentijndeal: https://buswhisky.com/?ft-ticket=c2e2c05d
-- Vier gangen Valentijn diner + rondleiding: https://buswhisky.com/?ft-ticket=ea063e52
-- Vijf gangen kerstdiner inclusief alle drankjes: https://buswhisky.com/?ft-ticket=9a011c7b
-- VOUCHER B&B: https://buswhisky.com/?ft-ticket=b251a4d6
-- VOUCHER TOUR + DINER: https://buswhisky.com/?ft-ticket=dca315ae
-- Voucher tour 1p: https://buswhisky.com/?ft-ticket=58e734bf
-- VOUCHER TOUR 2P: https://buswhisky.com/?ft-ticket=a6a9917d
-- Vrijdagdeal: https://buswhisky.com/?ft-ticket=4b60286e
-- Weekendje Bus: https://buswhisky.com/?ft-ticket=15992a71
-- whiskydeal 1 persoonskamer (maandag): https://buswhisky.com/?ft-ticket=896f61a7
-- Whiskydeal 1 persoonskamer (vrijdag -zaterdag): https://buswhisky.com/?ft-ticket=196a1421
-- Whiskydeal 1 persoonskamer (zondag): https://buswhisky.com/?ft-ticket=6a50fb21
-- Whiskyproeverij: https://buswhisky.com/?ft-ticket=6591479d
-- Whiskyproeverij: https://buswhisky.com/?ft-ticket=e0ee264c
-- Whiskytour 2 pers + 1 bottle Bus Whisky: https://buswhisky.com/?ft-ticket=89a7d55e
-- Workshop whisky stoken: https://buswhisky.com/?ft-ticket=4dafab74
-- Workshop Whisky Stoken "Middays": https://buswhisky.com/?ft-ticket=05f4caa6
-- Workshop Whisky Stoken "Monday After Work": https://buswhisky.com/?ft-ticket=ef657567
-- Workshop Whisky Stoken "Weekend": https://buswhisky.com/?ft-ticket=26696ebc
-- Zomervakantie Special: https://buswhisky.com/?ft-ticket=a3f20a31
-- Zondagdeal: https://buswhisky.com/?ft-ticket=e3b8f704
+- 3 gangen B&B (vrij&za, €159,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=06ef4002&ft-friend=1CD88408D99732F3F18D5675ABDF4E52
+- 3 gangen B&B (zo&ma, €99,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=136c5210&ft-friend=723C2389CA61B48B8797BE2D0C9A96FB
+- 4 gangen B&B (vr&za, €169,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=1ea3b7b8&ft-friend=50CC4FB5DDF5075B5D4308CB6D073306
+- 4 gangen B&B (zo&ma, €109,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=6ff63a2d&ft-friend=94773A865DC22B5DC7FD76D8630C35F6
+- 5 gangen B&B (vrij&za, €179,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=dd25f0f7&ft-friend=65A0C73208FCCEC37B67925279D577E7
+- 5 gangen B&B (zo&ma, €119,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=64e7f446&ft-friend=D25F4335445F3391221FC9C3996F4033
+- Camping Culinair: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=9a9705ef&ft-friend=1503666E3364D5884CC2DA588DF16217
+- Camping Culinair - Winteredition: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=fd8d882e&ft-friend=01DE4E0F990B2CBE8A0D9AB5F7814D6F
+- Dutch Whisky Event: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=dfb6e55f&ft-friend=3544D94EDB94D1B8627EE20026836D16
+- Dutch Whisky Event: overnachting + ontbijt voor 1 persoon: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=afafeaf3&ft-friend=03DDEB52198AF8E60D12910C87382EFB
+- Dutch Whisky Event: overnachting + ontbijt voor 2 personen: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=519abf77&ft-friend=7D7D1FF757D76E12E42698594BADA4D6
+- Groepsrondleiding Bus Whiskystokerij: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=2d463b72&ft-friend=984BA4213BF212765587E529AECDD24B
+- Lunchdeal: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=0bb9e343&ft-friend=93F3A958754B955ED67CFC0C1DE905A6
+- Reservering Boerderijrestaurant: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=398ca47b&ft-friend=C9D6763C04C0C5AD3AB53539141F34BF
+- Rondleiding Bus whiskystokerij (60 min): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=ef9aafe5&ft-friend=53EB738F07BD1CCB5012D37BF8026793
+- Vrijdagdeal: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=4b60286e&ft-friend=68BB974FAC70E1C1A87E35ACD306633D
+- Weekendje Bus: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=15992a71&ft-friend=3000C0C5587973175036F0D84E5DBBFE
+- whiskydeal 1 persoonskamer (maandag): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=896f61a7&ft-friend=1C7C75FF12E507BA2A8F54D2EF55455D
+- Whiskydeal 1 persoonskamer (zondag): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=6a50fb21&ft-friend=C3D56CB8D011B3C19DE39941F41A8873
+- Whiskyproeverij (donderdag): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=e0ee264c&ft-friend=98C19289C898DFAF49FF4F5DA52A02D1
+- Whiskytour 2 pers + 1 bottle Bus Whisky: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=89a7d55e&ft-friend=861A334DA3F5C66B6FF6D5013BC1E3AE
+- Workshop Whisky Stoken "Middays": https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=05f4caa6&ft-friend=0FE21E7B88EE2EBA2E0F51E597F80421
+- Workshop Whisky Stoken "Monday After Work": https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=ef657567&ft-friend=C66B40B696D1946634353C9FA7A445BA
+- Workshop Whisky Stoken "Weekend": https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=26696ebc&ft-friend=C5242A270E179A23AE00F24B7A95F32E
+- Zomervakantie Special: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=a3f20a31&ft-friend=A33E7D149F0C277572FAF145C775BF74
+- Zondagdeal: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=e3b8f704&ft-friend=723B672E15B6FB1C53806FBC0F26CC42
 <!-- FORMITABLE-DEEPLINKS:END -->
