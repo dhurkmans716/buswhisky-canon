@@ -23,7 +23,7 @@ Dit document is de enige goedgekeurde bron voor harde feiten over Bus Whisky. Si
 - Plaats voor gasten/AI: wij zitten in **Loosbroek** (gemeente Bernheze, Noord-Brabant). Niet Bokel, niet Nistelrode.
 - Goed bereikbaar vanuit Heeswijk-Dinther, Nistelrode, Heesch, Oss, Uden, Veghel en 's-Hertogenbosch (15 km).
 - Herkomst van de naam (verhaal, geen bezoekadres): "Bus" verwijst naar de wijstwaterbron in het buurtschap Bus bij Nistelrode, gevoed door de Peelrandbreuk. Gebruik Nistelrode/buurtschap Bus uitsluitend in het oorsprongsverhaal.
-- Telefoon: +31 (0)413 418 016
+- Telefoon (intern; deel dit nummer NIET proactief — stuur standaard naar e-mail/online en geef het alleen als iemand er expliciet om vraagt): +31 (0)413 418 016
 - E-mail: info@buswhisky.com
 - KvK: 17207582
 - BTW: NL818075119B01
@@ -166,8 +166,8 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 ## 6g. Bedrijfsuitjes, events & activiteiten
 
 - All-inclusive bedrijfsuitjes op één locatie: ontvangst, activiteiten, onbeperkt drankjes (open bar / zelf tappen) en horeca. Geschikt voor teambuilding en personeelsuitjes.
-- Groepsgrootte verschilt per arrangement: **elk bedrijfsuitje/arrangement en elke vergadering heeft een eigen minimum én maximum aantal personen** — je kunt dus niet elk arrangement met bijvoorbeeld 4 of 5 personen doen. Neem NOOIT zomaar aan dat een activiteit voor een bepaald aantal personen kan; controleer altijd het minimum en maximum. De exacte min/max per arrangement staan op **heischehoeve.com** en in KMT. Bevestig een aantal nooit zonder dit gecheckt te hebben; verzamel bij twijfel de gegevens en maak een offerte op maat, of verwijs naar heischehoeve.com.
-- Aantallen per arrangement (min–max personen, richtprijs; kan wijzigen — check heischehoeve.com/KMT): Lunch + Laser Kleiduifschieten + Whiskytour: 4–80 (€ 50 p.p., 12:00–16:00) · Lunch + 4x4 Ecotrail + Whiskytour: 4–80 (€ 50 p.p., 12:00–16:00) · Laser Kleiduifschieten (middag): 4–250 (€ 99,50 p.p.) · 4x4 Ecotrail (middag): 4–250 (€ 99,50 p.p.) · 4x4 Ecotrail (avond): 4–250 (€ 99,50 p.p.) · Whisky & Weilandgames (het spel-/'meerkamp'-achtige arrangement): **20–450** (€ 99,50 p.p.) · Suppen, kanovaren & fluisterboot: **15–150** (€ 99,50 p.p., 1 apr–1 nov) · Ontdekkingstocht door Brabant: **15–120** (€ 125 p.p., 1 apr–1 nov). Een meerkamp/games-arrangement is dus niet mogelijk met 5 personen — daarvoor geldt een hoger minimum.
+- Groepsgrootte verschilt per arrangement: **elk bedrijfsuitje/arrangement en elke vergadering heeft een eigen minimum én maximum aantal personen** — je kunt dus niet elk arrangement met bijvoorbeeld 4 of 5 personen doen. Neem NOOIT zomaar aan dat een activiteit voor een bepaald aantal personen kan; controleer altijd het minimum en maximum. De exacte min/max per arrangement staan op **heischehoeve.com**. Bevestig een aantal nooit zonder dit gecheckt te hebben; verzamel bij twijfel de gegevens en maak een offerte op maat, of verwijs naar heischehoeve.com.
+- Aantallen per arrangement (min–max personen, richtprijs; kan wijzigen — check heischehoeve.com): Lunch + Laser Kleiduifschieten + Whiskytour: 4–80 (€ 50 p.p., 12:00–16:00) · Lunch + 4x4 Ecotrail + Whiskytour: 4–80 (€ 50 p.p., 12:00–16:00) · Laser Kleiduifschieten (middag): 4–250 (€ 99,50 p.p.) · 4x4 Ecotrail (middag): 4–250 (€ 99,50 p.p.) · 4x4 Ecotrail (avond): 4–250 (€ 99,50 p.p.) · Whisky & Weilandgames (het spel-/'meerkamp'-achtige arrangement): **20–450** (€ 99,50 p.p.) · Suppen, kanovaren & fluisterboot: **15–150** (€ 99,50 p.p., 1 apr–1 nov) · Ontdekkingstocht door Brabant: **15–120** (€ 125 p.p., 1 apr–1 nov). Een meerkamp/games-arrangement is dus niet mogelijk met 5 personen — daarvoor geldt een hoger minimum.
 - Vrijgezellenfeesten en groepen zijn welkom binnen harde kaders: géén verklede vrijgezellenfeesten, en geen enkele overlast voor andere gasten. Binnen die kaders zijn groepen van harte welkom; daarbuiten past het niet.
 - Gratis busvervoer vanaf 40 personen (zie §6b). Gratis testuitje voor organisatoren (op dinsdag).
 - Dineropties (keuze uit 4): pizza-workshop in de houtoven, BBQ met lokaal vlees/vis/groenten, 3-gangen farm-to-table menu, of luxe stamppotbuffet.
@@ -285,13 +285,13 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 ## 6o. Beschikbaarheid checken (bots)
 
 - Actuele beschikbaarheid wordt realtime bepaald en staat NIET als datumlijst in de canon; die zou direct verouderen.
-- Bronnen: Formitable voor restaurant, B&B, rondleidingen en whiskyproeverijen; KMT voor vergaderingen, bedrijfsuitjes en bruiloften. De publieke check per categorie en arrangement (met alternatieve data bij volgeboekt) staat op heischehoeve.com/beschikbaarheid.
+- Bronnen (intern): Formitable voor restaurant, B&B, rondleidingen en whiskyproeverijen; het interne reserveringssysteem voor vergaderingen, bedrijfsuitjes en bruiloften. De publieke check per categorie en arrangement (met alternatieve data bij volgeboekt) staat op heischehoeve.com/beschikbaarheid.
 - De AI-kanalen (website-chatbot, mailagent en de AI-telefoniste) gebruiken hiervoor een gedeelde beschikbaarheids-tool. De bot boekt uitsluitend zélf een restaurantreservering (tafel om te eten). Rondleiding, whisky-proeverij en B&B-arrangement (aanbetaling) → de bot stuurt de deeplink zodat de gast zelf boekt. Camperplaats → verwijs naar online reserveren. Bedrijfsuitjes en vergaderingen → stuur de gast METEEN de klikbare beschikbaarheidskalender (https://heischehoeve.com/beschikbaarheid) zodat die direct zelf ziet of de datum vrij is (groen = beschikbaar, rood = vol), en noteer daarnaast de gegevens voor een offerte op maat. Bruiloften → stuur eveneens direct de kalender (https://heischehoeve.com/beschikbaarheid) en verwijs voor prijzen/details naar landelijkebruiloft.nl; afspraken alleen op basis van een concrete offerte. Zie de harde regels in §10b. Bij twijfel: verwijs naar heischehoeve.com/beschikbaarheid of bied aan om het per e-mail op te pakken.
 - Vaste regels om alvast op te reageren, ook zonder live check:
   - Bruiloften: alleen in juli/augustus (hoogseizoen) en 1 november–31 maart (LIGHT-arrangement); niet in mei, juni, september en oktober. Altijd 2 overnachtingen.
   - B&B: arrangementen zijn altijd inclusief overnachting (minimaal 1 nacht).
   - Restaurant: 7 dagen per week open; reserveren wordt sterk aanbevolen.
-  - Bedrijfsuitjes: van 4 tot 400 personen; de datum-beschikbaarheid loopt via KMT.
+  - Bedrijfsuitjes: van 4 tot 400 personen; de datum-beschikbaarheid loopt via het interne reserveringssysteem.
 
 ---
 
@@ -422,6 +422,8 @@ Deze regels gelden altijd en gaan vóór op verkoopdrang. Ze zijn niet onderhand
 **Escalatie & noodgevallen:** escalatie geldt alleen bij een echt noodgeval of overlast — nooit voor commerciële of gewone vragen. Meldt iemand zo'n situatie via de chat, vraag hem dan om te bellen naar het algemene nummer (+31 (0)413 418 016); geef zelf nooit een mobiel of privénummer. Aan de telefoon mag de AI-telefoniste (Bonnie) in deze noodgevallen/overlastsituaties doorverbinden naar het interne noodnummer van Dennis; dat nummer staat in de telefonie-instellingen en wordt nooit getoond of gedeeld via chat of mail.
 
 **Contact bij voorkeur per e-mail:** stuur mensen standaard naar e-mail of online reserveren, niet naar de telefoon. Geef NOOIT uit jezelf een telefoonnummer aan gasten of prospects; deel het algemene nummer (+31 (0)413 418 016) alleen als iemand er expliciet om vraagt of zelf aangeeft te willen bellen. De enige uitzondering is een echt noodgeval of overlast (zie de escalatieregel).
+
+**Interne systeemnamen nooit noemen:** noem de naam van ons interne reserveringssysteem (KMT) NOOIT tegen gasten of prospects — dat is intern en volstrekt irrelevant voor de klant. Spreek in plaats daarvan over 'ons reserveringssysteem' of verwijs simpelweg naar de online beschikbaarheid (heischehoeve.com/beschikbaarheid).
 
 **WhatsApp:** er is op dit moment geen actief WhatsApp-kanaal. Beloof daarom geen WhatsApp-bevestiging of WhatsApp-contact; bied in plaats daarvan e-mail aan.
 
