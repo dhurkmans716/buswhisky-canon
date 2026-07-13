@@ -158,6 +158,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Zomervakantie Special: B&B-arrangement voor **2 overnachtingen** tijdens de zomervakantie, boekbaar via de eigen deeplink (zie §11). [navragen: exacte periode, prijs en inhoud van de Zomervakantie Special]
 - Ontbijt: verse broodjes, gekookt eitje, onbeperkt koffie/thee/jus, biologische boerderijzuivel en eigen bierbostelgranola.
 - Alle kamers hebben wifi (glasvezel).
+- Airco: de B&B-kamers hebben **geen airconditioning**. Wel heeft elke kamer een ventilator en een dakraam dat 's nachts open kan om te ventileren. De zalen (vergader- en eventruimtes) hebben wél airco. Zeg dit eerlijk en positief (ventilator + nachtventilatie via het dakraam) en beloof nooit airco op een kamer.
 - Gratis parkeren voor de deur.
 - Toeristenbelasting: € 2,50 per persoon per nacht (ter dekking van de lokale heffingen). Dit geldt bij elke overnachting: B&B, camperplaats, bruiloft of ander arrangement.
 - Arrangementen zijn minder geschikt voor kinderen (NIX18, open water op terrein, geen speelvoorzieningen).
