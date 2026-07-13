@@ -152,9 +152,10 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - 28 kamers met eigen badkamer: 4 kamers met een tweepersoonsbed, 24 kamers met losse eenpersoonsbedden.
 - Capaciteit — HARD MAXIMUM (overnachten): 28 kamers, elk voor **maximaal 2 personen**, dus wij kunnen **maximaal 56 gasten laten overnachten** — nooit meer. Standaard rekenen we 1 persoon per kamer (28 personen); bij 2 per kamer maximaal 56 (zoals bij bruiloften en groepen). Zeg dit stellig en beloof of boek nooit een overnachting voor meer dan 56 personen.
 - Meer dan 56 overnachtingen nodig? Extra kamers kunnen eventueel geboekt worden bij **Fletcher Hotel Uden** (vlakbij). En voor liefhebbers met een camper hebben we **15 camperplaatsen** op eigen erf (zie §6a).
-- B&B-arrangementen (tour + culinair diner + overnachting + ontbijt), aankomst vrijdag/zaterdag of zondag/maandag, vanaf € 99,50 p.p.: 3 gangen € 139,50 / € 99,50 · 4 gangen € 149,50 / € 109,50 · 5 gangen € 159,50 / € 119,50 (prijzen per persoon, afhankelijk van aankomstdag).
+- B&B-arrangementen (tour + culinair diner + overnachting + ontbijt) zijn **standaard voor 1 nacht** (1 overnachting), aankomst vrijdag/zaterdag of zondag/maandag, vanaf € 99,50 p.p.: 3 gangen € 139,50 / € 99,50 · 4 gangen € 149,50 / € 109,50 · 5 gangen € 159,50 / € 119,50 (prijzen per persoon, afhankelijk van aankomstdag). Neem NOOIT zelf aan dat een arrangement meerdere nachten omvat; alleen Weekendje Bus en de Zomervakantie Special zijn voor 2 nachten.
 - In de maanden **juli en augustus** is de B&B ook boekbaar met aankomst op **dinsdag, woensdag en donderdag** (naast de gebruikelijke aankomstdagen vrijdag/zaterdag en zondag/maandag).
 - Weekendje Bus (2 overnachtingen, aankomst zaterdag, incl. tour, 4-gangen diner, 2× ontbijt): € 199,50 p.p.
+- Zomervakantie Special: B&B-arrangement voor **2 overnachtingen** tijdens de zomervakantie, boekbaar via de eigen deeplink (zie §11). [navragen: exacte periode, prijs en inhoud van de Zomervakantie Special]
 - Ontbijt: verse broodjes, gekookt eitje, onbeperkt koffie/thee/jus, biologische boerderijzuivel en eigen bierbostelgranola.
 - Alle kamers hebben wifi (glasvezel).
 - Gratis parkeren voor de deur.
@@ -289,7 +290,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - De AI-kanalen (website-chatbot, mailagent en de AI-telefoniste) gebruiken hiervoor een gedeelde beschikbaarheids-tool. De bot boekt uitsluitend zélf een restaurantreservering (tafel om te eten). Rondleiding, whisky-proeverij en B&B-arrangement (aanbetaling) → de bot stuurt de deeplink zodat de gast zelf boekt. Camperplaats → verwijs naar online reserveren. Bedrijfsuitjes en vergaderingen → stuur de gast METEEN de klikbare beschikbaarheidskalender (https://heischehoeve.com/beschikbaarheid) zodat die direct zelf ziet of de datum vrij is (groen = beschikbaar, rood = vol), en noteer daarnaast de gegevens voor een offerte op maat. Bruiloften → stuur eveneens direct de kalender (https://heischehoeve.com/beschikbaarheid) en verwijs voor prijzen/details naar landelijkebruiloft.nl; afspraken alleen op basis van een concrete offerte. Zie de harde regels in §10b. Bij twijfel: verwijs naar heischehoeve.com/beschikbaarheid of bied aan om het per e-mail op te pakken.
 - Vaste regels om alvast op te reageren, ook zonder live check:
   - Bruiloften: alleen in juli/augustus (hoogseizoen) en 1 november–31 maart (LIGHT-arrangement); niet in mei, juni, september en oktober. Altijd 2 overnachtingen.
-  - B&B: arrangementen zijn altijd inclusief overnachting (minimaal 1 nacht).
+  - B&B: arrangementen zijn **standaard voor 1 nacht**. Alleen Weekendje Bus en de Zomervakantie Special zijn voor 2 overnachtingen. Zeg nooit dat een arrangement standaard 2 nachten omvat en reken nooit zelf een tweede nacht bij een boeking.
   - Restaurant: 7 dagen per week open; reserveren wordt sterk aanbevolen.
   - Bedrijfsuitjes: van 4 tot 400 personen; de datum-beschikbaarheid loopt via het interne reserveringssysteem.
 
