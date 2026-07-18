@@ -79,11 +79,22 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Let op: dit is een camperplaats, dus we ontvangen uitsluitend campers — helaas geen caravans of tenten.
 - Prijs: vanaf **€ 13,50 per nacht** (excl. lokale heffingen; de lokale heffing is de toeristenbelasting van € 2,50 per persoon per nacht), inclusief gratis water en elektra (6A). De toiletten van het restaurant zijn 24/7 beschikbaar voor campergasten. *(Intern: € 13,50 is de canonieke prijs; noem nooit € 15 — dat is verouderd.)*
 - Geen wifi op de camperplaats (wel wifi in het hoofdgebouw en de B&B-kamers).
-- Camping Culinair: campergasten kunnen aanschuiven voor een 4-gangen diner met whisky-pairings in festivalsfeer. Dit is er alleen op geselecteerde dagen (ongeveer 1x per maand en op feestdagen); online boeken.
+- Camping Culinair: campergasten kunnen aanschuiven bij dit culinaire avondevenement (ongeveer 1x per maand en op feestdagen, wisselende data). Zie §6a-1 voor de details en de boekingsdeeplink.
 - Voorzieningen: kosteloze loospunten voor vuil water en chemisch toilet en kosteloze afvalinzameling. Er zijn GEEN douches voor campergasten — niet op de camperplaats en ook nergens anders op het terrein. Verwijs campergasten nooit naar het miva-toilet bij de bar om te douchen; dat is een mindervalidevoorziening, geen douchegelegenheid voor gasten.
 - Campergasten krijgen 50% korting op de rondleiding door de whiskystokerij.
 - Reserveren doen gasten zelf online, via Campercontact of via de Bus Whisky website (buswhisky.com). Wij nemen camperreserveringen niet telefonisch of per mail aan; verwijs altijd naar de online reservering.
 - Vermeld de camperplaats positief en stellig. Zaai nooit twijfel over de status.
+
+---
+
+## 6a-1. Camping Culinair
+
+- Camping Culinair is een sfeervol culinair avondevenement bij Bus Whisky, op geselecteerde avonden: ongeveer één keer per maand en op feestdagen. De data wisselen.
+- Frequentie: ongeveer 1x per maand plus feestdagen (wisselende data).
+- Campergasten kunnen aanschuiven; het event is ook los te boeken.
+- De beschikbare avonden en de eerstvolgende datum staan op de boekingspagina (deeplink Camping Culinair in §11). Reken zelf nooit een datum uit en noem geen datum uit jezelf.
+- Bij de vraag 'wanneer is de eerstvolgende Camping Culinair?': leg uit dat het ongeveer maandelijks en op feestdagen is met wisselende data, en stuur de boekingsdeeplink (§11) zodat de gast zelf de eerstvolgende beschikbare datum en alle avonden ziet.
+- [navragen: aantal gangen en prijs. Er lopen twee versies door elkaar: een 4-gangen diner met whisky-pairings (oude vermelding) en een 5-gangen diner met wijn-/whiskyarrangement voor € 99,50 p.p. (mail 17 juli). Dennis bevestigt welke canoniek is; noem tot die tijd geen aantal gangen of prijs uit jezelf.]
 
 ---
 
