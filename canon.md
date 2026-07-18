@@ -56,7 +56,6 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 ## 5. Certificeringen & status (alle 2025)
 
 - **B Corp™** — eerste Nederlandse whiskydistilleerderij met B Corp, en de **tiende whiskyproducent ter wereld** (gebruik consequent "de tiende" — niet "één van de 10")
-- Intern: de B Impact Score wordt niet publiek gecommuniceerd
 - **Biologisch** — alle gerst gecertificeerd biologisch op SKAL-gecertificeerde gronden (vanaf 2025; daarvoor al zonder kunstmest/pesticiden)
 - **ISO 22000** — voedselveiligheid, belangrijk voor export
 - Energie: 100% hernieuwbaar; flessen van 100% gerecycled glas; lakzegel van bijenwas uit eigen imkerij
@@ -159,7 +158,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - **Wijn-/whiskyarrangement (pairing bij het diner)**, apart te bestellen, niet inbegrepen: 2 gangen € 15,00 · 3 gangen € 22,50 · 4 gangen € 30,00 · 5 gangen € 37,50. Per gang selecteert de gastheer een passende wijn of whisky; een alcoholvrije pairing is ook mogelijk. Voorbeeld: een 5-gangen B&B-arrangement (€ 119,50 of € 179,50 afhankelijk van aankomstdag) plus de whisky-pairing kost € 37,50 per persoon extra.
 - Weekendje Bus (2 overnachtingen, aankomst zaterdag, incl. tour, 4-gangen diner, 2× ontbijt): € 199,50 p.p.
 - Het diner bij het B&B-arrangement is het culinaire meergangen verrassingsmenu van het restaurant (farm-to-table / table d'hôte, in 3, 4 of 5 gangen), voor elk gezelschap ongeacht de groepsgrootte. De dinervarianten BBQ, pizza-workshop en stamppotbuffet horen NIET bij het B&B-arrangement; dat zijn groepsdiners voor bedrijfsuitjes vanaf 15 personen (zie §6g). Bied bij een B&B-boeking dus geen BBQ, pizza-workshop of stamppotbuffet aan.
-- Aankomstdag bepaalt de prijs: vrijdag/zaterdag is duurder dan zondag/maandag. Reken de weekdag van een concrete datum ALTIJD exact uit met de actuele datum; gok de dag nooit. Twijfel je, verifieer dan via de online reservering. Een fout hierin geeft zowel een verkeerde prijs als de verkeerde boekingslink.
+- Aankomstdag bepaalt de prijs: vrijdag/zaterdag is duurder dan zondag/maandag. Bereken de weekdag van een concrete datum NOOIT zelf uit je hoofd; leid de dag ALTIJD af via de kalender (de Kalender-tool waar beschikbaar, anders de actuele-datumfunctie). Gok de dag nooit en reken 'm nooit met de hand na. Twijfel je, verifieer dan via de online reservering. Een fout hierin geeft zowel een verkeerde prijs als de verkeerde boekingslink.
 - Zomervakantie Special: B&B-arrangement voor **2 overnachtingen** tijdens de zomervakantie, boekbaar via de eigen deeplink (zie §11). [navragen: exacte periode, prijs en inhoud van de Zomervakantie Special]
 - Ontbijt: verse broodjes, gekookt eitje, onbeperkt koffie/thee/jus, biologische boerderijzuivel en eigen bierbostelgranola.
 - Alle kamers hebben wifi (glasvezel).
