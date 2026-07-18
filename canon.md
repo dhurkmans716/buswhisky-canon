@@ -500,3 +500,23 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 - Zomervakantie Special: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=a3f20a31&ft-friend=A33E7D149F0C277572FAF145C775BF74
 - Zondagdeal: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=e3b8f704&ft-friend=723B672E15B6FB1C53806FBC0F26CC42
 <!-- FORMITABLE-DEEPLINKS:END -->
+
+---
+
+## Goedgekeurde aanvullingen (18 juli 2026)
+
+> Automatisch toegevoegd na goedkeuring van de wekelijkse canon-check. Verwerk deze punten op de juiste plek in het document en verwijder dit blok daarna.
+
+- [nieuw] Tafelproeverij (geen reservering nodig): 3 glaasjes 'De Kennismaking' € 19,50 / 6 glaasjes 'De Volledige Beleving' € 29,50, inclusief bites en smaakkaartjes. Toevoegen aan §6k of nieuwe subsectie. (buswhisky.com/whiskyproeverij)
+- [nieuw] Camperplaatsen beperkt tot voertuigen tot maximaal 8 meter. Toevoegen aan §6a. (buswhisky.com/camperplaats)
+- [nieuw] Workshop Whisky Stoken: drie varianten - 'Middays' € 125 p.p., 'Monday After Work' € 150 p.p., 'Weekend' (prijs navragen). Inclusief gepersonaliseerde hand-gesealde fles als take-away. Toevoegen als nieuwe sectie. (buswhisky.com/workshops-whisky-stoken)
+- [nieuw] B Impact Score 89,2 (mediaan bij certificering: 80). Toevoegen aan §5. (buswhisky.com/awards-erkenningen)
+- [nieuw] Extra awards: Asia Wine & Spirits Challenge 2023 Goud, Yellow Line Design Awards 2023, The Spirits Business Awards 2024 duurzaamheidsprijs, Finalist The Spirits Sustainability Awards 2024, Lonely Planet, Food100, Top 5 beste Nederlandse whisky's, Top 5 meest bijzondere camperplaatsen ANWB. Toevoegen aan §7. (buswhisky.com/awards-erkenningen)
+- [nieuw] Theatershow premiere april 2025 De Lievekamp Oss; 2025 ook Markant Theater Maashorst en zeven Kinepolis-locaties. Toevoegen aan §6m als historische context. (Wikipedia)
+- [gewijzigd] Camping Culinair prijs: mail bevestigt € 99,50 p.p. inclusief wijn-/whiskyarrangement voor 5 gangen. Navragen of dit de canonieke prijs is en toevoegen aan §6a. (verzonden mail 2026-07-17)
+- [gewijzigd] Juridische entiteit B Corp: Wikipedia noemt 'Bus Whisky Cooperatie U.A.' - controleer of dit de correcte naam is voor de B Corp-certificering en pas §1/§5 aan indien nodig.
+- [gewijzigd] Tijdlijn 2013: Wikipedia noemt kirsch/kersenlikeur als voorgeschiedenis vanaf 2013. Controleer of dit als mijlpaal in §3 moet worden opgenomen.
+- [ontbreekt in canon] Uitchecktime camperplaats: chatbot had geen antwoord. Navragen en toevoegen aan §6a.
+- [ontbreekt in canon] Cask programma details (minimale investering, rijpingstermijn, ontvangst). Navragen en uitbreiden in §6l.
+- [interne tegenspraak] Weekendje Bus: canon §6f vermeldt 1x diner bij 2 overnachtingen. Controleer of het arrangement 1 of 2 diners omvat en pas §6f aan.
+- [interne tegenspraak] Bot antwoordde actief dat B&B-arrangementen 'altijd voor 2 overnachtingen' zijn - onjuist. Bot-instructie in §10b/§6f aanscherpen zodat de bot dit onderscheid correct maakt.
