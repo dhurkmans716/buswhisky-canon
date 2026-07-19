@@ -92,8 +92,10 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Camping Culinair is een sfeervol culinair avondevenement bij Bus Whisky, op geselecteerde avonden: ongeveer één keer per maand en op feestdagen. De data wisselen.
 - Frequentie: ongeveer 1x per maand plus feestdagen (wisselende data).
 - Campergasten kunnen aanschuiven; het event is ook los te boeken.
-- De beschikbare avonden en de eerstvolgende datum staan op de boekingspagina (deeplink Camping Culinair in §11). Reken zelf nooit een datum uit en noem geen datum uit jezelf.
-- Bij de vraag 'wanneer is de eerstvolgende Camping Culinair?': leg uit dat het ongeveer maandelijks en op feestdagen is met wisselende data, en stuur de boekingsdeeplink (§11) zodat de gast zelf de eerstvolgende beschikbare datum en alle avonden ziet.
+<!-- CAMPING-CULINAIR-DATUM:START -->
+- Eerstvolgende beschikbare datum: vrijdag 28 augustus 2026 (automatisch bijgewerkt uit de boeking). Noem deze datum als iemand vraagt wanneer de eerstvolgende Camping Culinair is, en stuur de boekingsdeeplink (Camping Culinair in §11) zodat de gast alle avonden ziet en direct boekt.
+<!-- CAMPING-CULINAIR-DATUM:END -->
+- Reken zelf nooit een datum uit; de eerstvolgende datum hierboven wordt automatisch bijgewerkt. Ontbreekt 'ie, verwijs dan naar de boekingsdeeplink (§11) zodat de gast de beschikbare avonden ziet.
 - Het is een 4-gangen diner met whisky-pairings in festivalsfeer.
 - Prijs: € 99,50 p.p. (4-gangen diner met whisky-pairings).
 
