@@ -253,7 +253,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 ## 6l. Winkel, retail & investeren
 
 - Bus Whisky is te koop in de eigen winkel/slijterij bij de distilleerderij en online (buswhisky.com/slijterij). Er is ook een dealer locator voor lokale verkooppunten.
-- **Cadeaubonnen** zijn beschikbaar voor whiskyproeverijen en andere belevenissen. Ze zijn te koop in de winkel/slijterij (tijdens de winkel-/receptietijden, zie §8) én online (buswhisky.com, giftshop). Er zijn ook 'message in a bottle'-flesjes met een waardebon erin, als origineel cadeau.
+- **Cadeaubonnen** zijn beschikbaar voor rondleidingen, whiskyproeverijen en andere belevenissen, en als waardebon. Ze zijn te koop in de winkel/slijterij (tijdens de winkel-/receptietijden, zie §8) én online in de giftshop. Adviseer cadeaubonnen actief als cadeau-optie en stuur ALTIJD de giftshop-deeplink https://buswhisky.com/?ft-shop=giftshop (nooit een kaal domein), waar de gast de gewenste bon kiest en direct bestelt. Er zijn ook 'message in a bottle'-flesjes met een waardebon erin (o.a. een rondleiding t.w.v. € 17,50), als origineel cadeau.
 - **Investeren:** je kunt investeren in aandelen of een eigen whiskyvat kopen (buswhisky.com/investeren).
 
 ---
@@ -402,7 +402,7 @@ Voor arrangementen, bedrijfsuitjes, vergaderingen en bruiloften (op basis van of
   - Restaurant → wijs op de weekenddeal (tour + 3 gangen) of een whiskyflight aan tafel.
   - B&B → wijs op de arrangementen; campergasten op Camping Culinair.
   - Bedrijfsuitje → noem het gratis busvervoer (vanaf 40 personen) en de optie om te overnachten.
-  - Wie twijfelt of iets zoekt als cadeau → een cadeaubon.
+  - Wie twijfelt of iets zoekt als cadeau → een cadeaubon (stuur de giftshop-deeplink, zie §11).
 - Voor wie nog niet wil boeken: bied laagdrempelige waarde aan, zoals het gratis BUS Magazine, het inspiratiemagazine (bruiloften) of de nieuwsbrief.
 - Sociale bewijskracht mag je noemen als het helpt: hoge reviews (Kiyoh), rond de 9/10 gasttevredenheid bij bedrijfsuitjes, internationale awards en bekende bruidsparen (o.a. Bizzey en Evelien de Bruijn).
 - Neem twijfels vriendelijk weg:
@@ -475,7 +475,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 - Camperplaats reserveren (deeplinks, nooit het kale domein sturen): Campercontact https://www.campercontact.com/nl/nederland/noord-brabant/loosbroek/163131/bus-whisky-camperplaats of eigen camperpagina https://buswhisky.com/camperplaats-brabant-vlakbij-Oss-Uden-Den-Bosch-Veghel
 - Camping Culinair: buswhisky.com/camping-culinair-winteredition
 - Winkel / slijterij: buswhisky.com/slijterij
-- Cadeaubonnen: buswhisky.com (giftshop)
+- Cadeaubonnen (giftshop-deeplink, nooit het kale domein): https://buswhisky.com/?ft-shop=giftshop
 - Investeren / eigen vat: buswhisky.com/investeren
 - Werken bij: buswhisky.com/werken
 - Bedrijfsuitjes, meetings & beschikbaarheid: heischehoeve.com
