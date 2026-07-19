@@ -93,7 +93,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Frequentie: ongeveer 1x per maand plus feestdagen (wisselende data).
 - Campergasten kunnen aanschuiven; het event is ook los te boeken.
 <!-- CAMPING-CULINAIR-DATUM:START -->
-- Eerstvolgende beschikbare datum: vrijdag 28 augustus 2026 (automatisch bijgewerkt uit de boeking). Noem deze datum als iemand vraagt wanneer de eerstvolgende Camping Culinair is, en stuur de boekingsdeeplink (Camping Culinair in §11) zodat de gast alle avonden ziet en direct boekt.
+- Eerstvolgende beschikbare datum: vrijdag 28 augustus 2026 (automatisch bijgewerkt uit de boeking). Noem deze datum als iemand vraagt wanneer de eerstvolgende Camping Culinair is, en stuur de boekingsdeeplink (Camping Culinair in sectie 11) zodat de gast alle avonden ziet en direct boekt.
 <!-- CAMPING-CULINAIR-DATUM:END -->
 - Reken zelf nooit een datum uit; de eerstvolgende datum hierboven wordt automatisch bijgewerkt. Ontbreekt 'ie, verwijs dan naar de boekingsdeeplink (§11) zodat de gast de beschikbare avonden ziet.
 - Het is een 4-gangen diner met whisky-pairings in festivalsfeer.
