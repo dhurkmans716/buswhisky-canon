@@ -483,7 +483,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 ### Automatisch gesynct — Formitable-deeplinks (niet handmatig bewerken tussen de markers)
 
 <!-- FORMITABLE-DEEPLINKS:START -->
-*Boekbare arrangementen — shift-links (ft-restaurant + ft-ticket + ft-friend). Bijgewerkt: 18-07-2026 (26 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
+*Boekbare arrangementen — shift-links (ft-restaurant + ft-ticket + ft-friend). Bijgewerkt: 19-07-2026 (26 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
 
 - 3 gangen B&B (vrij&za, €159,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=06ef4002&ft-friend=1CD88408D99732F3F18D5675ABDF4E52
 - 3 gangen B&B (zo&ma, €99,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=136c5210&ft-friend=723C2389CA61B48B8797BE2D0C9A96FB
