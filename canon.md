@@ -92,6 +92,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Camping Culinair is een sfeervol culinair avondevenement bij Bus Whisky, op geselecteerde avonden: ongeveer één keer per maand en op feestdagen. De data wisselen.
 - Frequentie: ongeveer 1x per maand plus feestdagen (wisselende data).
 - Campergasten kunnen aanschuiven; het event is ook los te boeken.
+- Boeken of alle beschikbare avonden bekijken: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=9a9705ef
 <!-- CAMPING-CULINAIR-DATUM:START -->
 - Eerstvolgende beschikbare datum: vrijdag 28 augustus 2026 (automatisch bijgewerkt uit de boeking). Noem deze datum als iemand vraagt wanneer de eerstvolgende Camping Culinair is, en stuur de boekingsdeeplink (Camping Culinair in sectie 11) zodat de gast alle avonden ziet en direct boekt.
 <!-- CAMPING-CULINAIR-DATUM:END -->
