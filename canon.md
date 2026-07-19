@@ -95,7 +95,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - De beschikbare avonden en de eerstvolgende datum staan op de boekingspagina (deeplink Camping Culinair in §11). Reken zelf nooit een datum uit en noem geen datum uit jezelf.
 - Bij de vraag 'wanneer is de eerstvolgende Camping Culinair?': leg uit dat het ongeveer maandelijks en op feestdagen is met wisselende data, en stuur de boekingsdeeplink (§11) zodat de gast zelf de eerstvolgende beschikbare datum en alle avonden ziet.
 - Het is een 4-gangen diner met whisky-pairings in festivalsfeer.
-- [navragen: prijs. Nog niet bevestigd. Een mail van 17 juli noemde € 99,50 p.p., maar dat was gekoppeld aan een onjuiste 5-gangen-versie, dus die prijs staat niet vast. Noem tot bevestiging geen prijs uit jezelf; verwijs voor de actuele prijs naar de boekingsdeeplink (§11).]
+- Prijs: € 99,50 p.p. (4-gangen diner met whisky-pairings).
 
 ---
 
@@ -525,7 +525,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 - [nieuw] B Impact Score 89,2 (mediaan bij certificering: 80). Toevoegen aan §5. (buswhisky.com/awards-erkenningen)
 - [nieuw] Extra awards: Asia Wine & Spirits Challenge 2023 Goud, Yellow Line Design Awards 2023, The Spirits Business Awards 2024 duurzaamheidsprijs, Finalist The Spirits Sustainability Awards 2024, Lonely Planet, Food100, Top 5 beste Nederlandse whisky's, Top 5 meest bijzondere camperplaatsen ANWB. Toevoegen aan §7. (buswhisky.com/awards-erkenningen)
 - [nieuw] Theatershow premiere april 2025 De Lievekamp Oss; 2025 ook Markant Theater Maashorst en zeven Kinepolis-locaties. Toevoegen aan §6m als historische context. (Wikipedia)
-- [gewijzigd] Camping Culinair: het aantal gangen is bevestigd op 4 (niet 5), verwerkt in §6a-1. De prijs uit de mail van 17 juli (€ 99,50 p.p.) was gekoppeld aan de onjuiste 5-gangen-versie en staat dus nog niet vast; prijs nog navragen. (verzonden mail 2026-07-17)
+- [verwerkt] Camping Culinair: 4 gangen én prijs € 99,50 p.p. bevestigd en verwerkt in §6a-1. Niets meer open.
 - [gewijzigd] Juridische entiteit B Corp: Wikipedia noemt 'Bus Whisky Cooperatie U.A.' - controleer of dit de correcte naam is voor de B Corp-certificering en pas §1/§5 aan indien nodig.
 - [gewijzigd] Tijdlijn 2013: Wikipedia noemt kirsch/kersenlikeur als voorgeschiedenis vanaf 2013. Controleer of dit als mijlpaal in §3 moet worden opgenomen.
 - [ontbreekt in canon] Uitchecktime camperplaats: chatbot had geen antwoord. Navragen en toevoegen aan §6a.
