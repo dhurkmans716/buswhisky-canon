@@ -370,6 +370,11 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 
 ---
 
+## 9a-1. Facturatie & aanbetaling (bedrijfsuitjes en events)
+
+- De aanbetalingsfactuur wordt bij reservering gestuurd op basis van het op dat moment bekende aantal personen; op de eindafrekening wordt gecorrigeerd naar het daadwerkelijke aantal.
+- Het aantal personen is aanpasbaar tot 7 dagen voor aankomst. 10 dagen voor aankomst volgt een automatische reminder, inclusief een check van de dieetwensen.
+
 ## 9b. Annuleringsvoorwaarden opdrachtgever (algemene voorwaarden, artikel 8)
 
 Voor arrangementen, bedrijfsuitjes, vergaderingen en bruiloften (op basis van offerte/overeenkomst) gelden deze annuleringsvoorwaarden uit de algemene voorwaarden — niet de 24-uursregel van individuele reserveringen.
