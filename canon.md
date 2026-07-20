@@ -268,7 +268,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 ### Speellijst theatershow (automatisch gesynct uit buswhisky.com/theatershow — niet handmatig bewerken tussen de markers)
 
 <!-- THEATERSHOW:START -->
-*Automatisch gesynct uit buswhisky.com/theatershow. Bijgewerkt: 19-07-2026 (21 voorstellingen). Controleer kaartverkoop en actuele data bij het theater.*
+*Automatisch gesynct uit buswhisky.com/theatershow. Bijgewerkt: 20-07-2026 (21 voorstellingen). Controleer kaartverkoop en actuele data bij het theater.*
 
 - vrijdag 11 september 2026 — Amersfoort, Flint (muziek: Erwin Nyhoff)
 - woensdag 16 september 2026 — Uden, Markant (muziek: Björn van der Doelen)
