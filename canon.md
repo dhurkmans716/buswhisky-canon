@@ -536,3 +536,26 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 - [ontbreekt in canon] Cask programma details (minimale investering, rijpingstermijn, ontvangst). Navragen en uitbreiden in §6l.
 - [interne tegenspraak] Weekendje Bus: canon §6f vermeldt 1x diner bij 2 overnachtingen. Controleer of het arrangement 1 of 2 diners omvat en pas §6f aan.
 - [interne tegenspraak] Bot antwoordde actief dat B&B-arrangementen 'altijd voor 2 overnachtingen' zijn - onjuist. Bot-instructie in §10b/§6f aanscherpen zodat de bot dit onderscheid correct maakt.
+
+---
+
+## Goedgekeurde aanvullingen (20 juli 2026)
+
+> Automatisch toegevoegd na goedkeuring van de wekelijkse canon-check. Verwerk deze punten op de juiste plek in het document en verwijder dit blok daarna.
+
+- [nieuw] Tafelproeverij (geen reservering nodig): 3 glaasjes 'De Kennismaking' € 19,50 / 6 glaasjes 'De Volledige Beleving' € 29,50, inclusief bites en smaakkaartjes. Toevoegen aan §6k of nieuwe subsectie. (buswhisky.com/whiskyproeverij)
+- [nieuw] Camperplaatsen beperkt tot voertuigen tot maximaal 8 meter. Toevoegen aan §6a. (buswhisky.com/camperplaats)
+- [nieuw] Workshop Whisky Stoken: drie varianten - 'Middays' € 125 p.p., 'Monday After Work' € 150 p.p., 'Weekend' (prijs navragen). Inclusief gepersonaliseerde hand-gesealde fles als take-away. Toevoegen als nieuwe sectie. (buswhisky.com/workshops-whisky-stoken)
+- [nieuw] B Impact Score 89,2 (mediaan bij certificering: 80). Toevoegen aan §5. (buswhisky.com/awards-erkenningen)
+- [nieuw] Extra awards: Asia Wine & Spirits Challenge 2023 Goud, Yellow Line Design Awards 2023, The Spirits Business Awards 2024 duurzaamheidsprijs, Finalist The Spirits Sustainability Awards 2024, Lonely Planet, Food100, Top 5 beste Nederlandse whisky's, Top 5 meest bijzondere camperplaatsen ANWB. Toevoegen aan §7. (buswhisky.com/awards-erkenningen)
+- [nieuw] Theatershow premiere april 2025 De Lievekamp Oss; 2025 ook Markant Theater Maashorst en zeven Kinepolis-locaties. Toevoegen aan §6m als historische context. (Wikipedia)
+- [gewijzigd] Camping Culinair prijs: mail bevestigt € 99,50 p.p. inclusief wijn/whiskyarrangement. Canon §6a-1 noemt € 99,50 p.p. maar is niet expliciet over of drank inbegrepen is. Controleer en verduidelijk in §6a-1. (verzonden mail angelieketelaars)
+- [ontbreekt in canon] Uitchecktime camperplaats: chatbot had geen antwoord. Navragen en toevoegen aan §6a.
+- [ontbreekt in canon] Prijstarief B&B voor extra zomerse aankomstdagen (di t/m do in juli/augustus): canon vermeldt de extra dagen maar niet welk tarief (vr/za of zo/ma) van toepassing is. Navragen en toevoegen aan §6f.
+- [ontbreekt in canon] Cask programma details (minimale investering, rijpingstermijn, ontvangst). Navragen en uitbreiden in §6l.
+- [verschil met Wikipedia] Startjaar voorgeschiedenis: canon §3 begint in 2015; Wikipedia noemt 2013 als start kirsch/kersenlikeur. Controleer of 2013 als mijlpaal in §3 moet worden opgenomen.
+- [verschil met Wikipedia] Juridische entiteit B Corp: Wikipedia noemt 'Bus Whisky Coöperatie U.A.'; canon §1 noemt 'Bus Whisky Distillers' als juridische naam. Controleer welke entiteit correct is voor de B Corp-certificering en pas §1/§5 aan indien nodig.
+- [verschil met Wikipedia] London Spirits Competition: Wikipedia noemt drie jaren (2020, 2021, 2023); canon §7 noemt alleen '2x Zilver'. Controleer of er een derde vermelding ontbreekt en pas §7 aan.
+- [interne tegenspraak] Weekendje Bus diner: §6f vermeldt '1x diner' bij 2 overnachtingen. Controleer of het arrangement 1 of 2 diners omvat en pas §6f aan.
+- [interne tegenspraak] Drank bij Camping Culinair: §6f stelt dat drank niet inbegrepen is bij B&B; mail suggereert dat wijn/whiskyarrangement wel inbegrepen is bij Camping Culinair (€ 99,50 p.p.). Verduidelijk in §6a-1 of drank inbegrepen is of apart komt.
+- [interne tegenspraak] B&B aankomstdagen zomer en prijstarief: §6f noemt extra aankomstdagen di t/m do in juli/augustus maar specificeert niet welk prijstarief dan geldt. Navragen en toevoegen aan §6f.
