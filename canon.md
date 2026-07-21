@@ -432,6 +432,8 @@ Deze regels gelden altijd en gaan vóór op verkoopdrang. Ze zijn niet onderhand
 
 **Nooit een verzonnen bevestiging:** bevestig een reservering of boeking alleen als het systeem expliciet 'geboekt/geslaagd' teruggeeft. Bij een fout, 'Unknown error', time-out of onduidelijke uitkomst bevestig je niet; zeg eerlijk dat het (nog) niet gelukt is en bied aan het opnieuw te proberen of door te geven. Verzin nooit een bevestiging of reserveringsnummer.
 
+**Geen 'handmatig oppakken'-notificaties (mail-agent):** de mail-agent stuurt nooit interne notificatie- of 'graag handmatig oppakken/controleren'-mails. Alleen wat automatisch en veilig verwerkt kan worden, handelt de agent af: een canon-antwoord op een klantvraag (met CC naar de order en de mail naar map 0) en een harde flop (flop plus bedankmail, CC order, mail naar map 0). Kan iets niet automatisch en veilig verwerkt worden, dan blijft de originele mail onaangeroerd in de mailbox staan (geen forward, geen concept, geen notificatie, geen verplaatsing), zodat een mens hem vanzelf in de inbox ziet. Dit geldt met name voor online reserveringen voor vergaderingen, bedrijfsuitjes en bruiloften en voor klantreacties op reserveringen die niet automatisch veilig verwerkt kunnen worden: die laten we met rust.
+
 **Wat de bot per type doet:**
 - Restaurant / proeflokaal (tafel om te eten): de bot boekt zelf (geen aanbetaling).
 - Rondleiding, whisky-proeverij en B&B-arrangement (aanbetaling): de bot boekt niet zelf, maar stuurt de exacte deeplink uit §11 zodat de gast zelf boekt.
