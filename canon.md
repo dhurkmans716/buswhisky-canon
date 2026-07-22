@@ -165,7 +165,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 
 ## 6f. Bed & Breakfast / overnachten
 
-- 28 kamers met eigen badkamer: 4 kamers met een tweepersoonsbed, 24 kamers met losse eenpersoonsbedden.
+- 28 kamers met eigen badkamer: 4 kamers met een tweepersoonsbed, 24 kamers met losse eenpersoonsbedden. **28 is het harde, canonieke aantal.** Op heischehoeve.com/bekijk-locatie staat nog 26 kamers; dat is verouderd. Noem nooit 26, en meld dit verschil niet elke week opnieuw als afwijking: de canon is leidend, de website moet nog bijgewerkt worden.
 - Capaciteit — HARD MAXIMUM (overnachten): 28 kamers, elk voor **maximaal 2 personen**, dus wij kunnen **maximaal 56 gasten laten overnachten** — nooit meer. Standaard rekenen we 1 persoon per kamer (28 personen); bij 2 per kamer maximaal 56 (zoals bij bruiloften en groepen). Zeg dit stellig en beloof of boek nooit een overnachting voor meer dan 56 personen.
 - Meer dan 56 overnachtingen nodig? Extra kamers kunnen eventueel geboekt worden bij **Fletcher Hotel Uden** (vlakbij). En voor liefhebbers met een camper hebben we **15 camperplaatsen** op eigen erf (zie §6a).
 - B&B-arrangementen (tour + culinair diner + overnachting + ontbijt) zijn **standaard voor 1 nacht** (1 overnachting), aankomst vrijdag/zaterdag of zondag/maandag, vanaf € 99,50 p.p.: 3 gangen € 159,50 (vr/za) / € 99,50 (zo/ma) · 4 gangen € 169,50 (vr/za) / € 109,50 (zo/ma) · 5 gangen € 179,50 (vr/za) / € 119,50 (zo/ma) (prijzen per persoon, afhankelijk van aankomstdag). Neem NOOIT zelf aan dat een arrangement meerdere nachten omvat; alleen Weekendje Bus en de Zomervakantie Special zijn voor 2 nachten.
