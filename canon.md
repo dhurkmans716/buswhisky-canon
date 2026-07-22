@@ -56,7 +56,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 ## 5. Certificeringen & status (alle 2025)
 
 - **B Corp™** — eerste Nederlandse whiskydistilleerderij met B Corp, en de **tiende whiskyproducent ter wereld** (gebruik consequent "de tiende" — niet "één van de 10")
-- **Biologisch** — alle gerst gecertificeerd biologisch op SKAL-gecertificeerde gronden (vanaf 2025; daarvoor al zonder kunstmest/pesticiden)
+- **Biologisch** — alle gerst gecertificeerd biologisch op SKAL-gecertificeerde gronden (vanaf 2025; daarvoor al zonder kunstmest/pesticiden). **HARD ONDERSCHEID: de gerst, de grond en het productieproces zijn biologisch gecertificeerd, maar de whisky die nu in de fles zit is dat nog NIET.** Distillaat moet minimaal vijf jaar rijpen, dus de eerste biologische Bus Whisky wordt naar verwachting pas rond 2030 geopend. Zeg dus nooit 'onze whisky is biologisch' of 'biologische whisky' over het huidige assortiment. Correct is: wij telen en stoken biologisch en zijn SKAL-gecertificeerd; de eerste biologisch gecertificeerde whisky komt rond 2030. Het restaurant werkt wél al vrijwel volledig biologisch (zie §6e).
 - **ISO 22000** — voedselveiligheid, belangrijk voor export
 - Energie: 100% hernieuwbaar; flessen van 100% gerecycled glas; lakzegel van bijenwas uit eigen imkerij
 
@@ -205,6 +205,33 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 
 ---
 
+## 6g-1. Zalen & capaciteiten (vergaderen en events)
+
+Bron: heischehoeve.com/bekijk-locatie. Gebruik deze aantallen als maximum per opstelling en beloof nooit meer. Twijfel je of een specifiek arrangement bij dat aantal past, check dan alsnog het min/max per arrangement (zie §6g).
+
+**Leygraefzaal** (Leygraafvleugel, plenaire zaal, 200 m2, 19,0 x 10,5 m) — de grootste zaal:
+| U-vorm | Carré | Cabaret | Theater | Borrel | Diner |
+|---|---|---|---|---|---|
+| 40 | 60 | 150 | 250 | 350 | 200 |
+
+**Dommelzaal** (Dommelvleugel, plenaire zaal, 105 m2, 10,0 x 10,5 m):
+| U-vorm | Carré | Cabaret | Theater | Borrel | Diner |
+|---|---|---|---|---|---|
+| 20 | 30 | 50 | 80 | 130 | 80 |
+
+**Proeflokaal** (plenaire zaal, 126 m2, 12,0 x 10,5 m):
+| U-vorm | Carré | Cabaret | Theater | Borrel | Diner |
+|---|---|---|---|---|---|
+| 20 | 30 | 50 | 80 | 150 | 80 |
+
+**Foyers** (Leygraaf-foyer en Dommel-foyer): pantry en ruimte voor ontbijt, lunch en diner, vaak gebruikt als break-outruimte. Elk maximaal 60 personen voor een borrel en 40 voor een diner. Niet geschikt voor vergaderopstellingen (U-vorm, carré, cabaret, theater).
+
+- Grootste capaciteit in huis is dus 350 personen (borrel in de Leygraefzaal) en 250 in theateropstelling. Vergaderen in U-vorm kan tot 40 personen.
+- De zalen hebben airco (de B&B-kamers niet, zie §6f).
+- Let op: dit zijn zaalcapaciteiten, geen overnachtingscapaciteit. Voor overnachten geldt het harde maximum uit §6f.
+
+---
+
 ## 6h. Parkeren, opladen & faciliteiten
 
 - Gratis parkeergelegenheid op het terrein.
@@ -326,6 +353,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 
 | Wedstrijd | Medaille | Jaar |
 |---|---|---|
+| Spirits Business Awards (Londen), categorie Sustainability & Innovation | Winnaar | — |
 | Hongkong (duurzaamheid) | Goud | 2021 |
 | China Wine & Spirit Competition | Goud | — |
 | Asian Wine & Spirit Competition | Goud | — |
