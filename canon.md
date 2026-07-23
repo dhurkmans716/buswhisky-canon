@@ -674,3 +674,14 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 - [verschil met Wikipedia] London Spirits Competition: Wikipedia noemt drie jaren (2020, 2021, 2023); canon §7 noemt alleen '2x Zilver'. Controleer of er een derde vermelding ontbreekt en pas §7 aan.
 - [interne tegenspraak] Weekendje Bus diner: §6f vermeldt '1x diner' bij 2 overnachtingen. Controleer of het arrangement 1 of 2 diners omvat en pas §6f aan.
 - [interne tegenspraak] B&B aankomstdagen zomer en prijstarief: §6f noemt extra aankomstdagen di t/m do in juli/augustus maar specificeert niet welk prijstarief dan geldt. Navragen en toevoegen aan §6f.
+
+<!-- WEBSITE-LEAD-AUTOMATIE:START -->
+## Website-leads (webchat) -> automatische KMT concept-offerte
+
+Leads uit de website-webchat komen binnen als mail met onderwerp "Nieuwe website-lead (via Claude van Bus Whisky)" en worden automatisch verwerkt door de Mail-brein-router (categorie website-lead -> sub "Website-lead -> KMT offerte-CONCEPT").
+
+- De klant wordt direct in KMT aangemaakt (of hergebruikt als de e-mail al bestaat). Onbekende verplichte bedrijfs-/persoonsvelden worden met een spatie gevuld zodat KMT niet blokkeert; geslacht wordt afgeleid uit de voornaam.
+- Er wordt een offerte-CONCEPT (status Offerte, quoteStatus 0) klaargezet: gekozen arrangement uit de lijst of MAATWERK als er geen past; aantal personen; gewenste datum (losse datum, of + X nachten -> einddatum = start + X nachten); en de volledige leadcontext als zichtbare omschrijving.
+- GEEN prijzen invullen en GEEN offerte-mail naar de klant: een mens controleert de prijzen en verstuurt de offerte zelf. Interne melding naar info@; leadmail naar map 0.
+- Harde duplicaat-guard: bestaat er voor deze klant/e-mail al een order rond de gevraagde datum (zelfde/nabije datum) of een recente/aankomende order, dan wordt er NIETS aangemaakt (alleen leadmail naar map 0). Streng bij twijfel: niet aanmaken.
+<!-- WEBSITE-LEAD-AUTOMATIE:END -->
