@@ -98,7 +98,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 <!-- CAMPING-CULINAIR-DATUM:END -->
 - Reken zelf nooit een datum uit; de eerstvolgende datum hierboven wordt automatisch bijgewerkt. Ontbreekt 'ie, verwijs dan naar de boekingsdeeplink (§11) zodat de gast de beschikbare avonden ziet.
 - Het is een 4-gangen diner met bijpassende pairings in festivalsfeer.
-- Prijs: € 99,50 p.p. Anders dan bij het reguliere B&B-arrangement en het restaurant is bij Camping Culinair de pairing WEL standaard inbegrepen in deze prijs. De gast kiest zelf de vorm: whisky-pairing, wijn-pairing of een alcoholvrije pairing. Wie geen whisky drinkt, krijgt dus gewoon de wijn- of alcoholvrije variant; dat is geen uitzondering die apart geregeld moet worden en de prijs blijft € 99,50 p.p.
+- Prijs: € 99,50 p.p. Anders dan bij het reguliere B&B-arrangement en het restaurant is bij Camping Culinair de pairing WEL standaard inbegrepen in deze prijs. De pairing is een vast, onlosmakelijk onderdeel van het event: Camping Culinair zonder pairing bestaat niet en is niet te boeken. Alleen de vórm is een keuze, niet óf er een pairing is: de gast kiest whisky-pairing, wijn-pairing of een alcoholvrije pairing. Wie geen whisky drinkt krijgt gewoon de wijn- of alcoholvrije variant, tegen dezelfde prijs van € 99,50 p.p.
 
 ---
 
