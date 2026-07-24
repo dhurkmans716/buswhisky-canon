@@ -301,7 +301,7 @@ Bron: heischehoeve.com/bekijk-locatie. Gebruik deze aantallen als maximum per op
 ### Speellijst theatershow (automatisch gesynct uit buswhisky.com/theatershow — niet handmatig bewerken tussen de markers)
 
 <!-- THEATERSHOW:START -->
-*Automatisch gesynct uit buswhisky.com/theatershow. Bijgewerkt: 22-07-2026 (21 voorstellingen). Controleer kaartverkoop en actuele data bij het theater.*
+*Automatisch gesynct uit buswhisky.com/theatershow. Bijgewerkt: 24-07-2026 (21 voorstellingen). Controleer kaartverkoop en actuele data bij het theater.*
 
 - vrijdag 11 september 2026 — Amersfoort, Flint (muziek: Erwin Nyhoff)
 - woensdag 16 september 2026 — Uden, Markant (muziek: Björn van der Doelen)
