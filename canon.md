@@ -154,7 +154,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Het restaurant is een proeflokaal en farmhouse restaurant in Loosbroek. Geen à la carte, maar een regelmatig wisselend **table d'hôte verrassingsmenu** met kleine gerechten; seizoensgebonden, vrijwel volledig biologisch, met lokale producten en uit eigen voedselbos.
 - Menuprijzen: 1 gang € 24,50 · 2 gangen € 39,50 · 3 gangen € 49,50 · 4 gangen € 59,50 · 5 gangen € 69,50.
 - Per gang is een whisky-, wijn- of alcoholvrije pairing mogelijk (wijnarrangement ook in BOB-variant; mocktails beschikbaar). Elk menu is ook vegan te bestellen.
-- Weekenddeal: elke vrijdag (17:00) en zondag (14:00) whiskytour + 3 gangen diner voor € 49,50 (normaal € 62,50); een extra gang is € 10.
+- Weekenddeal: elke vrijdag (vanaf 17:00) en zondag (14:00 aankomst/ontvangst, rondleiding start om 14:30) whiskytour + 3 gangen diner voor € 49,50 (normaal € 62,50); een extra gang is € 10.
 - Huisgebrouwen dranken: eigen bieren van eigen brouwgerst, cider van eigen appels, craft soda's, eau-de-vie en likeuren met fruit uit eigen voedselbos.
 - Reserveren heeft onze voorkeur. Inloop is ook mogelijk, maar zonder reservering is er geen garantie op een plek.
 - Het volledige meergangen verrassingsmenu kan ook buiten op het overdekte, verwarmde terras worden geserveerd.
@@ -170,10 +170,10 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Capaciteit — HARD MAXIMUM (overnachten): 28 kamers, elk voor **maximaal 2 personen**, dus wij kunnen **maximaal 56 gasten laten overnachten** — nooit meer. Standaard rekenen we 1 persoon per kamer (28 personen); bij 2 per kamer maximaal 56 (zoals bij bruiloften en groepen). Zeg dit stellig en beloof of boek nooit een overnachting voor meer dan 56 personen.
 - Meer dan 56 overnachtingen nodig? Extra kamers kunnen eventueel geboekt worden bij **Fletcher Hotel Uden** (vlakbij). En voor liefhebbers met een camper hebben we **15 camperplaatsen** op eigen erf (zie §6a).
 - B&B-arrangementen (tour + culinair diner + overnachting + ontbijt) zijn **standaard voor 1 nacht** (1 overnachting), aankomst vrijdag/zaterdag of zondag/maandag, vanaf € 99,50 p.p.: 3 gangen € 159,50 (vr/za) / € 99,50 (zo/ma) · 4 gangen € 169,50 (vr/za) / € 109,50 (zo/ma) · 5 gangen € 179,50 (vr/za) / € 119,50 (zo/ma) (prijzen per persoon, afhankelijk van aankomstdag). Neem NOOIT zelf aan dat een arrangement meerdere nachten omvat; alleen Weekendje Bus en de Zomervakantie Special zijn voor 2 nachten.
-- **De B&B-arrangementen zijn het hele jaar door boekbaar** (mits niet volgeboekt), dus ook in november en andere maanden. De standaard aankomstdagen zijn vrijdag/zaterdag of zondag/maandag. In vakantieperiodes en rond feestdagen zijn er vaak extra aankomstdagen mogelijk (in juli en augustus standaard ook dinsdag t/m donderdag). Concludeer dus nooit dat een arrangement in een bepaalde maand onmogelijk is; de aankomstdagen bepalen alleen op welke dag je kunt starten, niet in welke maanden het kan. Voor de echte beschikbare data verwijs je naar de online reservering (deeplink in §11).
+- **De B&B-arrangementen zijn het hele jaar door boekbaar** (mits niet volgeboekt), dus ook in november en andere maanden. De standaard aankomstdagen zijn vrijdag/zaterdag of zondag/maandag. In vakantieperiodes en rond feestdagen zijn er vaak extra aankomstdagen mogelijk (in juli en augustus standaard ook dinsdag t/m donderdag; voor die doordeweekse zomerse aankomstdagen gelden de zondag/maandag-tarieven, dus de lagere prijs). Concludeer dus nooit dat een arrangement in een bepaalde maand onmogelijk is; de aankomstdagen bepalen alleen op welke dag je kunt starten, niet in welke maanden het kan. Voor de echte beschikbare data verwijs je naar de online reservering (deeplink in §11).
 - **Drank is NIET inbegrepen bij de B&B-arrangementen.** Het arrangement omvat tour, culinair diner, overnachting en ontbijt; dranken (ook de whisky-pairings bij het diner) zijn optioneel en komen apart op de rekening. Noem een B&B-arrangement dus nooit 'all-inclusive' en beweer nooit dat drankjes of pairings inbegrepen zijn. Onbeperkt drankjes horen alleen bij bedrijfsuitjes en bruiloften, niet bij de B&B. UITZONDERING: bij Camping Culinair is de pairing (whisky, wijn of alcoholvrij) wél standaard inbegrepen in de prijs; die regel geldt dus alleen voor het reguliere B&B-arrangement en het restaurant, zie §6a-1.
 - **Wijn-/whiskyarrangement (pairing bij het diner)**, apart te bestellen, niet inbegrepen: 2 gangen € 15,00 · 3 gangen € 22,50 · 4 gangen € 30,00 · 5 gangen € 37,50. Per gang selecteert de gastheer een passende wijn of whisky; een alcoholvrije pairing is ook mogelijk. Voorbeeld: een 5-gangen B&B-arrangement (€ 119,50 of € 179,50 afhankelijk van aankomstdag) plus de whisky-pairing kost € 37,50 per persoon extra.
-- Weekendje Bus (2 overnachtingen, aankomst zaterdag, incl. tour, 4-gangen diner, 2× ontbijt): € 199,50 p.p.
+- Weekendje Bus (2 overnachtingen, aankomst zaterdag, incl. tour, 4-gangen diner, 2× ontbijt): € 199,50 p.p. Het arrangement omvat 1 inbegrepen diner; de andere avond eet je optioneel buiten de deur (bijvoorbeeld in 's-Hertogenbosch) of in ons eigen boerderijrestaurant. Beloof dus nooit een tweede inbegrepen diner.
 - Actie-arrangement (via social media, o.a. Facebook): een B&B-arrangement inclusief een fles Bus Whisky. Dit is een lopende, echte actie die niet in het reguliere overzicht of de standaard deeplink-lijst staat, maar wél gewoon boekbaar is via de actie-deeplink (zie §11). Bevestig dat deze actie bestaat als een gast ernaar vraagt en stuur de deeplink; behandel het nooit als verouderd of onbekend. Verzin geen prijs of exacte inhoud; die ziet de gast op de boekingspagina.
 - Het diner bij het B&B-arrangement is het culinaire meergangen verrassingsmenu van het restaurant (farm-to-table / table d'hôte, in 3, 4 of 5 gangen), voor elk gezelschap ongeacht de groepsgrootte. De dinervarianten BBQ, pizza-workshop en stamppotbuffet horen NIET bij het B&B-arrangement; dat zijn groepsdiners voor bedrijfsuitjes vanaf 15 personen (zie §6g). Bied bij een B&B-boeking dus geen BBQ, pizza-workshop of stamppotbuffet aan.
 - Aankomstdag bepaalt de prijs: vrijdag/zaterdag is duurder dan zondag/maandag. Bereken de weekdag van een concrete datum NOOIT zelf uit je hoofd; leid de dag ALTIJD af via de kalender (de Kalender-tool waar beschikbaar, anders de actuele-datumfunctie). Gok de dag nooit en reken 'm nooit met de hand na. Twijfel je, verifieer dan via de online reservering. Een fout hierin geeft zowel een verkeerde prijs als de verkeerde boekingslink.
@@ -617,7 +617,6 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 - [gewijzigd] Tijdlijn 2013: Wikipedia noemt kirsch/kersenlikeur als voorgeschiedenis vanaf 2013. Controleer of dit als mijlpaal in §3 moet worden opgenomen.
 - [ontbreekt in canon] Uitchecktime camperplaats: chatbot had geen antwoord. Navragen en toevoegen aan §6a.
 - [ontbreekt in canon] Cask programma details (minimale investering, rijpingstermijn, ontvangst). Navragen en uitbreiden in §6l.
-- [interne tegenspraak] Weekendje Bus: canon §6f vermeldt 1x diner bij 2 overnachtingen. Controleer of het arrangement 1 of 2 diners omvat en pas §6f aan.
 - [interne tegenspraak] Bot antwoordde actief dat B&B-arrangementen 'altijd voor 2 overnachtingen' zijn - onjuist. Bot-instructie in §10b/§6f aanscherpen zodat de bot dit onderscheid correct maakt.
 
 ---
@@ -629,7 +628,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 *Consumentprijzen per persoon. Peildatum 22-07-2026 (bron: buswhisky.com), bevestigd door Dennis. Voor zakelijke offertes/vergaderarrangementen: verwijs naar sales — die lopen niet via dit blok.*
 
 ### Rondleiding / whiskytour
-- **Losse rondleiding (whiskytour)** — € 19,50 p.p.
+- **Losse rondleiding (whiskytour)** — € 17,50 p.p.
 - Campergasten: 50% korting op de rondleiding (zie §6a).
 
 ### Whiskyproeverijen (meerdere vormen — niet door elkaar halen)
@@ -673,13 +672,10 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 - [nieuw] Extra awards: Asia Wine & Spirits Challenge 2023 Goud, Yellow Line Design Awards 2023, The Spirits Business Awards 2024 duurzaamheidsprijs, Finalist The Spirits Sustainability Awards 2024, Lonely Planet, Food100, Top 5 beste Nederlandse whisky's, Top 5 meest bijzondere camperplaatsen ANWB. Toevoegen aan §7. (buswhisky.com/awards-erkenningen)
 - [nieuw] Theatershow premiere april 2025 De Lievekamp Oss; 2025 ook Markant Theater Maashorst en zeven Kinepolis-locaties. Toevoegen aan §6m als historische context. (Wikipedia)
 - [ontbreekt in canon] Uitchecktime camperplaats: chatbot had geen antwoord. Navragen en toevoegen aan §6a.
-- [ontbreekt in canon] Prijstarief B&B voor extra zomerse aankomstdagen (di t/m do in juli/augustus): canon vermeldt de extra dagen maar niet welk tarief (vr/za of zo/ma) van toepassing is. Navragen en toevoegen aan §6f.
 - [ontbreekt in canon] Cask programma details (minimale investering, rijpingstermijn, ontvangst). Navragen en uitbreiden in §6l.
 - [verschil met Wikipedia] Startjaar voorgeschiedenis: canon §3 begint in 2015; Wikipedia noemt 2013 als start kirsch/kersenlikeur. Controleer of 2013 als mijlpaal in §3 moet worden opgenomen.
 - [verschil met Wikipedia] Juridische entiteit B Corp: Wikipedia noemt 'Bus Whisky Coöperatie U.A.'; canon §1 noemt 'Bus Whisky Distillers' als juridische naam. Controleer welke entiteit correct is voor de B Corp-certificering en pas §1/§5 aan indien nodig.
 - [verschil met Wikipedia] London Spirits Competition: Wikipedia noemt drie jaren (2020, 2021, 2023); canon §7 noemt alleen '2x Zilver'. Controleer of er een derde vermelding ontbreekt en pas §7 aan.
-- [interne tegenspraak] Weekendje Bus diner: §6f vermeldt '1x diner' bij 2 overnachtingen. Controleer of het arrangement 1 of 2 diners omvat en pas §6f aan.
-- [interne tegenspraak] B&B aankomstdagen zomer en prijstarief: §6f noemt extra aankomstdagen di t/m do in juli/augustus maar specificeert niet welk prijstarief dan geldt. Navragen en toevoegen aan §6f.
 
 <!-- WEBSITE-LEAD-AUTOMATIE:START -->
 ## Website-leads (webchat) -> automatische KMT concept-offerte
