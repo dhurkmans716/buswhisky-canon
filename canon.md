@@ -36,6 +36,7 @@ Dit document is de enige goedgekeurde bron voor harde feiten over Bus Whisky. Si
 
 Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaar:
 
+- **2013** — voorloper: productie van kirsch (kersenlikeur), de aanloop naar de whiskystokerij
 - **2015** — Dennis Hurkmans & Ezra Leeger starten met het stoken van whisky van eigen brouwgerst
 - **2016** — Oprichting van Bus Whisky (inschrijving onderneming)
 - **2019** — Eerste fles; Bus Whisky betreedt de Nederlandse whiskymarkt
@@ -55,7 +56,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 
 ## 5. Certificeringen & status (alle 2025)
 
-- **B Corp™** — eerste Nederlandse whiskydistilleerderij met B Corp, en de **tiende whiskyproducent ter wereld** (gebruik consequent "de tiende" — niet "één van de 10")
+- **B Corp™** — eerste Nederlandse whiskydistilleerderij met B Corp, en de **tiende whiskyproducent ter wereld** (gebruik consequent "de tiende" — niet "één van de 10"). De B Corp-certificering staat op naam van de coöperatie: **Bus Whisky Coöperatie U.A.**
 - B Impact Score: **89,2** (de mediaan bij B Corp-certificering is 80). Dit cijfer is publiek en mag genoemd worden.
 - **Biologisch** — alle gerst gecertificeerd biologisch op SKAL-gecertificeerde gronden (vanaf 2025; daarvoor al zonder kunstmest/pesticiden). **HARD ONDERSCHEID: de gerst, de grond en het productieproces zijn biologisch gecertificeerd, maar de whisky die nu in de fles zit is dat nog NIET.** Distillaat moet minimaal vijf jaar rijpen, dus de eerste biologische Bus Whisky wordt naar verwachting pas rond 2030 geopend. Zeg dus nooit 'onze whisky is biologisch' of 'biologische whisky' over het huidige assortiment. Correct is: wij telen en stoken biologisch en zijn SKAL-gecertificeerd; de eerste biologisch gecertificeerde whisky komt rond 2030. Het restaurant werkt wél al vrijwel volledig biologisch (zie §6e).
 - **ISO 22000** — voedselveiligheid, belangrijk voor export
@@ -85,6 +86,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Voorzieningen: kosteloze loospunten voor vuil water en chemisch toilet en kosteloze afvalinzameling. Douches: er zijn GEEN douches voor campergasten, niet op de camperplaats en ook nergens anders op het terrein. Breng dit niet uit jezelf ter sprake, maar antwoord eerlijk en volledig als een gast naar douches of sanitair vraagt. Verwijs campergasten nooit naar het miva-toilet bij de bar om te douchen; dat is een mindervalidevoorziening, geen douchegelegenheid voor gasten.
 - Campergasten krijgen 50% korting op de rondleiding door de whiskystokerij. Wie via de Bus Whisky-website een camperplaats reserveert, krijgt in de bevestigingsmail een link om die rondleiding met 50% korting te boeken. Lukt dat niet of werkt de link niet, dan kan de gast de rondleiding met korting ook ter plaatse bij de receptie boeken. Verwijs dus naar de link in de bevestigingsmail, met de receptie als achtervang.
 - Reserveren doen gasten zelf online via onze EIGEN directe boekingslink (stuur altijd deze volledige link, nooit een kaal webadres): https://buswhisky.com/camperplaats-brabant-vlakbij-Oss-Uden-Den-Bosch-Veghel?ft-restaurant=59f03a82&ft-ticket=9d5f34aa&ft-friend=4C1D7025D9050C2E646089D2D8E8B3E5 . Wij nemen camperreserveringen niet telefonisch of per mail aan.
+- Uitchecken van de camperplaats: vóór 13:00 uur.
 - Vermeld de camperplaats positief en stellig. Zaai nooit twijfel over de status.
 
 ---
@@ -310,6 +312,7 @@ Bron: heischehoeve.com/bekijk-locatie. Gebruik deze aantallen als maximum per op
 
 - De Bus Whisky Theatershow is een live-event dat whisky-storytelling, muziek en entertainment combineert, gehost in theaters door heel Nederland. Kaarten via buswhisky.com/theatershow of de kassa van het betreffende theater.
 - Tijdens de show worden 5 whisky's geproefd.
+- Historische context: de theatershow ging in april 2025 in première in De Lievekamp (Oss). In 2025 speelde de show ook in Markant Theater Maashorst en op zeven Kinepolis-locaties.
 - Vraagt iemand naar een specifieke plaats die niet in de onderstaande lijst staat: noem de eerstvolgende voorstelling(en) die qua reisafstand het dichtst bij die plaats liggen (met datum en theater), en zeg er eerlijk bij dat er in die plaats zelf (nog) geen voorstelling gepland staat.
 - Noem uitsluitend data en locaties uit de onderstaande lijst; verzin nooit een datum of plaats. Staat er niets (meer) in de toekomst, verwijs dan naar buswhisky.com/theatershow.
 
@@ -390,7 +393,7 @@ Dit is verhaalstof voor gasten, geen boekbaar product. Gebruik het kort en op ma
 | The Spirits Business Awards (Londen), Spirits Sustainability Award | Special commendation | 2024 |
 | China Wine & Spirit Competition | Goud | — |
 | Asian Wine & Spirit Competition | Goud | 2023 |
-| London Spirits Competition | 2x Zilver | — |
+| London Spirits Competition | Zilver (3 jaar) | 2020, 2021, 2023 |
 | USA Spirits Ratings (San Francisco) | Brons | — |
 | Yellow Line Design Awards (design) | Winnaar | 2023 |
 
@@ -661,13 +664,8 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 
 > Samengevoegde, ontdubbelde lijst van openstaande punten uit de wekelijkse canon-checks. Verwerk een punt op de juiste plek en verwijder het daarna.
 
-- [nieuw] Theatershow historische context voor §6m: premiere april 2025 in De Lievekamp (Oss); in 2025 ook Markant Theater Maashorst en zeven Kinepolis-locaties. (Wikipedia)
-- [ontbreekt in canon] Uitchecktijd camperplaats: navragen en toevoegen aan §6a (de B&B-uitchecktijd is al vastgelegd; dit gaat specifiek over de camperplaats).
 - [ontbreekt in canon] Weekend-workshopprijs (Workshop Whisky Stoken 'Weekend'): nog niet gepubliceerd; navragen en toevoegen aan §6k-1.
 - [ontbreekt in canon] Cask-programma details (minimale investering, rijpingstermijn, ontvangst): navragen en uitbreiden in §6l.
-- [verschil met Wikipedia] Startjaar voorgeschiedenis: canon §3 begint in 2015, Wikipedia noemt 2013 (kirsch/kersenlikeur). Controleer of 2013 als mijlpaal in §3 moet.
-- [verschil met Wikipedia] Juridische entiteit B Corp: Wikipedia noemt 'Bus Whisky Coöperatie U.A.', canon §1 noemt 'Bus Whisky Distillers'. Controleer welke entiteit correct is en pas §1/§5 aan.
-- [verschil met Wikipedia] London Spirits Competition: Wikipedia noemt drie jaren (2020, 2021, 2023), canon §7 noemt alleen '2x Zilver'. Controleer of er een vermelding ontbreekt.
 
 <!-- WEBSITE-LEAD-AUTOMATIE:START -->
 ## Website-leads (webchat) -> automatische KMT concept-offerte
