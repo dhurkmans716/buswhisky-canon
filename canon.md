@@ -170,6 +170,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 ## 6f. Bed & Breakfast / overnachten
 
 - 28 kamers met eigen badkamer: 4 kamers met een tweepersoonsbed, 24 kamers met losse eenpersoonsbedden. **28 is het harde, canonieke aantal.**
+- 1-persoonskamer / solo overnachten: de reguliere B&B-arrangementen en deeplinks gaan uit van een prijs per persoon op basis van 2 personen; losse 1-persoonsarrangementen zijn nog niet volledig in het boekingssysteem aangemaakt. Verwijs een gast die een 1-persoonskamer of solo-overnachting wil daarom VOORLOPIG naar info@buswhisky.com. Stuur hiervoor geen reguliere B&B-deeplink en gebruik ook de 'whiskydeal 1 persoonskamer'-links niet.
 - Kamerafmetingen: de standaardkamers zijn 4 x 3,5 meter, inclusief een eigen badkamer met douche en toilet. De vier kamers met een tweepersoonsbed zijn iets ruimer: 4 x 4 meter.
 - Capaciteit — HARD MAXIMUM (overnachten): 28 kamers, elk voor **maximaal 2 personen**, dus wij kunnen **maximaal 56 gasten laten overnachten** — nooit meer. Standaard rekenen we 1 persoon per kamer (28 personen); bij 2 per kamer maximaal 56 (zoals bij bruiloften en groepen). Zeg dit stellig en beloof of boek nooit een overnachting voor meer dan 56 personen.
 - Meer dan 56 overnachtingen nodig? Extra kamers kunnen eventueel geboekt worden bij **Fletcher Hotel Uden** (vlakbij). En voor liefhebbers met een camper hebben we **15 camperplaatsen** op eigen erf (zie §6a).
@@ -671,6 +672,8 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 ## Openstaande punten (nog te verwerken)
 
 > Samengevoegde, ontdubbelde lijst van openstaande punten uit de wekelijkse canon-checks. Verwerk een punt op de juiste plek en verwijder het daarna.
+
+- [na vakantie Dennis] 1-persoonskamer-arrangementen aanmaken in Formitable (alle aankomstdagen/gangen). Tot die tijd verwijst de bot 1-persoonskamer-/solo-aanvragen naar info@buswhisky.com (zie §6f). Aandachtspunt: kamercapaciteit is 2, dus zo inrichten dat één 1-persoonsboeking een hele kamer bezet (workaround besproken: boek per kamer met capaciteit 1, gedeelde allocatie van de 28 kamers).
 
 
 <!-- WEBSITE-LEAD-AUTOMATIE:START -->
