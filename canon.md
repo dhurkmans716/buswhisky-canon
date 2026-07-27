@@ -296,7 +296,7 @@ Bron: heischehoeve.com/bekijk-locatie. Gebruik deze aantallen als maximum per op
 ## 6k-1. Workshops whisky stoken
 
 - Onder begeleiding zelf leren whisky stoken. Drie varianten, elk inclusief een gepersonaliseerde, met de hand verzegelde fles als take-away. Boekingsdeeplinks in §11.
-- Prijzen: 'Middays' € 125 p.p. · 'Monday After Work' € 150 p.p. · 'Weekend' prijs nog niet gepubliceerd (staat ook niet op de site). Noem voor de Weekend-variant geen prijs uit jezelf; verwijs naar de boekingsdeeplink (§11) of bied aan de prijs na te vragen.
+- Prijzen: 'Middays' € 125 p.p. · 'Monday After Work' € 150 p.p. · 'Weekend' € 195 p.p.
 
 ---
 
@@ -664,7 +664,6 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 
 > Samengevoegde, ontdubbelde lijst van openstaande punten uit de wekelijkse canon-checks. Verwerk een punt op de juiste plek en verwijder het daarna.
 
-- [ontbreekt in canon] Weekend-workshopprijs (Workshop Whisky Stoken 'Weekend'): nog niet gepubliceerd; navragen en toevoegen aan §6k-1.
 - [ontbreekt in canon] Cask-programma details (minimale investering, rijpingstermijn, ontvangst): navragen en uitbreiden in §6l.
 
 <!-- WEBSITE-LEAD-AUTOMATIE:START -->
