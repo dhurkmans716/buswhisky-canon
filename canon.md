@@ -56,6 +56,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 ## 5. Certificeringen & status (alle 2025)
 
 - **B Corp™** — eerste Nederlandse whiskydistilleerderij met B Corp, en de **tiende whiskyproducent ter wereld** (gebruik consequent "de tiende" — niet "één van de 10")
+- B Impact Score: **89,2** (de mediaan bij B Corp-certificering is 80). Dit cijfer is publiek en mag genoemd worden.
 - **Biologisch** — alle gerst gecertificeerd biologisch op SKAL-gecertificeerde gronden (vanaf 2025; daarvoor al zonder kunstmest/pesticiden). **HARD ONDERSCHEID: de gerst, de grond en het productieproces zijn biologisch gecertificeerd, maar de whisky die nu in de fles zit is dat nog NIET.** Distillaat moet minimaal vijf jaar rijpen, dus de eerste biologische Bus Whisky wordt naar verwachting pas rond 2030 geopend. Zeg dus nooit 'onze whisky is biologisch' of 'biologische whisky' over het huidige assortiment. Correct is: wij telen en stoken biologisch en zijn SKAL-gecertificeerd; de eerste biologisch gecertificeerde whisky komt rond 2030. Het restaurant werkt wél al vrijwel volledig biologisch (zie §6e).
 - **ISO 22000** — voedselveiligheid, belangrijk voor export
 - Energie: 100% hernieuwbaar; flessen van 100% gerecycled glas; lakzegel van bijenwas uit eigen imkerij
@@ -385,12 +386,15 @@ Dit is verhaalstof voor gasten, geen boekbaar product. Gebruik het kort en op ma
 
 | Wedstrijd | Medaille | Jaar |
 |---|---|---|
-| Spirits Business Awards (Londen), categorie Sustainability & Innovation | Winnaar | — |
-| Hongkong (duurzaamheid) | Goud | 2021 |
+| Global Green Awards (Hongkong), duurzaamheid | Goud | 2021 |
+| The Spirits Business Awards (Londen), Spirits Sustainability Award | Special commendation | 2024 |
 | China Wine & Spirit Competition | Goud | — |
-| Asian Wine & Spirit Competition | Goud | — |
+| Asian Wine & Spirit Competition | Goud | 2023 |
 | London Spirits Competition | 2x Zilver | — |
 | USA Spirits Ratings (San Francisco) | Brons | — |
+| Yellow Line Design Awards (design) | Winnaar | 2023 |
+
+Erkenningen & media (geen wedstrijdmedailles, wel bruikbaar als sociale bewijskracht): opgenomen in Lonely Planet en Food100; door man-man.nl gekozen als een van de Top 5 beste Nederlandse whisky's; door de ANWB genoemd in de Top 5 meest bijzondere camperplaatsen.
 
 ---
 
@@ -657,8 +661,6 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 
 > Samengevoegde, ontdubbelde lijst van openstaande punten uit de wekelijkse canon-checks. Verwerk een punt op de juiste plek en verwijder het daarna.
 
-- [nieuw] B Impact Score 89,2 (mediaan bij certificering: 80): toevoegen aan §5. (buswhisky.com/awards-erkenningen)
-- [nieuw] Extra awards toevoegen aan §7: Asia Wine & Spirits Challenge 2023 (Goud), Yellow Line Design Awards 2023, Finalist The Spirits Sustainability Awards 2024, Lonely Planet, Food100, Top 5 beste Nederlandse whisky's, Top 5 meest bijzondere camperplaatsen ANWB. (De Spirits Business Awards duurzaamheidsprijs staat al in §7.) (buswhisky.com/awards-erkenningen)
 - [nieuw] Theatershow historische context voor §6m: premiere april 2025 in De Lievekamp (Oss); in 2025 ook Markant Theater Maashorst en zeven Kinepolis-locaties. (Wikipedia)
 - [ontbreekt in canon] Uitchecktijd camperplaats: navragen en toevoegen aan §6a (de B&B-uitchecktijd is al vastgelegd; dit gaat specifiek over de camperplaats).
 - [ontbreekt in canon] Weekend-workshopprijs (Workshop Whisky Stoken 'Weekend'): nog niet gepubliceerd; navragen en toevoegen aan §6k-1.
