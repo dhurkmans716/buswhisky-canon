@@ -613,23 +613,6 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 
 ---
 
-## Goedgekeurde aanvullingen (18 juli 2026)
-
-> Automatisch toegevoegd na goedkeuring van de wekelijkse canon-check. Verwerk deze punten op de juiste plek in het document en verwijder dit blok daarna.
-
-- [nieuw] Tafelproeverij (geen reservering nodig): 3 glaasjes 'De Kennismaking' € 19,50 / 6 glaasjes 'De Volledige Beleving' € 29,50, inclusief bites en smaakkaartjes. Toevoegen aan §6k of nieuwe subsectie. (buswhisky.com/whiskyproeverij)
-- [nieuw] B Impact Score 89,2 (mediaan bij certificering: 80). Toevoegen aan §5. (buswhisky.com/awards-erkenningen)
-- [nieuw] Extra awards: Asia Wine & Spirits Challenge 2023 Goud, Yellow Line Design Awards 2023, The Spirits Business Awards 2024 duurzaamheidsprijs, Finalist The Spirits Sustainability Awards 2024, Lonely Planet, Food100, Top 5 beste Nederlandse whisky's, Top 5 meest bijzondere camperplaatsen ANWB. Toevoegen aan §7. (buswhisky.com/awards-erkenningen)
-- [nieuw] Theatershow premiere april 2025 De Lievekamp Oss; 2025 ook Markant Theater Maashorst en zeven Kinepolis-locaties. Toevoegen aan §6m als historische context. (Wikipedia)
-- [verwerkt] Camping Culinair: 4 gangen én prijs € 99,50 p.p. bevestigd en verwerkt in §6a-1. Niets meer open.
-- [gewijzigd] Juridische entiteit B Corp: Wikipedia noemt 'Bus Whisky Cooperatie U.A.' - controleer of dit de correcte naam is voor de B Corp-certificering en pas §1/§5 aan indien nodig.
-- [gewijzigd] Tijdlijn 2013: Wikipedia noemt kirsch/kersenlikeur als voorgeschiedenis vanaf 2013. Controleer of dit als mijlpaal in §3 moet worden opgenomen.
-- [ontbreekt in canon] Uitchecktime camperplaats: chatbot had geen antwoord. Navragen en toevoegen aan §6a.
-- [ontbreekt in canon] Cask programma details (minimale investering, rijpingstermijn, ontvangst). Navragen en uitbreiden in §6l.
-- [interne tegenspraak] Bot antwoordde actief dat B&B-arrangementen 'altijd voor 2 overnachtingen' zijn - onjuist. Bot-instructie in §10b/§6f aanscherpen zodat de bot dit onderscheid correct maakt.
-
----
-
 ## 11a. Prijzen & arrangementen (overzicht)
 
 > Snel prijsoverzicht. De uitgebreide beschrijving per onderdeel staat in §6. Houd beide gelijk; bij twijfel is de sectie bij het onderdeel leidend.
@@ -670,19 +653,19 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 
 ---
 
-## Goedgekeurde aanvullingen (20 juli 2026)
+## Openstaande punten (nog te verwerken)
 
-> Automatisch toegevoegd na goedkeuring van de wekelijkse canon-check. Verwerk deze punten op de juiste plek in het document en verwijder dit blok daarna.
+> Samengevoegde, ontdubbelde lijst van openstaande punten uit de wekelijkse canon-checks. Verwerk een punt op de juiste plek en verwijder het daarna.
 
-- [nieuw] Tafelproeverij (geen reservering nodig): 3 glaasjes 'De Kennismaking' € 19,50 / 6 glaasjes 'De Volledige Beleving' € 29,50, inclusief bites en smaakkaartjes. Toevoegen aan §6k of nieuwe subsectie. (buswhisky.com/whiskyproeverij)
-- [nieuw] B Impact Score 89,2 (mediaan bij certificering: 80). Toevoegen aan §5. (buswhisky.com/awards-erkenningen)
-- [nieuw] Extra awards: Asia Wine & Spirits Challenge 2023 Goud, Yellow Line Design Awards 2023, The Spirits Business Awards 2024 duurzaamheidsprijs, Finalist The Spirits Sustainability Awards 2024, Lonely Planet, Food100, Top 5 beste Nederlandse whisky's, Top 5 meest bijzondere camperplaatsen ANWB. Toevoegen aan §7. (buswhisky.com/awards-erkenningen)
-- [nieuw] Theatershow premiere april 2025 De Lievekamp Oss; 2025 ook Markant Theater Maashorst en zeven Kinepolis-locaties. Toevoegen aan §6m als historische context. (Wikipedia)
-- [ontbreekt in canon] Uitchecktime camperplaats: chatbot had geen antwoord. Navragen en toevoegen aan §6a.
-- [ontbreekt in canon] Cask programma details (minimale investering, rijpingstermijn, ontvangst). Navragen en uitbreiden in §6l.
-- [verschil met Wikipedia] Startjaar voorgeschiedenis: canon §3 begint in 2015; Wikipedia noemt 2013 als start kirsch/kersenlikeur. Controleer of 2013 als mijlpaal in §3 moet worden opgenomen.
-- [verschil met Wikipedia] Juridische entiteit B Corp: Wikipedia noemt 'Bus Whisky Coöperatie U.A.'; canon §1 noemt 'Bus Whisky Distillers' als juridische naam. Controleer welke entiteit correct is voor de B Corp-certificering en pas §1/§5 aan indien nodig.
-- [verschil met Wikipedia] London Spirits Competition: Wikipedia noemt drie jaren (2020, 2021, 2023); canon §7 noemt alleen '2x Zilver'. Controleer of er een derde vermelding ontbreekt en pas §7 aan.
+- [nieuw] B Impact Score 89,2 (mediaan bij certificering: 80): toevoegen aan §5. (buswhisky.com/awards-erkenningen)
+- [nieuw] Extra awards toevoegen aan §7: Asia Wine & Spirits Challenge 2023 (Goud), Yellow Line Design Awards 2023, Finalist The Spirits Sustainability Awards 2024, Lonely Planet, Food100, Top 5 beste Nederlandse whisky's, Top 5 meest bijzondere camperplaatsen ANWB. (De Spirits Business Awards duurzaamheidsprijs staat al in §7.) (buswhisky.com/awards-erkenningen)
+- [nieuw] Theatershow historische context voor §6m: premiere april 2025 in De Lievekamp (Oss); in 2025 ook Markant Theater Maashorst en zeven Kinepolis-locaties. (Wikipedia)
+- [ontbreekt in canon] Uitchecktijd camperplaats: navragen en toevoegen aan §6a (de B&B-uitchecktijd is al vastgelegd; dit gaat specifiek over de camperplaats).
+- [ontbreekt in canon] Weekend-workshopprijs (Workshop Whisky Stoken 'Weekend'): nog niet gepubliceerd; navragen en toevoegen aan §6k-1.
+- [ontbreekt in canon] Cask-programma details (minimale investering, rijpingstermijn, ontvangst): navragen en uitbreiden in §6l.
+- [verschil met Wikipedia] Startjaar voorgeschiedenis: canon §3 begint in 2015, Wikipedia noemt 2013 (kirsch/kersenlikeur). Controleer of 2013 als mijlpaal in §3 moet.
+- [verschil met Wikipedia] Juridische entiteit B Corp: Wikipedia noemt 'Bus Whisky Coöperatie U.A.', canon §1 noemt 'Bus Whisky Distillers'. Controleer welke entiteit correct is en pas §1/§5 aan.
+- [verschil met Wikipedia] London Spirits Competition: Wikipedia noemt drie jaren (2020, 2021, 2023), canon §7 noemt alleen '2x Zilver'. Controleer of er een vermelding ontbreekt.
 
 <!-- WEBSITE-LEAD-AUTOMATIE:START -->
 ## Website-leads (webchat) -> automatische KMT concept-offerte
