@@ -77,6 +77,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Officiële camperplaats op het erf. Vermeld op park4night en Campingradar.
 - 15 plaatsen.
 - Let op: dit is een camperplaats, dus we ontvangen uitsluitend campers — helaas geen caravans of tenten.
+- Maximale voertuiglengte: 8 meter. Campers langer dan 8 meter kunnen we niet plaatsen; noem dit vooraf als iemand met een langere camper wil komen.
 - Prijs: **minimaal € 18,50 per camperplaats per nacht** bij 2 personen, dus € 9,25 per persoon. Dat bedrag is inclusief de toeristenbelasting / dekking lokale lasten van € 2,50 per persoon per nacht. Communiceer bij voorkeur deze totaalprijs per plaats, niet alleen het kale plaatstarief. De opbouw is: € 13,50 per plaats per nacht plus € 2,50 per persoon per nacht toeristenbelasting; bij meer dan 2 personen komt er dus € 2,50 per extra persoon bij. Inclusief gratis water en elektra (6A). De toiletten van het restaurant zijn 24/7 beschikbaar voor campergasten. *(Intern: noem nooit € 15 als plaatstarief, dat is verouderd. De camperpagina op buswhisky.com toont nog € 13,50 excl. lokale heffingen als startprijs; dat is alleen het kale plaatstarief. Communiceer altijd de canon-totaalprijs (€ 18,50 per plaats / € 9,25 p.p. incl. toeristenbelasting). Dit verschil met de site is bekend en geen fout in de canon; niet elke week opnieuw als afwijking melden.)*
 - Wifi: breng het niet uit jezelf ter sprake. Vraagt een gast ernaar, antwoord dan eerlijk: op de camperplaats zelf is geen wifi, maar er is wél wifi in het hoofdgebouw en de B&B-kamers.
 - Camping Culinair: campergasten kunnen aanschuiven bij dit culinaire avondevenement (ongeveer 1x per maand en op feestdagen, wisselende data). Zie §6a-1 voor de details en de boekingsdeeplink.
@@ -289,6 +290,13 @@ Bron: heischehoeve.com/bekijk-locatie. Gebruik deze aantallen als maximum per op
 
 ---
 
+## 6k-1. Workshops whisky stoken
+
+- Onder begeleiding zelf leren whisky stoken. Drie varianten, elk inclusief een gepersonaliseerde, met de hand verzegelde fles als take-away. Boekingsdeeplinks in §11.
+- Prijzen: 'Middays' € 125 p.p. · 'Monday After Work' € 150 p.p. · 'Weekend' prijs nog niet gepubliceerd (staat ook niet op de site). Noem voor de Weekend-variant geen prijs uit jezelf; verwijs naar de boekingsdeeplink (§11) of bied aan de prijs na te vragen.
+
+---
+
 ## 6l. Winkel, retail & investeren
 
 - Bus Whisky is te koop in de eigen winkel/slijterij bij de distilleerderij en online (buswhisky.com/slijterij). Er is ook een dealer locator voor lokale verkooppunten.
@@ -300,6 +308,7 @@ Bron: heischehoeve.com/bekijk-locatie. Gebruik deze aantallen als maximum per op
 ## 6m. Theatershow
 
 - De Bus Whisky Theatershow is een live-event dat whisky-storytelling, muziek en entertainment combineert, gehost in theaters door heel Nederland. Kaarten via buswhisky.com/theatershow of de kassa van het betreffende theater.
+- Tijdens de show worden 5 whisky's geproefd.
 - Vraagt iemand naar een specifieke plaats die niet in de onderstaande lijst staat: noem de eerstvolgende voorstelling(en) die qua reisafstand het dichtst bij die plaats liggen (met datum en theater), en zeg er eerlijk bij dat er in die plaats zelf (nog) geen voorstelling gepland staat.
 - Noem uitsluitend data en locaties uit de onderstaande lijst; verzin nooit een datum of plaats. Staat er niets (meer) in de toekomst, verwijs dan naar buswhisky.com/theatershow.
 
@@ -609,8 +618,6 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 > Automatisch toegevoegd na goedkeuring van de wekelijkse canon-check. Verwerk deze punten op de juiste plek in het document en verwijder dit blok daarna.
 
 - [nieuw] Tafelproeverij (geen reservering nodig): 3 glaasjes 'De Kennismaking' € 19,50 / 6 glaasjes 'De Volledige Beleving' € 29,50, inclusief bites en smaakkaartjes. Toevoegen aan §6k of nieuwe subsectie. (buswhisky.com/whiskyproeverij)
-- [nieuw] Camperplaatsen beperkt tot voertuigen tot maximaal 8 meter. Toevoegen aan §6a. (buswhisky.com/camperplaats)
-- [nieuw] Workshop Whisky Stoken: drie varianten - 'Middays' € 125 p.p., 'Monday After Work' € 150 p.p., 'Weekend' (prijs navragen). Inclusief gepersonaliseerde hand-gesealde fles als take-away. Toevoegen als nieuwe sectie. (buswhisky.com/workshops-whisky-stoken)
 - [nieuw] B Impact Score 89,2 (mediaan bij certificering: 80). Toevoegen aan §5. (buswhisky.com/awards-erkenningen)
 - [nieuw] Extra awards: Asia Wine & Spirits Challenge 2023 Goud, Yellow Line Design Awards 2023, The Spirits Business Awards 2024 duurzaamheidsprijs, Finalist The Spirits Sustainability Awards 2024, Lonely Planet, Food100, Top 5 beste Nederlandse whisky's, Top 5 meest bijzondere camperplaatsen ANWB. Toevoegen aan §7. (buswhisky.com/awards-erkenningen)
 - [nieuw] Theatershow premiere april 2025 De Lievekamp Oss; 2025 ook Markant Theater Maashorst en zeven Kinepolis-locaties. Toevoegen aan §6m als historische context. (Wikipedia)
@@ -668,8 +675,6 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 > Automatisch toegevoegd na goedkeuring van de wekelijkse canon-check. Verwerk deze punten op de juiste plek in het document en verwijder dit blok daarna.
 
 - [nieuw] Tafelproeverij (geen reservering nodig): 3 glaasjes 'De Kennismaking' € 19,50 / 6 glaasjes 'De Volledige Beleving' € 29,50, inclusief bites en smaakkaartjes. Toevoegen aan §6k of nieuwe subsectie. (buswhisky.com/whiskyproeverij)
-- [nieuw] Camperplaatsen beperkt tot voertuigen tot maximaal 8 meter. Toevoegen aan §6a. (buswhisky.com/camperplaats)
-- [nieuw] Workshop Whisky Stoken: drie varianten - 'Middays' € 125 p.p., 'Monday After Work' € 150 p.p., 'Weekend' (prijs navragen). Inclusief gepersonaliseerde hand-gesealde fles als take-away. Toevoegen als nieuwe sectie. (buswhisky.com/workshops-whisky-stoken)
 - [nieuw] B Impact Score 89,2 (mediaan bij certificering: 80). Toevoegen aan §5. (buswhisky.com/awards-erkenningen)
 - [nieuw] Extra awards: Asia Wine & Spirits Challenge 2023 Goud, Yellow Line Design Awards 2023, The Spirits Business Awards 2024 duurzaamheidsprijs, Finalist The Spirits Sustainability Awards 2024, Lonely Planet, Food100, Top 5 beste Nederlandse whisky's, Top 5 meest bijzondere camperplaatsen ANWB. Toevoegen aan §7. (buswhisky.com/awards-erkenningen)
 - [nieuw] Theatershow premiere april 2025 De Lievekamp Oss; 2025 ook Markant Theater Maashorst en zeven Kinepolis-locaties. Toevoegen aan §6m als historische context. (Wikipedia)
