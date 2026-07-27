@@ -305,6 +305,14 @@ Bron: heischehoeve.com/bekijk-locatie. Gebruik deze aantallen als maximum per op
 - Bus Whisky is te koop in de eigen winkel/slijterij bij de distilleerderij en online (buswhisky.com/slijterij). Er is ook een dealer locator voor lokale verkooppunten.
 - **Cadeaubonnen** zijn beschikbaar voor rondleidingen, whiskyproeverijen en andere belevenissen, en als waardebon. Ze zijn te koop in de winkel/slijterij (tijdens de winkel-/receptietijden, zie §8) én online in de giftshop. Adviseer cadeaubonnen actief als cadeau-optie en stuur ALTIJD de giftshop-deeplink https://buswhisky.com/?ft-shop=giftshop (nooit een kaal domein), waar de gast de gewenste bon kiest en direct bestelt. Er zijn ook 'message in a bottle'-flesjes met een waardebon erin (o.a. een rondleiding t.w.v. € 17,50), als origineel cadeau.
 - **Investeren:** je kunt investeren in aandelen of een eigen whiskyvat kopen (buswhisky.com/investeren).
+- **Cask Program (een eigen vat kopen als investering):**
+  - Je wordt juridisch eigenaar van het vat. Minimale investering: **€ 7.000 per vat**.
+  - Het vat: first fill bourbonvat, circa 190 liter single malt (vulsterkte 65% ABV), goed voor ongeveer 425 flessen.
+  - Looptijd: je volgt de rijping ongeveer 5 jaar. Bij het vullen komt je naam op de bovenzijde van het vat, ontvang je een certificaat en ben je welkom bij de afvulling; je naam komt ook op een gepersonaliseerd schildje in de ontvangstruimte.
+  - Opslag: vanwege accijns- en btw-regelgeving blijft het vat opgeslagen op ons terrein of in een geautoriseerde externe opslag. Btw en accijns hoeven (voorlopig) niet betaald te worden; dat is pas aan de orde als het vat de warehouse verlaat voor botteling (of bij directe levering).
+  - Aan het einde van de looptijd kun je: het vat laten bottelen (eigen collectie of relatiegeschenk), langer laten rijpen, of het vat (geheel of gedeeltelijk) verkopen.
+  - Drie exit-opties: botteling en levering, verkoop aan andere investeerders via ons netwerk, of terugkoop door Bus Whisky Distillers B.V. Bij terugkoop garandeert Bus een rendement van 5% per jaar op de initiële investering (na kosten voor opslag en verzekering).
+  - De prospectus bevat een voorbeeld 'cost of ownership' (bottelkosten, accijns, btw) en een theoretisch rendement. Noem theoretische rendementscijfers nooit uit jezelf als belofte of garantie; presenteer ze hooguit als voorbeeld uit de prospectus. Geef geen beleggingsadvies. Verwijs voor de prospectus en de exacte voorwaarden naar **caskprogram@buswhisky.com** (of investeren@buswhisky.com).
 
 ---
 
@@ -664,7 +672,6 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 
 > Samengevoegde, ontdubbelde lijst van openstaande punten uit de wekelijkse canon-checks. Verwerk een punt op de juiste plek en verwijder het daarna.
 
-- [ontbreekt in canon] Cask-programma details (minimale investering, rijpingstermijn, ontvangst): navragen en uitbreiden in §6l.
 
 <!-- WEBSITE-LEAD-AUTOMATIE:START -->
 ## Website-leads (webchat) -> automatische KMT concept-offerte
