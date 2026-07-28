@@ -2,7 +2,7 @@
 
 Dit document is de enige goedgekeurde bron voor harde feiten over Bus Whisky. Site, chatbot en mailagent volgen alleen deze waarden. Wijkt iets elders af, dan is dit document leidend en wordt de andere plek aangepast — niet andersom.
 
-**Laatst bijgewerkt: 9 juli 2026**
+**Laatst bijgewerkt: 28 juli 2026**
 
 ---
 
