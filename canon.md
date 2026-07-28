@@ -646,6 +646,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 
 ### Rondleiding / whiskytour
 - **Losse rondleiding (whiskytour)** — € 17,50 p.p.
+- **Groepsrondleiding (vanaf 15 personen)** — € 15,00 p.p.; tijd in overleg (zie §6d).
 - Campergasten: 50% korting op de rondleiding (zie §6a).
 
 ### Whiskyproeverijen (meerdere vormen — niet door elkaar halen)
