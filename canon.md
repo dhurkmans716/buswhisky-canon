@@ -206,6 +206,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Vrijgezellenfeesten en groepen zijn welkom binnen harde kaders: géén verklede vrijgezellenfeesten, en geen enkele overlast voor andere gasten. Binnen die kaders zijn groepen van harte welkom; daarbuiten past het niet.
 - Gratis busvervoer vanaf 40 personen (zie §6b). Gratis testuitje voor organisatoren (op dinsdag).
 - Dineropties bij bedrijfsuitjes (dit zijn dinervarianten voor GROEPSUITJES, niet voor het B&B-arrangement): pizza-workshop in de houtoven (vanaf 15 personen), BBQ met lokaal vlees/vis/groenten (vanaf 15 personen), luxe stamppotbuffet (vanaf 15 personen), of 3-gangen farm-to-table menu (ook voor kleinere groepen). Noem bij een kleiner gezelschap actief het minimum van 15 personen voor BBQ, pizza-workshop en stamppotbuffet, en bied het farm-to-table menu aan als alternatief.
+- Catering bij vergaderingen en bedrijfsuitjes gaat ALTIJD via ons: gasten eten in het restaurant (farm-to-table menu) of kiezen een van de groepsdiners (BBQ, pizza-workshop of stamppotbuffet, zie hierboven). Eigen catering meenemen of zelf het menu bepalen kan hier NIET. Het doe-het-zelf-cateringconcept (geen verplichte huiscatering, eigen catering meebrengen) geldt UITSLUITEND bij bruiloften (§6j). Beweer dus bij een vergadering of bedrijfsuitje nooit dat er geen verplichte catering is of dat de gast eigen catering mag meenemen.
 - BBQ-vleessoorten: mede afhankelijk van het seizoen en van wat onze biologische boeren op dat moment slachten. Vaste onderdelen zijn onder meer runderhamburger, entrecote, kip, speklapje en vis. Noem dus geen vaste, complete vleeslijst; leg uit dat het seizoensgebonden is.
 - Eigen chips of snacks meenemen bij een bedrijfsuitje is geen probleem.
 - Voorbeeldactiviteiten: 4x4 Ecotrail, laser kleiduifschieten, Whisky & Weilandgames, suppen/kanovaren/fluisterboot, winterse dropping, pubquiz. Combineerbaar met rondleiding en/of overnachting.
@@ -231,15 +232,12 @@ Bron: heischehoeve.com/bekijk-locatie. Gebruik deze aantallen als maximum per op
 |---|---|---|---|---|---|
 | 20 | 30 | 50 | 80 | 130 | 80 |
 
-**Proeflokaal** (plenaire zaal, 126 m2, 12,0 x 10,5 m):
-| U-vorm | Carré | Cabaret | Theater | Borrel | Diner |
-|---|---|---|---|---|---|
-| 20 | 30 | 50 | 80 | 150 | 80 |
+**Proeflokaal** (het restaurant): dit is ons proeflokaal/restaurant en wordt normaliter NIET als vergaderruimte ingezet. Presenteer het dus niet als vergaderzaal; de vergaderzalen zijn de Leygraefzaal en de Dommelzaal. Het proeflokaal/restaurant heeft bovendien GEEN airco.
 
 **Foyers** (Leygraaf-foyer en Dommel-foyer): pantry en ruimte voor ontbijt, lunch en diner, vaak gebruikt als break-outruimte. Elk maximaal 60 personen voor een borrel en 40 voor een diner. Niet geschikt voor vergaderopstellingen (U-vorm, carré, cabaret, theater).
 
 - Grootste capaciteit in huis is dus 350 personen (borrel in de Leygraefzaal) en 250 in theateropstelling. Vergaderen in U-vorm kan tot 40 personen.
-- De zalen hebben airco.
+- De vergaderzalen (Leygraefzaal en Dommelzaal) hebben airco; het proeflokaal/restaurant heeft geen airco.
 - Let op: dit zijn zaalcapaciteiten, geen overnachtingscapaciteit. Voor overnachten geldt het harde maximum uit §6f.
 
 ---
