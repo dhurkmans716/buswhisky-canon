@@ -455,6 +455,18 @@ Erkenningen & media (geen wedstrijdmedailles, wel bruikbaar als sociale bewijskr
 
 ---
 
+### Actueel assortiment online slijterij (automatisch gesynct - niet handmatig bewerken tussen de markers)
+
+<!-- SLIJTERIJ:START -->
+*Automatisch gesynct uit buswhisky.com/slijterij. Bijgewerkt: 31-07-2026 (1 producten). Dit is het ACTUELE assortiment: staat een product hier als beschikbaar, dan is het nu online te bestellen. Zeg dus nooit tegen een gast dat je het assortiment of de voorraad niet zeker weet; antwoord uit deze lijst en stuur de bestellink mee.*
+
+- **BUS Whisky Koker – Dryland Artwork van Liselot Coblens** - EUR 2,50 - beschikbaar. Deze groene BUS Whisky koker vormt de visuele basis voor onze whisky&rsquo;s die gerijpt zijn op vaten van versterkte wijn en vertelt het verhaal van een landschap in verandering. Het ontwerp is gebaseerd op het kunstwerk Dryland van kunstenaar Liselot Coblens en weerspiegelt de gelaagdheid en complexiteit van deze expressies. Liselot Coblens vertaalde een vogelperspectief van het buurtschap Bus naar een handgemaakt textielwerk. In dit werk komen verschillende kleuren, lagen en materialen samen, die elk een aspect van het landschap en de onderliggende processen verbeelden. Nederland wordt vaak gezien als een land van water: groene weilanden, sloten, rivieren en grazende koeien. Maar onder di [bestellen](https://buswhisky.com/bus-whisky-koker-dryland-artwork-van-liselot-coblens/87)
+
+**Aging versus finishing:** aging (rijping) is de volledige maturatie op een vat; finishing is een tweede, kortere periode op een ander vattype aan het eind. Onze Oloroso heeft EXCLUSIEF gerijpt op een oloroso quarter cask en is dus sherry-matured, geen finish. De Russian Imperial Stout Finish en de Sherry Finish zijn wel finishes. Vraagt een gast om een sherry finish, leg dat verschil dan kort uit en noem wat er wel is.
+<!-- SLIJTERIJ:END -->
+
+---
+
 ## 9a. Eten, dieetwensen & allergenen
 
 - Alle menu's zijn ook vegan mogelijk.
