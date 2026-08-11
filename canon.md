@@ -713,7 +713,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 ### Automatisch gesynct — Formitable-deeplinks (niet handmatig bewerken tussen de markers)
 
 <!-- FORMITABLE-DEEPLINKS:START -->
-*Boekbare arrangementen — shift-links (ft-restaurant + ft-ticket + ft-friend). Bijgewerkt: 10-08-2026 (28 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
+*Boekbare arrangementen — shift-links (ft-restaurant + ft-ticket + ft-friend). Bijgewerkt: 11-08-2026 (28 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
 
 **TAAL VAN DE LINK — HARDE REGEL.** De links hieronder staan in het Nederlands. Schrijft de gast Engels of Duits, dan MOET je de taalversie sturen, anders gaat het boekingsscherm van Formitable in het Nederlands verder. Zet daarvoor /en of /de direct achter buswhisky.com, vóór het vraagteken. De rest van de link (ft-restaurant, ft-ticket, ft-friend) blijft exact hetzelfde.
 
