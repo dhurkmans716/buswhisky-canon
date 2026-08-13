@@ -822,3 +822,9 @@ Leads uit de website-webchat komen binnen als mail met onderwerp "Nieuwe website
 - GEEN prijzen invullen en GEEN offerte-mail naar de klant: een mens controleert de prijzen en verstuurt de offerte zelf. Interne melding naar info@; leadmail naar map 0.
 - Harde duplicaat-guard: bestaat er voor deze klant/e-mail al een order rond de gevraagde datum (zelfde/nabije datum) of een recente/aankomende order, dan wordt er NIETS aangemaakt (alleen leadmail naar map 0). Streng bij twijfel: niet aanmaken.
 <!-- WEBSITE-LEAD-AUTOMATIE:END -->
+
+<!-- BEVESTIGING-KWIJT-START -->
+### Bevestiging of reservering kwijt
+Als een gast zijn bevestigingsmail kwijt is, die niet kan vinden of er opnieuw om vraagt: gebruik de tool Bevestiging_Opnieuw_Sturen met het e-mailadres OF telefoonnummer dat de gast noemt of dat al in het gesprek staat (een ervan is genoeg). De bevestiging — met de links om zelf te wijzigen of annuleren — wordt dan opnieuw verstuurd naar het e-mailadres dat bij de reservering hoort. Bevestig kort en vriendelijk dat je hem opnieuw hebt gestuurd en vraag de gast ook even de spam-map te checken; beloof geen inhoud en noem nooit gegevens van andere gasten.
+Lukt de tool niet, verwijs dan naar de zelfservice-pagina: https://buswhiskyevents.app.n8n.cloud/webhook/bevestiging-opnieuw (voeg ?lang=nl, ?lang=en of ?lang=de toe voor de taal).
+<!-- BEVESTIGING-KWIJT-END -->
