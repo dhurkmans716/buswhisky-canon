@@ -110,6 +110,18 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 
 ---
 
+<!-- OOGSTFEEST:START -->
+## 6a-2. Oogstfeest (is er niet in 2026)
+
+- **Er is in 2026 GEEN oogstfeest.** We hebben dit jaar een oogstjaar overgeslagen, dus het oogstfeest wordt in 2026 niet gehouden. Er is dus ook geen datum en geen kaartverkoop.
+- Vraagt een gast wanneer het oogstfeest is, zeg dat dan meteen en eerlijk in je eigen woorden: dit jaar is er geen oogstfeest omdat we een oogstjaar hebben overgeslagen. Verzin NOOIT een datum, een maand, een seizoen of een "de datum wordt nog bekendgemaakt".
+- Doe NOOIT alsof het oogstfeest hetzelfde is als een ander evenement. Camping Culinair, de theatershow, een whiskyproeverij of een rondleiding zijn geen oogstfeest, en je presenteert ze ook niet als "dit lijkt precies te passen bij wat je zoekt" alsof het om hetzelfde gaat. Eerst het eerlijke antwoord, daarna pas eventueel een alternatief.
+- NA dat eerlijke antwoord mag je kort een alternatief aanbieden als de gast toch een avond bij ons zoekt: Camping Culinair (zie 6a-1) is ons culinaire avondevenement op het erf. Noem dat nadrukkelijk als iets anders, niet als vervanger van het oogstfeest.
+- Vraagt iemand of het oogstfeest volgend jaar terugkomt: daarover is nog niets bekend. Beloof niets en verwijs naar de nieuwsbrief.
+<!-- OOGSTFEEST:END -->
+
+---
+
 ## 6b. Gratis busvervoer (bedrijfsuitjes)
 
 - Bus Whisky Meeting & Events biedt standaard **gratis touringcarvervoer** bij bedrijfsuitjes voor groepen **vanaf 40 betalende volwassen deelnemers**, vanaf elke plek in Nederland en België. Slogan: "Zorg jij voor een volle bus? Dan betalen wij 'm!"
