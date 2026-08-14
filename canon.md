@@ -775,13 +775,24 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 - Engels: https://www.buswhisky.com/en?ft-restaurant=59f03a82&ft-ticket=ef9aafe5&ft-friend=53EB738F07BD1CCB5012D37BF8026793
 - Duits: https://www.buswhisky.com/de?ft-restaurant=59f03a82&ft-ticket=ef9aafe5&ft-friend=53EB738F07BD1CCB5012D37BF8026793
 
+**TIJDEN VAN EEN ARRANGEMENT OF DEAL — HARDE REGEL.** Noem NOOIT zelf een inlooptijd, aanvangstijd, tijd van een programmaonderdeel of eindtijd van een arrangement. Gebruik UITSLUITEND de Programma-regel die hieronder bij dat arrangement staat, en neem die letterlijk over. Staat er geen Programma-regel bij, noem dan helemaal geen tijden en zeg dat de tijden op de boekingspagina staan. Haal de programma’s van verschillende arrangementen NOOIT door elkaar: de Vrijdagdeal loopt tot 21.00 uur en de Zondagdeal tot 18.00 uur. Elk arrangement heeft zijn eigen Programma-regel; kijk die elke keer opnieuw op voordat je een tijd noemt.
+
+**LINKS SCHRIJVEN — HARDE REGEL.** Een link die niet klikbaar is, is een verloren boeking. Schrijf een link altijd als [duidelijke tekst](https://...) en nooit anders. Zet een URL NOOIT tussen ronde haakjes en NOOIT binnen de haakjes van een andere link; schrijf dus nooit ([https://...](https://...)) en nooit (https://...). Plak nooit een leesteken, haakje of woord direct tegen de URL aan, en zet altijd een spatie vóór de openende blokhaak. Neem de URL letterlijk over, van https:// tot en met het laatste teken.
+
 - 3 gangen B&B (vrij&za, €159,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=06ef4002&ft-friend=1CD88408D99732F3F18D5675ABDF4E52
+  Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.00 uur | Drie gangen verrassingsmenu · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
 - 3 gangen B&B (zo&ma, €99,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=136c5210&ft-friend=723C2389CA61B48B8797BE2D0C9A96FB
+  Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.00 uur | Drie gangen verrassingsmenu · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
 - 4 gangen B&B (vr&za, €169,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=1ea3b7b8&ft-friend=50CC4FB5DDF5075B5D4308CB6D073306
+  Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.00 uur | Vier gangen verrassingsmenu · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
 - 4 gangen B&B (zo&ma, €109,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=6ff63a2d&ft-friend=94773A865DC22B5DC7FD76D8630C35F6
+  Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.00 uur | Vier gangen verrassingsmenu · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
 - 5 gangen B&B (vrij&za, €179,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=dd25f0f7&ft-friend=65A0C73208FCCEC37B67925279D577E7
+  Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.00 uur | Vijf gangen verrassingsmenu · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
 - 5 gangen B&B (zo&ma, €119,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=64e7f446&ft-friend=D25F4335445F3391221FC9C3996F4033
+  Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.00 uur | Vijf gangen verrassingsmenu · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
 - 5 gangen B&B + fles single malt: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=2dfb0dff&ft-friend=5998F5140DF8F5FC56D094180C770099
+  Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.00 uur | Vijf gangen verrassingsmenu · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
 - Camping Culinair: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=9a9705ef&ft-friend=1503666E3364D5884CC2DA588DF16217
 - Camping Culinair - Winteredition: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=fd8d882e&ft-friend=01DE4E0F990B2CBE8A0D9AB5F7814D6F
 - Dutch Whisky Event: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=dfb6e55f&ft-friend=3544D94EDB94D1B8627EE20026836D16
@@ -792,7 +803,10 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 - Reservering Boerderijrestaurant: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=398ca47b&ft-friend=C9D6763C04C0C5AD3AB53539141F34BF
 - Rondleiding Bus whiskystokerij (60 min): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=ef9aafe5&ft-friend=53EB738F07BD1CCB5012D37BF8026793
 - Vrijdagdeal: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=4b60286e&ft-friend=68BB974FAC70E1C1A87E35ACD306633D
+  Programma: 17.00 uur inloop · 17.30 uur rondleiding whiskystokerij inclusief een proefglaasje · 19.00 uur culinair drie gangen verrassingsdiner · 21.00 uur einde van een geslaagde avond
+  Voorwaarden: Reserveren van de vrijdagdeal is alleen online mogelijk; Minimaal 1 dag vooraf reserveren; De aanbieding is exclusief drankjes
 - Weekendje Bus: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=15992a71&ft-friend=3000C0C5587973175036F0D84E5DBBFE
+  Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.30 uur | Vier gangen verrassingsmenu · 9.00 uur | Ontbijt in het boerderijrestaurant · 10.30 uur | Lekker op pad! · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
 - whiskydeal 1 persoonskamer (maandag): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=896f61a7&ft-friend=1C7C75FF12E507BA2A8F54D2EF55455D
 - Whiskydeal 1 persoonskamer (zondag): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=6a50fb21&ft-friend=C3D56CB8D011B3C19DE39941F41A8873
 - Whiskyproeverij (donderdag): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=e0ee264c&ft-friend=98C19289C898DFAF49FF4F5DA52A02D1
@@ -802,6 +816,8 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 - Workshop Whisky Stoken "Weekend": https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=26696ebc&ft-friend=C5242A270E179A23AE00F24B7A95F32E
 - Zomervakantie Special: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=a3f20a31&ft-friend=A33E7D149F0C277572FAF145C775BF74
 - Zondagdeal: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=e3b8f704&ft-friend=723B672E15B6FB1C53806FBC0F26CC42
+  Programma: 14.00 uur inloop · 14.30 uur rondleiding whiskystokerij inclusief een proefglaasje · 16.00 uur culinair drie gangen verrassingsdiner · 18.00 uur einde van een geslaagde avond
+  Voorwaarden: Reserveren van de zondagdeal is alleen online mogelijk; Minimaal 1 dag vooraf reserveren; De aanbieding is exclusief drankjes
 - Camperplaats (eigen boekingsmodule: meerdere nachten in een keer, gast kan zelf verlengen, inkorten of annuleren): https://buswhisky.com/camperplaats-brabant-vlakbij-Oss-Uden-Den-Bosch-Veghel#camperplaats
 <!-- FORMITABLE-DEEPLINKS:END -->
 
