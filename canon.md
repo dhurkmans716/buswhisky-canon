@@ -12,6 +12,7 @@ Dit document is de enige goedgekeurde bron voor harde feiten over Bus Whisky. Si
 - Bus Whisky Distillers: de whiskystokerij (tevens de juridische naam).
 - De Heische Hoeve is de naam van de boerderij waar Bus Whisky gevestigd is en waar het ooit allemaal begon. Naar gasten toe heet tegenwoordig alles **Bus Whisky**; de naam Heische Hoeve leeft alleen nog voort in de bieren die bierbrouwer Bram brouwt. Presenteer onderdelen dus als Bus Whisky, niet als "De Heische Hoeve".
 - Zakelijke tak voor uitjes/events: Bus Whisky Meeting & Events
+- **B2B-vergaderpositionering (vaste lijn):** kernboodschap “Vergader waar whisky rijpt.” Vijf redenen: (1) inspirerende plek i.p.v. saaie zaal; (2) duurzaam vergaderen (B Corp); (3) van korrel tot borrel (afsluiter: proeverij/rondleiding); (4) alles op één erf, eigen keuken; (5) goed bereikbaar + busregeling. All-in zonder verrassingen: alle drankjes inbegrepen, geen barrekening achteraf (zie sectie 6g).
 - Productnamen volgen dezelfde schrijfwijze: Bus Cream, Bus Single Malt (niet "BUS Cream")
 
 ---
