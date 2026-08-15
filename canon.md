@@ -456,6 +456,7 @@ Erkenningen & media (geen wedstrijdmedailles, wel bruikbaar als sociale bewijskr
 - "a unique insight and hands-on experience"
 - "fun, interesting and knowledgeable tour"
 - **Vergaderen/B2B — tevredenheid (bron: heischehoeve.com/vergaderen, peildatum 15-08-2026):** de vergaderarrangementen scoren 8–9/10 met 94–100% aanbeveling (o.a. 32-uurs: 8/10 uit 572 stemmen, 96% aanbeveling; 12-uurs: 9/10, 99%). Naast Google 4,7/5 (783 reviews) bruikbaar als B2B-bewijs. Zakelijke referentieklanten (bron: B2B-campagnedoc): o.a. Rohde & Schwarz Benelux, Randstad, Gemeente Vught, Yuverta, CycleSoftware, Circet, Q Hospitality Group.
+- **Vergaderen/B2B — tevredenheid (bron: heischehoeve.com/vergaderen, peildatum 15-08-2026):** de vergaderarrangementen scoren 8–9/10 met 94–100% aanbeveling (o.a. 32-uurs: 8/10 uit 572 stemmen, 96% aanbeveling; 12-uurs: 9/10, 99%). Naast Google 4,7/5 (783 reviews) bruikbaar als B2B-bewijs. Zakelijke referentieklanten (bron: B2B-campagnedoc): o.a. Rohde & Schwarz Benelux, Randstad, Gemeente Vught, Yuverta, CycleSoftware, Circet, Q Hospitality Group.
 
 ---
 
