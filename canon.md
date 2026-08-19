@@ -600,6 +600,7 @@ Bij elke zakelijke aanvraag stellen we eerst vast om welk van twee soorten het g
 - **Bedrijfsuitje, teamuitje, teambuilding, teamdag, personeelsfeest, bedrijfsfeest, jubileum of familiedag:** deelnemers delen een kamer. Reken **2-persoonskamers**, dus 2 volwassenen per kamer; kinderen slapen bij hun ouders.
 
 Blijkt uit de aanvraag niet welke van de twee het is, vraag het dan na en gok niet. Het verschil bepaalt of een groep past: de B&B heeft 28 kamers, dus 40 deelnemers passen wel als bedrijfsuitje (20 kamers) en niet als vergadering (40 kamers). Wordt er overdag vergaderd en 's avonds samen gefeest met een gezamenlijke overnachting, dan geldt de regel voor het bedrijfsuitje.
+Beide soorten hebben in productenbeheer hun eigen categorie met eigen arrangementen. Onder **Vergadering** vallen de 12-, 24-, 32-, 48- en 56-uurs arrangementen; die zijn altijd met 1-persoonskamers. Onder **Bedrijfs uitje** vallen de activiteitenarrangementen, met en zonder overnachting. Bied een vergaderarrangement dus nooit aan voor een bedrijfsuitje, en andersom.
 <!-- B2B-KAMERREGEL-END -->
 
 ---
