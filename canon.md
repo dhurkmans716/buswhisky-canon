@@ -971,3 +971,18 @@ Een optie is een voorlopige reservering met een vervaltijd. De plek wordt vastge
 
 Zeg nooit dat je iets hebt doorgezet, doorgegeven of aangevraagd als daar geen tool voor is aangeroepen die dat bevestigt. Kun je een gast niet helpen, zeg dat dan eerlijk en vraag om naam, e-mailadres en telefoonnummer zodat een collega contact kan opnemen.
 <!-- OPTIES-END -->
+<!-- ORDERLOG-START -->
+### Ordercommunicatie vastleggen (interne regel)
+
+Elke mail en elke communicatie over een order wordt vastgelegd in het logboek van die order. Zonder uitzondering.
+
+Vastleggen gebeurt door de mail te sturen naar, of in CC te zetten op, `<ordernummer>@heischehoeve.com`. Ordernummers hebben het formaat 20xxxxxx.
+
+Dit geldt voor inkomende klantmail, uitgaande antwoorden en bevestigingen, meldmails naar de infobox, en concepten die een medewerker later verstuurt. Bij een concept zet je de CC dus al in het concept zelf.
+
+Volgorde: eerst loggen, dan pas afhandelen. Een mail mag pas naar de map "0 Door Claude afgehandeld", pas een label krijgen of pas beantwoord worden nadat de logregel is weggeschreven. Lukt het loggen niet, dan blijft de mail staan; hij wordt nooit stil afgehandeld.
+
+Is er geen ordernummer te vinden, dan wordt er niets automatisch afgehandeld en blijft de mail in Postvak IN liggen voor een mens.
+
+Dit is een interne werkwijze voor medewerkers en automatisering. De bots delen deze regel niet met gasten.
+<!-- ORDERLOG-END -->
