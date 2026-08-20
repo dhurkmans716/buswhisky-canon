@@ -831,7 +831,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 ### Automatisch gesynct — Formitable-deeplinks (niet handmatig bewerken tussen de markers)
 
 <!-- FORMITABLE-DEEPLINKS:START -->
-*Boekbare arrangementen — shift-links (ft-restaurant + ft-ticket + ft-friend). Bijgewerkt: 19-08-2026 (28 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
+*Boekbare arrangementen — shift-links (ft-restaurant + ft-ticket + ft-friend). Bijgewerkt: 20-08-2026 (28 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
 
 **TAAL VAN DE LINK — HARDE REGEL.** De links hieronder staan in het Nederlands. Schrijft de gast Engels of Duits, dan MOET je de taalversie sturen, anders gaat het boekingsscherm van Formitable in het Nederlands verder. Zet daarvoor /en of /de direct achter buswhisky.com, vóór het vraagteken. De rest van de link (ft-restaurant, ft-ticket, ft-friend) blijft exact hetzelfde. Dit geldt NIET voor de camperplaats: die heeft geen Formitable-deeplink maar onze eigen boekingsmodule.
 
@@ -873,6 +873,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
   Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.30 uur | Vier gangen verrassingsmenu · 9.00 uur | Ontbijt in het boerderijrestaurant · 10.30 uur | Lekker op pad! · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
 - whiskydeal 1 persoonskamer (maandag): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=896f61a7&ft-friend=1C7C75FF12E507BA2A8F54D2EF55455D
 - Whiskydeal 1 persoonskamer (zondag): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=6a50fb21&ft-friend=C3D56CB8D011B3C19DE39941F41A8873
+  Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.00 uur | Drie gangen verrassingsmenu · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
 - Whiskyproeverij (donderdag): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=e0ee264c&ft-friend=98C19289C898DFAF49FF4F5DA52A02D1
 - Whiskytour 2 pers + 1 bottle Bus Whisky: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=89a7d55e&ft-friend=861A334DA3F5C66B6FF6D5013BC1E3AE
 - Workshop Whisky Stoken "Middays": https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=05f4caa6&ft-friend=0FE21E7B88EE2EBA2E0F51E597F80421
