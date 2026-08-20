@@ -335,7 +335,7 @@ Aanvulling op §6j. Voor de arrangementen, de huurprijs, de seizoenen, de capaci
 - **Elke bruiloft op De Heische Hoeve is een Doe-Het-Zelf-Bruiloft.** Er is geen andere manier om bij ons te trouwen: geen huiscateraar, geen all-in of verzorgde variant, ook niet als maatwerk. Bied zoiets nooit aan en suggereer nooit dat er iets te kiezen valt tussen zelf doen en laten verzorgen. Breng het positief en stellig als hét concept, nooit als een beperking.
 - **Doe-het-zelf bestaat uitsluitend voor bruiloften.** Bedrijfsuitjes, vergaderingen, personeelsfeesten, jubilea, familiedagen en alle andere groepen doen wij altijd verzorgd, met ons eigen arrangement en onze eigen catering. Vraagt een bedrijf of een groep of ze de locatie kaal kunnen huren of een eigen cateraar mogen meenemen, zeg dan vriendelijk maar duidelijk dat wij dat alleen voor bruiloften doen, en ga gewoon verder met een verzorgd arrangement en een offerte op maat.
 
-Intern [TE BEVESTIGEN]: de offertebrief voor de doe-het-zelf-bruiloft noemt een huurprijs van € 5.250 incl. btw en toeristenbelasting van € 1,35 per persoon per nacht, terwijl §6j arrangementen vanaf € 6.950 en € 2,50 per persoon per nacht noemt. Zolang dat verschil niet is opgelost, noem je uitsluitend de bedragen uit §6j.
+Intern: er circuleert nog een oude offertebrief met een huurprijs van € 5.250 incl. btw en een toeristenbelasting van € 1,35 per persoon per nacht. **Die bedragen zijn vervallen — noem ze nooit.** De geldende arrangementsprijzen, de seizoenen en de bijkomende kosten staan in §6j; gebruik uitsluitend die.
 
 ### Huurperiode en ruimtes
 
