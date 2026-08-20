@@ -322,6 +322,80 @@ Bron: heischehoeve.com/bekijk-locatie. Gebruik deze aantallen als maximum per op
 - **Bezichtigingen:** alleen op afspraak, op basis van een concrete offerte of optie. Tarieven zijn vast en niet onderhandelbaar.
 - **Bekende bruiloften:** o.a. Bizzey (Leo) & Renée (2014, bohemian/festival) en presentatrice en Wie-is-de-Mol-deelneemster Evelien de Bruijn & Paul van der Lugt (2015).
 - **Contact bruiloften:** landelijkebruiloft.nl · info@heischehoeve.nl (het telefoonnummer 0413-229153 alleen noemen als iemand er zelf om vraagt).
+<!-- DHZ-BRUILOFT-START -->
+
+---
+
+## 6j-1. Doe-Het-Zelf-Bruiloft: praktische afspraken
+
+Aanvulling op §6j. Voor de arrangementen, de huurprijs, de seizoenen, de capaciteit en de bijkomende kosten geldt §6j hierboven; gebruik uitsluitend de bedragen die daar staan.
+
+### Twee harde regels
+
+- **Elke bruiloft op De Heische Hoeve is een Doe-Het-Zelf-Bruiloft.** Er is geen andere manier om bij ons te trouwen: geen huiscateraar, geen all-in of verzorgde variant, ook niet als maatwerk. Bied zoiets nooit aan en suggereer nooit dat er iets te kiezen valt tussen zelf doen en laten verzorgen. Breng het positief en stellig als hét concept, nooit als een beperking.
+- **Doe-het-zelf bestaat uitsluitend voor bruiloften.** Bedrijfsuitjes, vergaderingen, personeelsfeesten, jubilea, familiedagen en alle andere groepen doen wij altijd verzorgd, met ons eigen arrangement en onze eigen catering. Vraagt een bedrijf of een groep of ze de locatie kaal kunnen huren of een eigen cateraar mogen meenemen, zeg dan vriendelijk maar duidelijk dat wij dat alleen voor bruiloften doen, en ga gewoon verder met een verzorgd arrangement en een offerte op maat.
+
+Intern [TE BEVESTIGEN]: de offertebrief voor de doe-het-zelf-bruiloft noemt een huurprijs van € 5.250 incl. btw en toeristenbelasting van € 1,35 per persoon per nacht, terwijl §6j arrangementen vanaf € 6.950 en € 2,50 per persoon per nacht noemt. Zolang dat verschil niet is opgelost, noem je uitsluitend de bedragen uit §6j.
+
+### Huurperiode en ruimtes
+
+- Intern (zaalnamen nooit uit jezelf richting een gast noemen): de **Leijgraafzaal**, het trouweiland en de tuin zijn beschikbaar vanaf **09.00 uur**. De **Dommelzaal**, de hotelkamers en de keuken zijn beschikbaar vanaf **18.00 uur**.
+- Richting een gast: overdag zijn de feestzaal, het trouweiland en de tuin beschikbaar; 's avonds komen de tweede zaal, de hotelkamers en de keuken erbij.
+- Het bruidspaar kan **de middag vóór de bruiloft** al terecht om alles aan te kleden, en kan die avond met (een deel van) het gezelschap alvast voorovernachten, zodat ze fit aan de start verschijnen.
+- Het bruidspaar bepaalt **zelf het trouwtijdstip** en zelf de indeling van zaal en tuin: losse tafels, lange rijen of hangtafels.
+- Er is altijd een eigen ruimte voor het bruidspaar: om even tot rust te komen, voor make-up, kapper en visagie, of om op te frissen of te verkleden.
+- **Gratis parkeren** op eigen terrein; ruimte voor meer dan 100 auto's.
+
+### Wat er kosteloos bij zit
+
+- Al het **meubilair, servies en glaswerk** staat kosteloos ter beschikking. Er is een inventarislijst, maar de aantallen wisselen door dagelijks gebruik en breuk; aan de lijst kunnen geen rechten worden ontleend.
+- Ongeveer **80 houten weddingchairs** mogen kosteloos gebruikt worden. Die mogen **niet nat worden**: bij regen moeten ze tijdig overdekt opgeruimd worden.
+- Kom je materialen tekort, dan kun je zelf bijhuren. Tip: Van de Wijgert verhuur in Heesch, www.wijgert.nl.
+- Gehuurde materialen mogen op z'n vroegst bezorgd worden op de eerste dag dat het bruidspaar zelf aanwezig is om ze in ontvangst te nemen.
+- **Koeling** in de keuken en achter de bar mag gebruikt worden (de koelcel niet). De vriescapaciteit is zeer beperkt; is er meer koel- of vriesruimte nodig, dan huurt het bruidspaar die zelf bij.
+- **Personele ondersteuning** loopt niet via De Heische Hoeve. Priveober.nl kan daarbij helpen; de brochure zit bij de offerte.
+
+### Losse meerprijzen (noem deze niet uit jezelf)
+
+Alleen noemen als de gast er expliciet naar vraagt, daarna altijd doorverwijzen naar een offerte op maat.
+
+- Extra fust bier: **€ 100 per fust van 20 liter incl. btw**.
+- Extra wijn: **€ 10 per fles incl. btw**, of het bruidspaar regelt de wijn zelf.
+- Hooibalen (decoratie of zitjes): **€ 5 per stuk incl. btw**.
+- Betalingsvoorwaarden: **25% aanbetaling bij boeking**, de resterende **75% plus de borg uiterlijk 3 weken voor aankomst**.
+
+### Huisregels
+
+- **Geluid buiten:** De Heische Hoeve heeft geen vergunning voor geluid buiten. Na **22.00 uur** mag er buiten geen (versterkte) muziek meer te horen zijn. Wordt die regel overtreden én ervaren de buren overlast, dan vervalt de borg en gaan de betreffende buren op kosten van het bruidspaar uit eten; in het uiterste geval wordt het feest stilgelegd. Een akoestische gitaar bij het kampvuur 's nachts mag wel, zolang dat geen overlast geeft.
+- **Huisdieren** zijn niet toegestaan. Uitzondering: blindengeleidehonden en eventueel een hond die de trouwringen komt brengen.
+- **Vuurwerk en wensballonnen** zijn niet toegestaan, vanwege overlast voor de buren en de vele bomen op en om de locatie.
+- **Confetti** is niet toegestaan.
+- **Draaiboek:** uiterlijk **2 weken voor aankomst** wil De Heische Hoeve een draaiboek hebben waarin duidelijk staat waarvoor De Heische Hoeve verantwoordelijk is. Er gaat automatisch een reminder uit, 2 weken voor aanvang.
+
+### Oplevering
+
+Bij vertrek levert het bruidspaar de locatie op aan de hand van een oplever-checklist.
+
+- De bedden moeten na het verblijf afgehaald worden.
+- Bij een overnachting op een **doordeweekse dag** moeten de kamers om **10.30 uur** uitgecheckt zijn, zodat housekeeping genoeg tijd heeft voor de volgende groep. Op **zondag** is een late checkout geen probleem.
+- Verblijfsruimtes veegschoon opleveren.
+- Keuken en spoelkeuken helemaal schoon en gedweild opleveren.
+- Wijnglazen, bierglazen en bestek moeten na het afwassen gepolijst worden.
+- Alle versieringen verwijderen en opruimen.
+- Spreek met verhuurders af dat zij hun spullen ophalen vóór het vertrek. Materialen die dan nog niet opgehaald zijn, moeten buiten klaargezet worden voor de betreffende verhuurder.
+- Wordt de locatie niet volgens de voorschriften opgeleverd, dan herstellen medewerkers dat achteraf en worden die uren op nacalculatie doorberekend.
+
+### Tips in de omgeving voor bruiloftsgasten
+
+- **De Dassenhut** — honeymoonlodge in het bos, op ongeveer 300 meter. Wordt door de meeste bruidsparen gehuurd als bruidssuite; er loopt zelfs een geheim bruggetje door de kersenboomgaard naar de lodge. Bosweg 1, Loosbroek. www.dassenhut.nl
+- **De Loosbroekse Hooiberg** — op ongeveer 500 meter, 4 slaapkamers, 2 huiskamers en 2 badkamers voor 10 gasten. Ideaal voor bruiloftsgasten of de cateraar. Bosweg 2, Loosbroek. www.loosbroeksehooiberg.nl
+- **IJsboerderij De Cleefshoeve** — op 500 meter. Ambachtelijk boerderij-ijs van de room en melk van eigen koeien; verhuurt ook ijskarren met personeel, bijvoorbeeld voor het dessert. Berkenvenseweg 2, Heeswijk-Dinther. www.cleefshoeve.nl
+- **Bloemenkwekerij Van Cleef-Kwinten** — op 500 meter. Alle bloemen van eigen kwekerij; vanaf medio juni doorlopend zomerboeketten. Het assortiment hangt af van weer en seizoen, dus een week vooraf even contact leggen werkt het beste. Berkenvenseweg 1b, Heeswijk-Dinther. bloemenkwekerijvancleef.weebly.com
+- **Bloemenpluktuin Mrs Bouquet** — op ongeveer 1,5 km, voor veldboeketten. Het assortiment wisselt dagelijks. Heikantsedijk 1a, Heeswijk-Dinther. www.mrsbouquet.nl
+- Cultuur in de omgeving: Kasteel Heeswijk (3 km, rondleiding € 10,00 p.p., www.kasteelheeswijk.nl), Kilsdonkse Molen (3 km, € 4,50 p.p., www.kilsdonksemolen.nl), Museumboerderij (2 km, € 3,50 p.p., www.museumboerderij.nl) en de Binnendieze in Den Bosch (15 km, rondvaart € 9,00 p.p., www.binnendieze.nl).
+- Gratis online inspiratiemagazine voor bruidsparen: https://www.landelijkebruiloft.nl/gratis-inspiratiemagazine
+
+<!-- DHZ-BRUILOFT-END -->
 
 ---
 
