@@ -1028,7 +1028,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 
 > Samengevoegde, ontdubbelde lijst van openstaande punten uit de wekelijkse canon-checks. Verwerk een punt op de juiste plek en verwijder het daarna.
 
-- [open] Beide 1-persoonsarrangementen bestaan (vr/za ticket 196a1421 voor 209,50 euro, zo/ma ticket 6a50fb21 voor 149,50 euro), maar 196a1421 komt niet door de dagelijkse deeplink-sync heen en staat dus waarschijnlijk niet actief of online in Formitable. Nog te doen in Formitable: 196a1421 online zetten, het oude ticket 'whiskydeal 1 persoonskamer (maandag)' (896f61a7) uitzetten, en de prijs in de ticketnamen zetten zoals bij de gewone B&B-tickets zodat de deeplink-sync die vanzelf meeneemt.
+- [open] Beide 1-persoonsarrangementen bestaan en staan online: vr/za ticket 196a1421 voor 209,50 euro en zo/ma ticket 6a50fb21 voor 149,50 euro. Beide staan sinds 24 aug in het deeplinkblok hierboven, met de prijs in het label. Nog te doen door Dennis in Formitable: het oude ticket 'whiskydeal 1 persoonskamer (maandag)' (896f61a7) uitzetten, want dat product zit in geen enkele tool of check.
 
 
 <!-- WEBSITE-LEAD-AUTOMATIE:START -->
