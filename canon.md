@@ -964,7 +964,9 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
   Voorwaarden: Reserveren van de vrijdagdeal is alleen online mogelijk; Minimaal 1 dag vooraf reserveren; De aanbieding is exclusief drankjes
 - Weekendje Bus: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=15992a71&ft-friend=3000C0C5587973175036F0D84E5DBBFE
   Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.30 uur | Vier gangen verrassingsmenu · 9.00 uur | Ontbijt in het boerderijrestaurant · 10.30 uur | Lekker op pad! · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
-- Whiskydeal 1 persoonskamer (zondag): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=6a50fb21&ft-friend=C3D56CB8D011B3C19DE39941F41A8873
+- Whiskydeal 1 persoonskamer (vrij&za, €209,50) - 3 gangen, voor 1 persoon: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=196a1421&ft-friend=156B6CDD5B3A2EFE93DCA873FC1E7259
+  Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.00 uur | Drie gangen verrassingsmenu · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
+- Whiskydeal 1 persoonskamer (zo&ma, €149,50) - 3 gangen, voor 1 persoon: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=6a50fb21&ft-friend=C3D56CB8D011B3C19DE39941F41A8873
   Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.00 uur | Drie gangen verrassingsmenu · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
 - Whiskyproeverij (donderdag): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=e0ee264c&ft-friend=98C19289C898DFAF49FF4F5DA52A02D1
 - Whiskytour 2 pers + 1 bottle Bus Whisky: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=89a7d55e&ft-friend=861A334DA3F5C66B6FF6D5013BC1E3AE
