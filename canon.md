@@ -964,7 +964,6 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
   Voorwaarden: Reserveren van de vrijdagdeal is alleen online mogelijk; Minimaal 1 dag vooraf reserveren; De aanbieding is exclusief drankjes
 - Weekendje Bus: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=15992a71&ft-friend=3000C0C5587973175036F0D84E5DBBFE
   Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.30 uur | Vier gangen verrassingsmenu · 9.00 uur | Ontbijt in het boerderijrestaurant · 10.30 uur | Lekker op pad! · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
-- whiskydeal 1 persoonskamer (maandag): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=896f61a7&ft-friend=1C7C75FF12E507BA2A8F54D2EF55455D
 - Whiskydeal 1 persoonskamer (zondag): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=6a50fb21&ft-friend=C3D56CB8D011B3C19DE39941F41A8873
   Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.00 uur | Drie gangen verrassingsmenu · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
 - Whiskyproeverij (donderdag): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=e0ee264c&ft-friend=98C19289C898DFAF49FF4F5DA52A02D1
