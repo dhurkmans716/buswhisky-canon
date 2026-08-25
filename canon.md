@@ -128,6 +128,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 ---
 
 ## 6b. Gratis busvervoer (bedrijfsuitjes)
+**Komen met een reisbus of touringcar.** Vraagt een gast of er vanuit onze locatie aandachtspunten zijn voor de bus of de chauffeur (aankomst, routing, parkeren, manoeuvreren)? Het antwoord is **nee**: er zijn geen bijzonderheden waar de chauffeur rekening mee hoeft te houden. Verwijs voor de regeling en de voorwaarden naar https://www.heischehoeve.com/gratis-busvervoer. Dit geldt ook wanneer de groep zelf een bus of touringcar regelt en dus geen gebruikmaakt van onze gratis busvervoerregeling. Een bot mag deze vraag dus zelf beantwoorden en hoeft hem niet te escaleren.
 
 - Bus Whisky Meeting & Events biedt standaard **gratis touringcarvervoer** bij bedrijfsuitjes voor groepen **vanaf 40 betalende volwassen deelnemers**, vanaf elke plek in Nederland en België. Slogan: "Zorg jij voor een volle bus? Dan betalen wij 'm!"
 - Kleinere groepen mogen altijd voor 40 personen betalen om recht te krijgen op het gratis busvervoer, ook als je met minder deelnemers bent (bijvoorbeeld 35). Wie voor 40 betaalt, heeft recht op gratis busvervoer. Reken zelf uit wat voor jullie groep financieel het gunstigst is.
