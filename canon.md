@@ -1111,3 +1111,25 @@ Is er geen ordernummer te vinden, dan wordt er niets automatisch afgehandeld en 
 
 Dit is een interne werkwijze voor medewerkers en automatisering. De bots delen deze regel niet met gasten.
 <!-- ORDERLOG-END -->
+<!-- INKOOPORDER-ONTBREEKT-START -->
+### Factuur geweigerd: inkoopordernummer ontbreekt (interne regel)
+
+Een klant (of zijn crediteurenadministratie) stuurt een factuur terug omdat ons inkoopordernummer ontbreekt, of vraagt om een inkooporder. Deze mails komen meestal binnen op administratie@heischehoeve.nl en worden doorgestuurd naar info@buswhisky.com. Werkwijze, zonder uitzondering:
+
+1. **Order opzoeken in KMT** op factuurnummer, bedrijfsnaam of datum. Noteer het ordernummer (formaat 20xxxxxx) en de contactpersoon van die order.
+2. **De mail doorsturen naar de contactpersoon van de order** — dus naar onze eigen opdrachtgever bij dat bedrijf, niet terug naar de financiele administratie die de factuur weigerde. Laat de hele mailketen en de bijlagen staan, zodat de contactpersoon ziet om welke factuur het gaat.
+3. **Zet de order in CC**: `<ordernummer>@heischehoeve.com`. Zo staat de vraag in het logboek van de order (zie de regel hierboven over ordercommunicatie).
+4. **Vraag kort en vriendelijk om een inkooporder.** Voorbeeld:
+
+> Dag [voornaam],
+>
+> Graag ontvangen wij asap een inkooporder van je. Kun je ons daar aan helpen?
+>
+> Met vriendelijke groet,
+
+5. Komt het inkoopordernummer binnen, geef het dan door aan administratie@heischehoeve.nl (met de order in CC), zodat de factuur opnieuw wordt verstuurd met het nummer erop naar het factuuradres dat de klant noemt.
+
+**Is er in KMT geen order of geen contactpersoon te vinden, dan wordt er niets automatisch afgehandeld** en blijft de mail in Postvak IN liggen voor een mens. Verzin nooit een ordernummer of een contactpersoon.
+
+Dit is een interne werkwijze voor medewerkers en automatisering. De bots delen deze regel niet met gasten.
+<!-- INKOOPORDER-ONTBREEKT-END -->
