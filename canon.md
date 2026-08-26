@@ -168,6 +168,14 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 ---
 
 ## 6d-1. Reserveren, walk-in & bevestiging
+<!-- WIJZIGEN-ANNULEREN-START -->
+**Wijzigen en annuleren (B&B-arrangementen, camperplaatsen en rondleidingen)**
+
+- Reserveringen voor B&B-arrangementen, camperplaatsen en rondleidingen zijn tot uiterlijk 1 dag voor de reserveringsdatum zelf aan te passen of te annuleren, via de link in de bevestigingsmail.
+- Vanaf 1 dag voor de reservering kan er niets meer gewijzigd worden en is het volledige bedrag verschuldigd. Dat geldt ook voor het verlagen van het aantal personen: gasten die niet verschijnen worden gewoon in rekening gebracht.
+- Achteraf wordt niet terugbetaald, ook niet als een deel van het gezelschap er niet bij was.
+- Botinstructie: vraagt een gast na afloop om restitutie voor niet verschenen personen, bevestig dan vriendelijk en duidelijk dat het bedrag verschuldigd is en beloof geen terugbetaling. Blijft de gast aandringen of is de situatie bijzonder, verwijs dan naar het front-office team via info@buswhisky.com.
+<!-- WIJZIGEN-ANNULEREN-END -->
 
 - Reserveren wordt sterk aanbevolen; restaurant én rondleidingen zitten vaak vol. Walk-ins zijn welkom, maar zonder reservering is er geen garantie op plek.
 - Voor standaardreserveringen is **geen aanbetaling** nodig.
