@@ -479,7 +479,7 @@ Bij vertrek levert het bruidspaar de locatie op aan de hand van een oplever-chec
 ### Speellijst theatershow (automatisch gesynct uit buswhisky.com/theatershow — niet handmatig bewerken tussen de markers)
 
 <!-- THEATERSHOW:START -->
-*Automatisch gesynct uit buswhisky.com/theatershow. Bijgewerkt: 25-08-2026 (21 voorstellingen). Controleer kaartverkoop en actuele data bij het theater.*
+*Automatisch gesynct uit buswhisky.com/theatershow. Bijgewerkt: 26-08-2026 (21 voorstellingen). Controleer kaartverkoop en actuele data bij het theater.*
 
 - vrijdag 11 september 2026 — Amersfoort, Flint (muziek: Erwin Nyhoff)
 - woensdag 16 september 2026 — Uden, Markant (muziek: Björn van der Doelen)
@@ -501,7 +501,7 @@ Bij vertrek levert het bruidspaar de locatie op aan de hand van een oplever-chec
 - vrijdag 26 februari 2027 — Venray, Schouwburg Venray (muziek: Björn van der Doelen)
 - vrijdag 5 maart 2027 — Ulft, DRU Industriepark (muziek: Björn van der Doelen)
 - zaterdag 6 maart 2027 — Nijkerk, Streams Breede Beeck (muziek: Erwin Nyhoff)
-- zaterdag 13 maart 2027 — Heesch, CC De Pas (muziek: Björn van der Doelen)
+- zaterdag 13 maart 2027 — Heesch, CC De Pas (muziek: Erwin Nyhoff)
 <!-- THEATERSHOW:END -->
 
 ---
