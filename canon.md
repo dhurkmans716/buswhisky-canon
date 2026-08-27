@@ -487,13 +487,14 @@ Bij vertrek levert het bruidspaar de locatie op aan de hand van een oplever-chec
 ### Speellijst theatershow (automatisch gesynct uit buswhisky.com/theatershow — niet handmatig bewerken tussen de markers)
 
 <!-- THEATERSHOW:START -->
-*Automatisch gesynct uit buswhisky.com/theatershow. Bijgewerkt: 26-08-2026 (21 voorstellingen). Controleer kaartverkoop en actuele data bij het theater.*
+*Automatisch gesynct uit buswhisky.com/theatershow. Bijgewerkt: 27-08-2026 (22 voorstellingen). Controleer kaartverkoop en actuele data bij het theater.*
 
 - vrijdag 11 september 2026 — Amersfoort, Flint (muziek: Erwin Nyhoff)
 - woensdag 16 september 2026 — Uden, Markant (muziek: Björn van der Doelen)
 - donderdag 17 september 2026 — Roosendaal, De Kring (muziek: Björn van der Doelen)
 - vrijdag 2 oktober 2026 — Hendrik Ido Ambacht, CC Cascade (muziek: Erwin Nyhoff)
 - vrijdag 9 oktober 2026 — Helmond, Theater het Speelhuis (muziek: Erwin Nyhoff)
+- zaterdag 17 oktober 2026 — Winschoten, Cultuurhuis De Klinker (muziek: Erwin Nyhoff)
 - donderdag 29 oktober 2026 — Weert, Munttheater (muziek: Erwin Nyhoff)
 - vrijdag 6 november 2026 — Gorredijk, De Skans (muziek: Erwin Nyhoff)
 - zaterdag 7 november 2026 — Oosterhout, Theater de Bussel (muziek: Björn van der Doelen)
