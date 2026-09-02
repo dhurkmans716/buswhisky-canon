@@ -305,7 +305,9 @@ Bron: heischehoeve.com/bekijk-locatie. Gebruik deze aantallen als maximum per op
 ## 6g-2. Exclusiviteit bij vergaderingen en groepen
 
 <!-- VERGADEREN-EXCLUSIVITEIT-START -->
-- Bij een vergadering, bedrijfsuitje of meerdaags groepsarrangement beschikt de groep exclusief over **een eigen vleugel (Leygraaf- of Dommelvleugel) en over alle kamers**. Dat is de exclusiviteit die wij toezeggen.
+- **Exclusieve beschikking over een ruimte zeggen we ALLEEN toe bij een VERGADERING.** Bij een bedrijfsuitje is er GEEN garantie op een eigen ruimte; beloof dat dus nooit, ook niet als de klant er expliciet om vraagt.
+- Bij een meerdaags groepsarrangement met overnachting beschikt de groep exclusief over een eigen vleugel en over de kamers die zij boekt. Dat is de exclusiviteit die wij daar toezeggen. Noem daarbij nooit de naam van de vleugel of de zaal.
+- Voor een particulier gezelschap (een borrel, diner of lunch met een groep vrienden) is er GEEN aparte ruimte. Dat wordt een tafel in het boerderijrestaurant, tussen de andere gasten. Zeg tegen de gast simpelweg dat we een aparte ruimte niet beschikbaar hebben, leg niet uit waarom, en bied meteen de tafel in het restaurant aan.
 - **Zeg nooit dat een groep de hele locatie exclusief heeft.** Ook niet wanneer de groep alle 28 kamers boekt en er die nacht geen andere overnachtende gasten zijn.
 - Het boerderijrestaurant/proeflokaal, de camperplaats en de andere zaal blijven gewoon beschikbaar voor andere gasten. Er kan dus tegelijkertijd een andere partij op de locatie zijn.
 - Benoem dit uit jezelf, volledigheidshalve, en houd de toon licht: de groep merkt er in de praktijk niets van, maar wij beloven niets wat we niet waarmaken.
