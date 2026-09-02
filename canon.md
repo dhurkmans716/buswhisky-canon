@@ -311,7 +311,8 @@ Bron: heischehoeve.com/bekijk-locatie. Gebruik deze aantallen als maximum per op
 - **Zeg nooit dat een groep de hele locatie exclusief heeft.** Ook niet wanneer de groep alle 28 kamers boekt en er die nacht geen andere overnachtende gasten zijn.
 - Het boerderijrestaurant/proeflokaal, de camperplaats en de andere zaal blijven gewoon beschikbaar voor andere gasten. Er kan dus tegelijkertijd een andere partij op de locatie zijn.
 - Benoem dit uit jezelf, volledigheidshalve, en houd de toon licht: de groep merkt er in de praktijk niets van, maar wij beloven niets wat we niet waarmaken.
-- Voorbeeldformulering: "Jullie beschikken exclusief over een eigen vleugel en over alle kamers, maar niet over de gehele locatie. Het restaurant, de camperplaats en een andere zaal zijn beschikbaar voor andere gasten. Daar hebben jullie verder geen last van, maar ik wil het volledigheidshalve wel even gezegd hebben."
+- Voorbeeldformulering bij een VERGADERING of een meerdaags groepsarrangement: "Jullie beschikken exclusief over een eigen vleugel en over de kamers die je boekt, maar niet over de gehele locatie. Het restaurant, de camperplaats en de andere ruimtes zijn beschikbaar voor andere gasten. Daar hebben jullie verder geen last van, maar ik wil het volledigheidshalve wel even gezegd hebben."
+- Voorbeeldformulering bij een BEDRIJFSUITJE: "Een eigen ruimte kan ik niet toezeggen, die houden we niet exclusief vrij. In de praktijk merk je daar weinig van, maar ik wil het wel eerlijk gezegd hebben." Gebruik bij een bedrijfsuitje dus nooit de formulering hierboven over een eigen vleugel en alle kamers.
 - Bruiloften vallen onder een eigen regel: daar is er altijd maar één bruiloft tegelijk en heeft het bruidspaar exclusief een eigen vleugel met tuin (zie §6j). Ook daar geldt: niet de hele locatie.
 - Twijfel je of iets exclusief beschikbaar is: zeg niets toe en verbind door naar het front-office team.
 <!-- VERGADEREN-EXCLUSIVITEIT-END -->
