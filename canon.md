@@ -371,7 +371,7 @@ Bron: heischehoeve.com/bekijk-locatie. Gebruik deze aantallen als maximum per op
  - Weekendbruiloft hoogseizoen (vrijdag–zondag, juli/augustus): € 11.950
 - **Seizoen:** hoogseizoen is juli en augustus; ook in de herfst- en winterperiode zijn bruiloften mogelijk (LIGHT-arrangement, 1 november–31 maart). In mei, juni, september en oktober zijn er géén bruiloften. Deze seizoensbeperking geldt voor het boeken van de trouwlocatie zelf (exclusief, vanaf 40 personen); een B&B-arrangement, diner of overnachting voor een klein gezelschap valt hier niet onder en is het hele jaar boekbaar (zie §6f en §6o).
 - **Bijkomende kosten:** borg € 500, schoonmaak € 350, linnenverhuur (verplicht) € 7,50 p.p., toeristenbelasting € 2,50 per persoon per nacht (ter dekking van de lokale heffingen).
-- **Bezichtigingen:** alleen op afspraak, op basis van een concrete offerte of optie. Tarieven zijn vast en niet onderhandelbaar.
+- **Bezichtigingen:** alleen op afspraak, op basis van een concrete offerte of optie. Een afspraak kan uitsluitend op zondag tussen 16.00 en 17.30 uur of op zaterdag tussen 9.00 en 13.00 uur, en nooit in mei, juni, september en oktober. Tarieven zijn vast en niet onderhandelbaar.
 - **Bekende bruiloften:** o.a. Bizzey (Leo) & Renée (2014, bohemian/festival) en presentatrice en Wie-is-de-Mol-deelneemster Evelien de Bruijn & Paul van der Lugt (2015).
 - **Contact bruiloften:** landelijkebruiloft.nl · info@heischehoeve.nl (het telefoonnummer 0413-229153 alleen noemen als iemand er zelf om vraagt).
 <!-- DHZ-BRUILOFT-START -->
