@@ -747,8 +747,10 @@ Volledige privacyverklaring: https://buswhisky.com/privacystatement (versie 2026
 Geldt voor: een bezichtiging van de locatie, een voorbereidings- of overlegafspraak, en een rondleiding in het kader van een bruiloft of event.
 
 - Zo'n afspraak is **alleen mogelijk aan de hand van een offerte**. Er wordt dus eerst een offerte opgemaakt; pas daarna plannen we het bezoek in. Vraagt iemand zonder offerte om langs te komen: eerst de offerte-aanvraag oppakken en het bezoek daarna inplannen.
-- Op **zaterdag kan het uitsluitend in de ochtend**. Zaterdagmiddag is geen optie: dan zitten we op de piek van onze drukte en is er geen gelegenheid om gasten rustig te woord te staan.
-- Vraagt een gast om een zaterdagmiddag: vriendelijk uitleggen dat alleen een zaterdagochtend mogelijk is en meteen een alternatief moment voorstellen.
+- Zo'n afspraak kan **alleen op twee vaste momenten**: op **zondag tussen 16.00 en 17.30 uur** of op **zaterdag tussen 9.00 en 13.00 uur**. Andere dagen en tijden zijn geen optie. Zaterdag na 13.00 uur valt af: dan zitten we op de piek van onze drukte en is er geen gelegenheid om gasten rustig te woord te staan.
+- In **mei, juni, september en oktober plannen we helemaal geen bezichtigingen of afspraken**, ook niet op een zaterdag of zondag. Valt de wens van de gast in die maanden, stel dan meteen een moment daarbuiten voor.
+- Vraagt een gast om een ander moment (bijvoorbeeld een zaterdag na 13.00 uur of een doordeweekse dag): vriendelijk uitleggen dat het alleen kan op zondag tussen 16.00 en 17.30 uur of op zaterdag tussen 9.00 en 13.00 uur, en meteen een concreet alternatief voorstellen. Noem daarbij nooit zelf een datum uit je hoofd.
+- De bot plant zo'n afspraak **zelf in** en zet hem meteen in de KMT-agenda: eerst Bezichtiging_Slots_Ophalen voor de vrije momenten, daarna Bezichtiging_Vastleggen voor het moment dat de gast kiest. Die tools kennen de vensters en de gesloten maanden al. Schuif een bezichtigingsverzoek dus nooit door naar het team of naar info@.
 - **Let op:** dit gaat niet over de reguliere rondleidingen door de whiskystokerij. Die lopen gewoon via reservering en beschikbaarheid in Formitable, zonder offerte, en zijn niet aan deze zaterdagregel gebonden.
 <!-- BEZICHTIGINGEN-END -->
 <!-- B2B-KAMERREGEL-START -->
