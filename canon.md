@@ -263,7 +263,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - **Vergaderarrangementen: minimum 5 personen** (in combinatie met diner) — dit geldt voor ALLE vergaderarrangementen, van het 12-uurs dagarrangement tot de meerdaagse varianten met overnachting. Noem dus nooit 6 personen als minimum. De maxima verschillen wel per variant: het 12-uurs dagarrangement (zonder overnachting) kan tot 200 personen, de arrangementen met overnachting op eenpersoonskamers tot 28 personen. Ook bij vergaderingen geldt gratis busvervoer pas vanaf 40 personen (zie §6b); noem nooit een lagere drempel zoals 35. (Geverifieerd op heischehoeve.com, peildatum 03-08-2026.)
 - **Vergaderarrangementen — prijzen (excl. btw, ma–vr, vanaf 5 pers.; bron heischehoeve.com/vergaderen, peildatum 05-09-2026):**
   - 12-uurs alles-inclusief (08:30–21:00), 5–200 pers.: € 150,00 p.p. — [boek](https://www.heischehoeve.com/locatie-heisessie?backUrl=/vergaderen)
-  - 24-uurs met overnachting (1-persoonskamer), 5–28 pers.: € 325,00 p.p. — [boek](https://www.heischehoeve.com/inspirerende-locatie?backUrl=/vergaderen)
+  - 24-uurs met overnachting (1-persoonskamer), 5–28 pers.: € 350,00 p.p. — [boek](https://www.heischehoeve.com/inspirerende-locatie?backUrl=/vergaderen)
   - 32-uurs met overnachting (1-persoonskamer), 5–28 pers.: € 395,00 p.p. — [boek](https://www.heischehoeve.com/vergaderen-eindhoven?backUrl=/vergaderen)
   - 48-uurs (1-persoonskamer), 5–28 pers.: € 600,00 p.p. — [boek](https://www.heischehoeve.com/vergaderzaal-eindhoven?backUrl=/vergaderen)
   - 56-uurs (1-persoonskamer), 5–28 pers.: € 675,00 p.p. — [boek](https://www.heischehoeve.com/vergaderlocatie-vlakbij-eindhoven?backUrl=/vergaderen)
