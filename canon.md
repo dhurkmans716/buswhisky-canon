@@ -1040,15 +1040,15 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 
 **LINKS SCHRIJVEN — HARDE REGEL.** Een link die niet klikbaar is, is een verloren boeking. Schrijf een link altijd als [duidelijke tekst](https://...) en nooit anders. Zet een URL NOOIT tussen ronde haakjes en NOOIT binnen de haakjes van een andere link; schrijf dus nooit ([https://...](https://...)) en nooit (https://...). Plak nooit een leesteken, haakje of woord direct tegen de URL aan, en zet altijd een spatie vóór de openende blokhaak. Neem de URL letterlijk over, van https:// tot en met het laatste teken.
 
-- 3 gangen B&B (vrij&za, €159,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=06ef4002&ft-friend=1CD88408D99732F3F18D5675ABDF4E52
+- 3 gangen B&B (vrij&za, €179,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=06ef4002&ft-friend=1CD88408D99732F3F18D5675ABDF4E52
   Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.00 uur | Drie gangen verrassingsmenu · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
 - 3 gangen B&B (zo&ma, €99,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=136c5210&ft-friend=723C2389CA61B48B8797BE2D0C9A96FB
   Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.00 uur | Drie gangen verrassingsmenu · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
-- 4 gangen B&B (vr&za, €169,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=1ea3b7b8&ft-friend=50CC4FB5DDF5075B5D4308CB6D073306
+- 4 gangen B&B (vr&za, €189,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=1ea3b7b8&ft-friend=50CC4FB5DDF5075B5D4308CB6D073306
   Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.00 uur | Vier gangen verrassingsmenu · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
 - 4 gangen B&B (zo&ma, €109,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=6ff63a2d&ft-friend=94773A865DC22B5DC7FD76D8630C35F6
   Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.00 uur | Vier gangen verrassingsmenu · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
-- 5 gangen B&B (vrij&za, €179,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=dd25f0f7&ft-friend=65A0C73208FCCEC37B67925279D577E7
+- 5 gangen B&B (vrij&za, €199,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=dd25f0f7&ft-friend=65A0C73208FCCEC37B67925279D577E7
   Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.00 uur | Vijf gangen verrassingsmenu · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
 - 5 gangen B&B (zo&ma, €119,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=64e7f446&ft-friend=D25F4335445F3391221FC9C3996F4033
   Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.00 uur | Vijf gangen verrassingsmenu · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
