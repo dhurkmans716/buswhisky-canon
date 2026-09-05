@@ -1121,7 +1121,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 ### Arrangementen
 - **Weekendarrangement** (vrijdag 17:00 & zondag 14:00) — rondleiding + 3-gangendiner — € 49,50 p.p. (normaal € 62,50).
 - **Lunchdeal** (zaterdag & zondag) — rondleiding 14:30 + lunchplank — € 35,00 p.p.
-- **B&B-arrangement** — 3/4/5-gangendiner + overnachting + ontbijt — € 99,50 tot € 179,50 p.p., afhankelijk van de aankomstdag (op basis van 2 personen per kamer).
+- **B&B-arrangement** — 3/4/5-gangendiner + overnachting + ontbijt — € 99,50 tot € 199,50 p.p., afhankelijk van de aankomstdag (op basis van 2 personen per kamer).
 - **1-persoonsarrangement (solo, eenpersoonskamer)**: 3 gangen + rondleiding + overnachting + ontbijt, € 149,50 bij aankomst zondag, maandag of woensdag en € 209,50 bij aankomst vrijdag of zaterdag, voor 1 persoon. Extra gangen boekt de gast ter plaatse bij. De twee deeplinks staan bij de 1-persoonskamer-regel in §6f.
 
 > Boekingslinks: via het bestaande marker-/deeplink-mechanisme; niet handmatig in dit blok invullen. Bus Cream staat al in §9 (Producten) en wordt hier niet herhaald.
