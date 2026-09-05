@@ -213,6 +213,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Reserveren heeft onze voorkeur. Inloop is ook mogelijk, maar zonder reservering is er geen garantie op een plek.
 - Het volledige meergangen verrassingsmenu kan ook buiten op het overdekte, verwarmde terras worden geserveerd.
 - Openingstijden restaurant: zie §8 (7 dagen per week open voor diner; za & zo ook lunch vanaf 12:00).
+- **HARDE REGEL: de lunch is NOOIT een meergangenmenu.** Het table d'hôte verrassingsmenu van 1 tot en met 5 gangen (€ 24,50 tot € 69,50) is het DINERMENU en serveren we alleen 's avonds. Zeg dus NOOIT dat we de hele dag door 3 gangen of meer serveren, en bied een gast die overdag komt of naar een lunch vraagt nooit een 3-, 4- of 5-gangenmenu aan. Lunchen kan alleen op ZATERDAG en ZONDAG vanaf 12:00; maandag tot en met vrijdag opent het restaurant pas om 15:30 en is er uitsluitend diner. Bij de lunch serveren we de lunchplank, en de vaste lunchvorm is de Lunchdeal: rondleiding om 14:30 met vooraf de lunchplank, € 35,00 p.p. (normaal € 42,50), elke zaterdag en zondag, te boeken via de Lunchdeal-deeplink in §11. Noem bij een lunchvraag dus de lunchplank en de Lunchdeal, noem NOOIT de gangenprijzen, en verzin geen lunchmenu, lunchgangen of lunchprijs die hier niet staat.
 - Laatste reserveringstijd is 20:00 uur; daarna blijft het restaurant open tot 22:00 (of zo lang gasten natafelen). Reserveren ná 20:00 kan niet.
 
 ---
