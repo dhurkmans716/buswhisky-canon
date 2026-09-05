@@ -264,7 +264,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - **Vergaderarrangementen — prijzen (excl. btw, ma–vr, vanaf 5 pers.; bron heischehoeve.com/vergaderen, peildatum 05-09-2026):**
   - 12-uurs alles-inclusief (08:30–21:00), 5–200 pers.: € 150,00 p.p. — [boek](https://www.heischehoeve.com/locatie-heisessie?backUrl=/vergaderen)
   - 24-uurs met overnachting (1-persoonskamer), 5–28 pers.: € 350,00 p.p. — [boek](https://www.heischehoeve.com/inspirerende-locatie?backUrl=/vergaderen)
-  - 32-uurs met overnachting (1-persoonskamer), 5–28 pers.: € 395,00 p.p. — [boek](https://www.heischehoeve.com/vergaderen-eindhoven?backUrl=/vergaderen)
+  - 32-uurs met overnachting (1-persoonskamer), 5–28 pers.: € 425,00 p.p. — [boek](https://www.heischehoeve.com/vergaderen-eindhoven?backUrl=/vergaderen)
   - 48-uurs (1-persoonskamer), 5–28 pers.: € 600,00 p.p. — [boek](https://www.heischehoeve.com/vergaderzaal-eindhoven?backUrl=/vergaderen)
   - 56-uurs (1-persoonskamer), 5–28 pers.: € 675,00 p.p. — [boek](https://www.heischehoeve.com/vergaderlocatie-vlakbij-eindhoven?backUrl=/vergaderen)
 - **Welke variant bij hoeveel dagen (HARDE REGEL).** Twee aaneengesloten dagen vergaderen met een overnachting ertussen is in 9 van de 10 gevallen het 32-uurs arrangement, niet het 24-uurs. Vraagt een gast om twee dagen vergaderen (bijvoorbeeld 18 en 19 november) met overnachting, noem dan het 32-uurs arrangement als standaard en zet het 24-uurs hooguit als kortere variant ernaast. Het 24-uurs loopt van de middag tot de volgende ochtend, het 32-uurs dekt twee volle vergaderdagen. Twee nachten is 48-uurs, drie nachten 56-uurs.
