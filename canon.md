@@ -622,6 +622,7 @@ Erkenningen & media (geen wedstrijdmedailles, wel bruikbaar als sociale bewijskr
 | Zondag | 12:00–22:00 | 10:00–17:30 | 14:30 en 16:00 |
 
 - Restaurant is **7 dagen per week** open
+- Die 7 dagen gelden voor het DINER. Alleen op zaterdag en zondag is het restaurant al vanaf 12:00 open en kun je er ook lunchen. Die lunch is nooit het meergangen verrassingsmenu: zie de harde lunchregel in §6e.
 - **Winkel en receptie** zijn los van het restaurant geopend: maandag t/m vrijdag 8:00–17:30, zaterdag en zondag 10:00–17:30
 - Let op: het restaurant opent pas om 15:30 (za & zo 12:00), maar winkel en receptie zijn overdag al eerder open — verwar deze tijden niet. Wie langs wil komen voor bijvoorbeeld een cadeaubon of aankoop kan overdag terecht tijdens de winkel-/receptietijden
 - Tijden altijd met dubbele punt: 16:00 (niet 16.00)
