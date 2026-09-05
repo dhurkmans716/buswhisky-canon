@@ -1093,7 +1093,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 ### Rondleiding / whiskytour
 - **Losse rondleiding (whiskytour)** — € 17,50 p.p.
 - **Groepsrondleiding (vanaf 15 personen)** — € 15,00 p.p.; tijd in overleg (zie §6d).
-- Campergasten: 50% korting op de rondleiding (zie §6a).
+- Campergasten: 50% korting op de rondleiding, EUR 8,75 p.p. in plaats van EUR 17,50, te boeken via de kortingslink https://buswhisky.com/campertour (zie §6a).
 
 ### Whiskyproeverijen (meerdere vormen — niet door elkaar halen)
 - **BUS Tafelproeverij** — in het restaurant, met kaartje met uitleg over de smaakprofielen; géén reservering nodig. Flight 3 glaasjes € 19,50 p.p. · flight 6 glaasjes € 29,50 p.p.
