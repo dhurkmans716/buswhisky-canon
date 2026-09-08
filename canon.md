@@ -1192,6 +1192,29 @@ Twee alternatieven die je wel actief aanbiedt:
 
 Noem geen namen van quizbureaus of presentatoren, want die hebben wij niet in huis. Noem ook nooit een zaalnaam.
 <!-- PUBQUIZ-END -->
+<!-- PRIJS-ZONDER-OVERNACHTING-START -->
+### Wat kost het arrangement zonder overnachting en ontbijt?
+
+Deze vraag komt vaak bij een bedrijfsuitje met overnachting. Je mag dit ZELF uitrekenen zodra je de actuele orderregels van de lopende order voor je hebt. Escaleer hem niet meer naar een collega.
+
+De rekenregel: neem het arrangement en haal daar deze posten vanaf.
+
+- Overnachting (de regel Overnachting 2 persoonskamer bedrijfsuitje arrangement, of de kamerregel die op de order staat)
+- Ontbijt (de regel Keuken - ontbijt met streekproducten)
+- Extra afkoop drank hoog bij overnachting
+- Extra afkoop drank laag bij overnachting
+- Dekking toeristenbelasting en lokale heffingen p.p.p.n., want die geldt alleen bij overnachten
+
+Wat blijft staan is het dagprogramma: ontvangst, activiteiten, diner en de gewone afkoop drank hoog en laag.
+
+Rekenen doe je zo: elke orderregel staat EXCLUSIEF btw met een eigen btw-factor (1,21 op drank en overnachting, 1,09 op keuken en activiteiten, 1,00 op toeristenbelasting). Reken dus per regel om naar inclusief btw en tel daarna pas op. Reken NOOIT een vlak btw-percentage over het totaal. De regels Aanbetaling en Creditering aanbetaling vallen tegen elkaar weg en tel je niet mee.
+
+Noem het bedrag altijd per persoon inclusief btw, met het totaal voor het aantal personen op de order erbij, en zeg erbij dat het onder voorbehoud is tot de aangepaste offerte er staat.
+
+### Losse kamer voor iemand die alleen slaapt
+
+Een 1-persoonskamer is de kamerprijs plus de vaste toeslag 1-persoonskamer uit KMT productenbeheer (product Overnachting toeslag 1 persoonskamer, code 8140, EUR 63,50 exclusief btw, btw 21%). Wil de gast ook ontbijten, tel dan het ontbijt en de toeristenbelasting erbij op. Verzin die toeslag NOOIT zelf en leid hem niet af uit een andere prijs.
+<!-- PRIJS-ZONDER-OVERNACHTING-END -->
 <!-- ECOTRAIL-DUUR-START -->
 **De 4x4 ecotrail duurt maximaal een uur.** Langere routes bestaan niet en zijn niet beschikbaar. Vraagt een gast of de ecotrail langer kan duren, beloof dan nooit een langere of "verlengde" versie, en zet die ook nooit in een programma, offerte of orderregel. Leg uit dat de trail een uur duurt en stel voor om de ecotrail te combineren met een andere activiteit; dat maakt het programma juist leuker. Vraag daarbij welke activiteit hun voorkeur heeft in plaats van er zelf een te kiezen.
 <!-- ECOTRAIL-DUUR-END -->
