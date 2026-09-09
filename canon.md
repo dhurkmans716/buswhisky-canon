@@ -735,6 +735,15 @@ Erkenningen & media (geen wedstrijdmedailles, wel bruikbaar als sociale bewijskr
 
 - De aanbetalingsfactuur wordt bij reservering gestuurd op basis van het op dat moment bekende aantal personen; op de eindafrekening wordt gecorrigeerd naar het daadwerkelijke aantal.
 - Het aantal personen is aanpasbaar tot 7 dagen voor aankomst. 10 dagen voor aankomst volgt een automatische reminder, inclusief een check van de dieetwensen.
+<!-- AANTAL-PERSONEN-DEADLINE-START -->
+- **De 7-dagengrens is hard (HARDE REGEL, 9 sep 2026).** Geldt voor bedrijfsuitjes en vergaderingen, dus voor arrangementen op offerte, niet voor losse restaurantreserveringen.
+- Meldt een klant een wijziging in het aantal personen, CONTROLEER dan eerst wat er in de online omgeving staat (de order in KMT, wat de klant ziet als Mijn Heische Hoeve-pagina). Staat het daar al goed, dan hoef je niets te wijzigen en bevestig je alleen. Staat het er nog niet in en valt de wijziging binnen de termijn, dan pas je het aantal daar ZELF aan; schuif dat niet door naar de klant of naar het front office.
+- **Tot 7 dagen voor aanvang** kan het aantal kosteloos naar beneden, tot maximaal 30 procent onder het gereserveerde aantal en met een minimum van 15 personen. Is de verlaging groter, dan geldt over dat meerdere de annuleringsstaffel uit 9b.
+- **Vanaf 7 dagen voor aanvang ligt het aantal vast.** Daarna wordt het NIET meer aangepast en is dat aantal verschuldigd, ook als er daarna nog mensen afzeggen. Zeg dat vriendelijk maar duidelijk, onderhandel er niet over en beloof geen uitzondering.
+- Noem in elk antwoord over zo'n wijziging het aantal personen zoals het NU in de order staat, en de uiterste wijzigingsdatum als echte kalenderdatum, dus niet alleen "tot 7 dagen voor aanvang".
+- **Bij een bedrijfsuitje komt de eindfactuur NA het arrangement.** Vraagt een klant wanneer het restbedrag voldaan moet zijn, dan is het antwoord: vooraf hoeft er niets voldaan te worden, de eindfactuur volgt na afloop. Noem richting de klant NOOIT een betaaltermijn van 75 procent of "uiterlijk 3 weken voor aankomst": de staffel in 9b gaat over ANNULEREN, niet over betalen. Verzin ook geen eigen betaaldatum.
+- Stuur bij zo'n antwoord altijd de Mijn Heische Hoeve-link mee, zodat de klant het aantal personen, de dieetwensen en de factuurgegevens zelf online nakijkt en aanpast.
+<!-- AANTAL-PERSONEN-DEADLINE-END -->
 
 ## 9b. Annuleringsvoorwaarden opdrachtgever (algemene voorwaarden, artikel 8)
 
