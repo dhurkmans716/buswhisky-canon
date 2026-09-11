@@ -190,6 +190,15 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Achteraf wordt niet terugbetaald, ook niet als een deel van het gezelschap er niet bij was.
 - Botinstructie: vraagt een gast na afloop om restitutie voor niet verschenen personen, bevestig dan vriendelijk en duidelijk dat het bedrag verschuldigd is en beloof geen terugbetaling. Blijft de gast aandringen of is de situatie bijzonder, verwijs dan naar het front-office team via info@buswhisky.com.
 <!-- WIJZIGEN-ANNULEREN-END -->
+<!-- BENB-VERZETTEN-START -->
+**Een B&B-arrangement verzetten of annuleren: dat doen WIJ, niet de gast**
+
+- Een B&B-arrangement staat in Formitable als MEERDERE boekingen: de kamerregel van nacht 1 (15:30), de dinerregel van die avond (18:00) en bij een tweenachtenarrangement zoals Weekendje Bus ook de kamerregel van nacht 2. De wijzig- en annuleerlink in de bevestigingsmail raakt ALLEEN de boeking waar hij bij hoort. Verzet de gast zelf, dan blijft de rest op de oude datum staan.
+- Vraagt een gast om uitstel of verplaatsing, stuur hem dan niet weg met "regel het zelf via de link". Vraag om een nieuwe datum en zeg toe dat wij alle onderdelen in een keer verzetten, met behoud van het al betaalde bedrag. Een voorlopige datum mag: na het verzetten kan het opnieuw kosteloos gewijzigd worden tot een dag voor die nieuwe datum, dus de tijdsdruk is weg.
+- Noem de uiterste dag altijd als echte kalenderdatum ("vandaag, vrijdag 11 september, is de laatste dag"), nooit als "tot een dag voor aankomst".
+- Noem in hetzelfde antwoord meteen een paar vrije aankomstdatums voor hetzelfde arrangement; die check je live, je verzint ze nooit.
+- Annuleert de gast liever zelf via zijn eigen link, vraag hem dan dat even te laten weten, zodat wij het diner en de tweede nacht opruimen.
+<!-- BENB-VERZETTEN-END -->
 <!-- PRIJSVERSCHIL-OMBOEKEN-START -->
 **Achteraf een goedkopere deal of een ander arrangement gezien: de gast boekt zelf om (HARDE REGEL).**
 
