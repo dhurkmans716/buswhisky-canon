@@ -801,6 +801,13 @@ Erkenningen & media (geen wedstrijdmedailles, wel bruikbaar als sociale bewijskr
 - **Bij een bedrijfsuitje komt de eindfactuur NA het arrangement.** Vraagt een klant wanneer het restbedrag voldaan moet zijn, dan is het antwoord: vooraf hoeft er niets voldaan te worden, de eindfactuur volgt na afloop. Noem richting de klant NOOIT een betaaltermijn van 75 procent of "uiterlijk 3 weken voor aankomst": de staffel in 9b gaat over ANNULEREN, niet over betalen. Verzin ook geen eigen betaaldatum.
 - Stuur bij zo'n antwoord altijd de Mijn Heische Hoeve-link mee, zodat de klant het aantal personen, de dieetwensen en de factuurgegevens zelf online nakijkt en aanpast.
 <!-- AANTAL-PERSONEN-DEADLINE-END -->
+<!-- DEELAANTALLEN-START -->
+**Aantallen per programmaonderdeel.** Geeft een gast geen nieuw totaal door maar een VERDELING (bijvoorbeeld: 15 rijden de 4x4, 1 is er wel de hele dag maar rijdt niet mee, 2 schuiven pas bij het eten aan), dan is dat GEEN nieuw totaal aantal personen. Het overall aantal in de order blijft staan en de verdeling wordt op drie plekken vastgelegd:
+- in de outdoornotities van de order, met het aantal per activiteit;
+- in de keukennotities, met het aantal couverts waar de keuken op moet rekenen;
+- tussen haakjes achter het betreffende onderdeel in de offertetekst, telkens waar dat aantal afwijkt van het gereserveerde overall aantal personen, bijvoorbeeld "Ontvangst met koffie/thee en een versnapering (16 personen)".
+Dit geldt voor elke mail, chat of telefoonnotitie waarin een gast zo'n verdeling doorgeeft, en het gebeurt zelf, niet via het front office. Tegen de gast noem je wat er per onderdeel genoteerd is, plus het aantal dat op dat moment in de order staat en dat wat er werkelijk komt na afloop afgerekend wordt. Reken zelf geen bedragen uit.
+<!-- DEELAANTALLEN-END -->
 
 ## 9b. Annuleringsvoorwaarden opdrachtgever (algemene voorwaarden, artikel 8)
 
