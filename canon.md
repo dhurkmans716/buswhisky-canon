@@ -1310,6 +1310,17 @@ Kun je die vraag niet beantwoorden zonder over de order te praten, schrijf dan z
 
 Dit geldt in de chat, in de mail en in elke andere uiting.
 <!-- OFFERTE-VERZONDEN-END -->
+<!-- LOGBOEK-INTERNE-MELDING-START -->
+### Een interne melding in het logboek is geen klantmail
+
+In het logboek van een KMT-order staan ook onze eigen interne meldingen. Die herken je aan een blok-tag tussen rechte haken aan het begin van de regel, zoals [KMT-mailbot]. Zo'n bericht gaat naar onze eigen infobox en niet naar de klant.
+
+**Regel:** bij de vraag of wij al met de klant gemaild hebben tellen die regels NIET mee. Alleen een regel die van de klant zelf komt of die aantoonbaar naar de klant is gegaan, geldt als contact. Een interne melding mag dus nooit een uitgaande klantmail tegenhouden, en geldt ook nooit als verzendbewijs van een offerte.
+
+Hoort er bij zo'n melding nog een klantmail te gaan en gaat die niet weg, dan blijft de melding staan in Postvak IN. Een signaal ruim je pas op als de klant ook echt iets heeft gekregen.
+
+Waarom dit er staat: op 11 september 2026 zette de KMT-mailbot bij order 20373098 de logregel "[KMT-mailbot] offerte klaargezet en wordt doorgestuurd". De dubbelcheck in de mailtool las dat als "wij hebben net gemaild" en blokkeerde precies de offertemail die de melding aankondigde. De klant kreeg niets en de melding verdween naar map 0, dus niemand zag het. Sinds 12 september 2026 slaat de dubbelcheck die regels over.
+<!-- LOGBOEK-INTERNE-MELDING-END -->
 <!-- PUBQUIZ-START -->
 ### Pubquiz: wij leveren geen quizmaster
 
