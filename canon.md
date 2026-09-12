@@ -810,6 +810,8 @@ Erkenningen & media (geen wedstrijdmedailles, wel bruikbaar als sociale bewijskr
 - op de CALCULATIEREGELS, zodat elk onderdeel wordt doorberekend aan het aantal mensen dat het echt meemaakt: de activiteitsregel op het aantal deelnemers, de keukenregel op het aantal couverts, de ontvangst en de rondleiding op wie er op dat moment is. De DRANKAFKOOP loopt altijd op het totaal, ook voor de gasten die alleen komen eten: die drinken immers mee. Regels die bij de facturatie horen (aanbetaling, creditering) en regels met een eigen vast aantal (kamers, een vast bedrag zoals de afkoop eigen risico) blijven staan.
 
 Het overall aantal personen in de order is minstens het grootste deelaantal. Een verdeling telt een DEEL van de groep en kan het totaal dus wel omhoog duwen, nooit omlaag: "15 rijden de 4x4" maakt van een groep van 17 nooit een groep van 15. Is de wijzigingstermijn gesloten, dan mag een calculatieregel alleen nog omhoog.
+Staan er aantallen per onderdeel in de offerte, dan komt daar ook deze vaste zin bij, een keer, direct onder de programmatabel: "Evt meer en minder personen op onderdelen worden naar rato berekend, mits de afwijkende aantallen tijdig zijn doorgegeven (minimaal 7 dagen voor aankomst)."
+
 Dit geldt voor elke mail, chat of telefoonnotitie waarin een gast zo'n verdeling doorgeeft, en het gebeurt zelf, niet via het front office. Tegen de gast noem je wat er per onderdeel genoteerd is, plus het aantal dat op dat moment in de order staat en dat wat er werkelijk komt na afloop afgerekend wordt. Reken zelf geen bedragen uit.
 <!-- DEELAANTALLEN-END -->
 
