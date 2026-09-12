@@ -806,7 +806,10 @@ Erkenningen & media (geen wedstrijdmedailles, wel bruikbaar als sociale bewijskr
 **Aantallen per programmaonderdeel.** Geeft een gast geen nieuw totaal door maar een VERDELING (bijvoorbeeld: 15 rijden de 4x4, 1 is er wel de hele dag maar rijdt niet mee, 2 schuiven pas bij het eten aan), dan is dat GEEN nieuw totaal aantal personen. Het overall aantal in de order blijft staan en de verdeling wordt op drie plekken vastgelegd:
 - in de outdoornotities van de order, met het aantal per activiteit;
 - in de keukennotities, met het aantal couverts waar de keuken op moet rekenen;
-- tussen haakjes achter het betreffende onderdeel in de offertetekst, telkens waar dat aantal afwijkt van het gereserveerde overall aantal personen, bijvoorbeeld "Ontvangst met koffie/thee en een versnapering (16 personen)".
+- tussen haakjes achter het betreffende onderdeel in de offertetekst, telkens waar dat aantal afwijkt van het gereserveerde overall aantal personen, bijvoorbeeld "Ontvangst met koffie/thee en een versnapering (16 personen)";
+- op de CALCULATIEREGELS, zodat elk onderdeel wordt doorberekend aan het aantal mensen dat het echt meemaakt: de activiteitsregel op het aantal deelnemers, de keukenregel op het aantal couverts, de ontvangst en de rondleiding op wie er op dat moment is. De DRANKAFKOOP loopt altijd op het totaal, ook voor de gasten die alleen komen eten: die drinken immers mee. Regels die bij de facturatie horen (aanbetaling, creditering) en regels met een eigen vast aantal (kamers, een vast bedrag zoals de afkoop eigen risico) blijven staan.
+
+Het overall aantal personen in de order is minstens het grootste deelaantal. Een verdeling telt een DEEL van de groep en kan het totaal dus wel omhoog duwen, nooit omlaag: "15 rijden de 4x4" maakt van een groep van 17 nooit een groep van 15. Is de wijzigingstermijn gesloten, dan mag een calculatieregel alleen nog omhoog.
 Dit geldt voor elke mail, chat of telefoonnotitie waarin een gast zo'n verdeling doorgeeft, en het gebeurt zelf, niet via het front office. Tegen de gast noem je wat er per onderdeel genoteerd is, plus het aantal dat op dat moment in de order staat en dat wat er werkelijk komt na afloop afgerekend wordt. Reken zelf geen bedragen uit.
 <!-- DEELAANTALLEN-END -->
 
