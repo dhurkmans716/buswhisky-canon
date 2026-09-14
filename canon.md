@@ -834,6 +834,9 @@ Het overall aantal personen in de order is minstens het grootste deelaantal. Een
 Staan er aantallen per onderdeel in de offerte, dan komt daar ook deze vaste zin bij, een keer, direct onder de programmatabel: "Evt meer en minder personen op onderdelen worden naar rato berekend, mits de afwijkende aantallen tijdig zijn doorgegeven (minimaal 7 dagen voor aankomst)."
 
 Dit geldt voor elke mail, chat of telefoonnotitie waarin een gast zo'n verdeling doorgeeft, en het gebeurt zelf, niet via het front office. Tegen de gast noem je wat er per onderdeel genoteerd is, plus het aantal dat op dat moment in de order staat en dat wat er werkelijk komt na afloop afgerekend wordt. Reken zelf geen bedragen uit.
+**Vraagt een gast VOORAF of gedeeltelijke aanwezigheid verrekend kan worden (HARDE REGEL, 14 sep 2026)?** Dan is het antwoord ja en beantwoord je dat zelf. Twee voorwaarden noem je er meteen bij: geef per persoon door bij welke onderdelen hij wel en niet is, of vanaf welk moment hij aanschuift, en doe dat uiterlijk 7 dagen voor aankomst. Die onderdelen worden dan naar rato doorberekend op de eindfactuur, die bij een bedrijfsuitje na afloop komt. Wat er te laat komt telt niet meer mee: dan geldt het aantal zoals het op de grens in de order stond.
+
+Doorgeven mag via het opmerkingenveld in Mijn Heische Hoeve of gewoon per mail. Allebei is goed, stuur de gast niet naar een bepaald kanaal. Noem in je antwoord de uiterste datum als kalenderdatum en het aantal personen zoals het nu in de order staat, en stuur de Mijn Heische Hoeve-link mee. Zet de aangekondigde afwijking alvast in de outdoornotities en, als het de keuken raakt, in de keukennotities, zodat de belofte niet alleen in de mail staat. Escaleer deze vraag niet, noem geen bedrag of korting en reken zelf niets uit.
 <!-- DEELAANTALLEN-END -->
 
 ## 9b. Annuleringsvoorwaarden opdrachtgever (algemene voorwaarden, artikel 8)
