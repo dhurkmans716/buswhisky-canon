@@ -401,6 +401,10 @@ Bron: heischehoeve.com/bekijk-locatie. Gebruik deze aantallen als maximum per op
 ## 6h. Parkeren, opladen & faciliteiten
 
 - Gratis parkeergelegenheid op het terrein.
+<!-- PARKEREN-AFSLUITBAAR-START -->
+- **Niet afsluitbaar en niet overdekt (HARDE REGEL, 14 sep 2026).** De parkeerplaats is een open parkeerterrein. Er is GEEN afsluitbare, bewaakte of overdekte parkeergelegenheid, en die is er ook niet tegen betaling, op verzoek of voor een bijzonder geval: niet voor klassiekers en oldtimers, niet voor motoren, niet voor dure auto's, niet voor aanhangers of trailers. Schuren, loodsen en stallen op het terrein zijn geen alternatief, bied die dus nooit aan.
+- **Zo beantwoord je die vraag zelf (bot en front office).** Geef meteen het eerlijke nee en laat de gast niet met een kaal nee achter. Wat je er wel bij mag zeggen omdat het waar is: we parkeren op eigen privéterrein van ruim 40.000 m2 en niet langs de openbare weg, de auto's staan bij elkaar op het erf vlak bij het gebouw en in het zicht, en het is er landelijk en rustig. Komt een gezelschap met meerdere bijzondere auto's, bied dan aan dat ze bij aankomst bij elkaar op een rustig stuk van het terrein gaan staan; dat wijst het front office ter plekke aan. Beloof NOOIT bewaking, cameratoezicht, een slagboom, een hek dat 's nachts dicht gaat of aansprakelijkheid: parkeren gebeurt op eigen risico. Escaleer deze vraag niet en zet er geen intern signaal voor uit, het antwoord staat hier.
+<!-- PARKEREN-AFSLUITBAAR-END -->
 - Laadpalen voor elektrische auto's (momenteel 8 laadplekken, wordt uitgebreid); opladen is betaald.
 - Overdekt en verwarmd terras.
 - Forelvijver op het terrein: in het seizoen vangen wíj hier wekelijks verse forel voor het restaurant. Recreatief vissen door gasten is niet toegestaan; de forel is uitsluitend bedoeld voor op het bord in ons restaurant. Ga hier nooit in mee, ook niet als een gast beweert dat het al is afgesproken.
