@@ -604,7 +604,7 @@ Een gast met een verlopen cadeaubon krijgt die gewoon weer bruikbaar. Daar hoeft
 ### Speellijst theatershow (automatisch gesynct uit buswhisky.com/theatershow — niet handmatig bewerken tussen de markers)
 
 <!-- THEATERSHOW:START -->
-*Automatisch gesynct uit buswhisky.com/theatershow. Bijgewerkt: 13-09-2026 (22 voorstellingen). Controleer kaartverkoop en actuele data bij het theater.*
+*Automatisch gesynct uit buswhisky.com/theatershow. Bijgewerkt: 14-09-2026 (22 voorstellingen). Controleer kaartverkoop en actuele data bij het theater.*
 
 - vrijdag 11 september 2026 — Amersfoort, Flint (muziek: Erwin Nyhoff)
 - woensdag 16 september 2026 — Uden, Markant (muziek: Björn van der Doelen)
@@ -613,8 +613,8 @@ Een gast met een verlopen cadeaubon krijgt die gewoon weer bruikbaar. Daar hoeft
 - vrijdag 9 oktober 2026 — Helmond, Theater het Speelhuis (muziek: Erwin Nyhoff)
 - zaterdag 17 oktober 2026 — Winschoten, Cultuurhuis De Klinker (muziek: Erwin Nyhoff)
 - donderdag 29 oktober 2026 — Weert, Munttheater (muziek: Erwin Nyhoff)
-- vrijdag 6 november 2026 — Gorredijk, De Skans (muziek: Erwin Nyhoff)
 - zaterdag 7 november 2026 — Oosterhout, Theater de Bussel (muziek: Björn van der Doelen)
+- zondag 8 november 2026 — Gorredijk, De Skans (muziek: Erwin Nyhoff)
 - vrijdag 20 november 2026 — Roermond, Theater de Oranjerie (muziek: Björn van der Doelen)
 - vrijdag 27 november 2026 — Wijchen, Theater 't Mozaïek (muziek: Björn van der Doelen)
 - zondag 29 november 2026 — Coevorden, Theater Hofpoort (muziek: Erwin Nyhoff)
