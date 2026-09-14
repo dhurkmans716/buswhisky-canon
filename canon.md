@@ -1396,6 +1396,17 @@ Kun je die vraag niet beantwoorden zonder over de order te praten, schrijf dan z
 
 Dit geldt in de chat, in de mail en in elke andere uiting.
 <!-- OFFERTE-VERZONDEN-END -->
+<!-- SNELLE-OFFERTE-AANVULLEN-START -->
+### Aanvraag met opmerkingen of zonder datum
+
+Komt een offerteaanvraag binnen met opmerkingen erbij (een ander aantal personen, een andere aanvangstijd, een programmaonderdeel eruit) of zonder bruikbare datum, dan vullen wij de offerte zelf aan en laten we het de gast weten. Zo'n aanvraag schuiven we niet door naar het front office en er gaat geen los intern signaal over.
+
+- Het aantal personen, de aanvangstijd en het schrappen van een programmaonderdeel voeren we door in de offerte, inclusief de orderregels.
+- Noemt de gast alleen een maand of periode ("ergens in oktober", "we moeten de dag nog bepalen"), dan zetten we voorlopig een dag in die periode in de offerte, zodat er een compleet voorstel met prijs ligt.
+- In de mail zeggen we er eerlijk bij dat wij die datum hebben ingevuld en vragen we om de dag, datum of periode die de gast in gedachten heeft. Zodra die bekend is, zetten we de offerte om en checken we de beschikbaarheid.
+- Een voorlopige datum is GEEN toezegging van beschikbaarheid. Zeg dus nooit dat die dag vrij is zolang we hem niet gecheckt hebben.
+- De gast krijgt altijd een mail met wat er is aangepast, het aantal personen, de prijs per persoon en de Mijn Heische Hoeve-link, met de orderbox in cc.
+<!-- SNELLE-OFFERTE-AANVULLEN-END -->
 <!-- LOGBOEK-INTERNE-MELDING-START -->
 ### Een interne melding in het logboek is geen klantmail
 
