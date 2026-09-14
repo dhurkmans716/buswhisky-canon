@@ -174,6 +174,17 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - De whiskystokerij is 7 dagen per week geopend voor rondleidingen. Elke dag om 16:00 uur; extra tour op vrijdag om 17:30 uur en op zaterdag en zondag om 14:30 uur.
 - Een tour duurt ruim 60 minuten en kost **€ 17,50 p.p.**, inclusief 1 glaasje om te proeven.
 - Groepsrondleidingen vanaf 15 personen: **€ 15,00 p.p.**; tijdstip in overleg.
+<!-- TRAVELTRADE-START -->
+- **Touroperators, autocarbedrijven, reisorganisaties en groepen met een eigen bus** krijgen de vaste Travel Trade groepsformule: vanaf 25 tot en met 120 personen, het hele jaar door. Zeg bij zo'n groep nooit dat het niet kan of dat we vol zitten; dit loopt via meeting en events en niet via de online agenda.
+  - **Travel Trade Groepsdeal, € 15,00 p.p. inclusief btw** (twee uur): 10.00 uur ontvangst met onbeperkt koffie, thee en water (zelfbediening), 10.30 uur film over ons vakmanschap en erfgoed (ongeveer 10 minuten), 10.45 uur rondleiding door de whiskystokerij, 11.30 uur whiskyproeven met 1 monster van 1 cl begeleid door een whiskyexpert, 12.00 uur gelegenheid om te winkelen en vertrek.
+  - **Travel Trade Reisdeal, € 27,25 p.p. inclusief btw** (10.00 tot 13.00 uur): hetzelfde programma plus een drie gangen lunchbuffet met streekproducten uit onze eigen keuken.
+  - Een Engelse of Duitse gids kan ook; dan loopt het programma zonder lunch van 10.00 tot 11.30 uur. Van de Reisdeal met lunch is er geen Engelse variant.
+  - Bij een groep vanaf ongeveer 50 personen verdelen we de rondleiding over twee gidsen of twee tijdsloten, ongeveer 25 gasten per gids.
+  - Vraagt zo'n groep WEL activiteiten (4x4 Ecotrail, laser kleiduifschieten, pubquiz, suppen) of een diner in plaats van een lunch, dan is het geen groepsformule maar een bedrijfsuitje of vergadering op maat.
+  - Een groep van 15 tot 24 personen die alleen een rondleiding wil, krijgt de groepsrondleiding van € 15,00 p.p. met het tijdstip in overleg. Hetzelfde tarief, dus daar hoeft geen discussie over te ontstaan.
+  - Komt zo'n aanvraag per e-mail binnen, dan brengen we er direct een offerte voor uit en sturen we geen lead naar de infobox.
+  - Meer informatie staat op https://www.heischehoeve.com/bus-whisky-traveltrade
+<!-- TRAVELTRADE-END -->
 - Reserveren is essentieel en gaat online. Voor de rondleiding én het restaurant zijn twee aparte reserveringen nodig.
 - Leeftijd: NIX18 geldt voor het próéven van alcohol — nooit onder 18, ook niet bij groepen; de leeftijd op de dag van deelname zelf telt. Meelopen met de rondleiding mag wél onder 18 (we ontraden het; wie onder 18 is proeft geen alcohol). Er zijn NIX18-kleurplaten over distilleren voor kinderen terwijl ouders proeven. Zie de harde leeftijdsregel in §10b.
 - Campergasten krijgen 50% korting op de rondleiding: EUR 8,75 p.p. in plaats van EUR 17,50, te boeken via de kortingslink https://buswhisky.com/campertour (zie 6a).
