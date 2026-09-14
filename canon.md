@@ -1479,3 +1479,19 @@ Een klant (of zijn crediteurenadministratie) stuurt een factuur terug omdat ons 
 
 Dit is een interne werkwijze voor medewerkers en automatisering. De bots delen deze regel niet met gasten.
 <!-- INKOOPORDER-ONTBREEKT-END -->
+<!-- INKOOPPORTAAL-START -->
+### Klant wil via een inkoopportaal werken (Candex, Coupa, Ariba, SAP Fieldglass, Jaggaer)
+
+Grote bedrijven betalen hun kleinere leveranciers vaak via een inkoopportaal. Vraagt een klant of wij daarmee willen werken, dan is het antwoord JA. Dat is geen bezwaar maar precies de manier waarop zo'n klant zijn leveranciers betaalt, dus escaleer deze vraag niet en maak er geen concept van.
+
+Vaste werkwijze in zo'n antwoord:
+
+- Bevestig dat het akkoord is en vraag de uitnodiging of de order naar info@buswhisky.com te sturen.
+- Noem het ordernummer, de datum en het aantal personen, plus het ordertotaal excl. en incl. btw.
+- Onze prijzen zijn NETTO. Kent het portaal een fee die van het leveranciersbedrag af gaat (bij Candex 3 procent), vraag dan om de order zo aan te maken dat het bedrag NAAR ONS gelijk is aan het ordertotaal.
+- Btw komt bovenop het geautoriseerde bedrag. Wij factureren gewoon met Nederlandse btw (9 en 21 procent) aan de partij die op de order als factuuradres staat.
+- Bij een bedrijfsuitje blijft gelden dat de eindfactuur NA het arrangement komt. Beloof geen betaaltermijn vooraf en noem geen aanbetaling via het portaal.
+- Stuur ook hier de Mijn Heische Hoeve-link mee en zet de orderbox in cc.
+
+Candex specifiek: wij factureren aan Candex Solutions Netherlands BV, De Cuserstraat 93, 1081 CN Amsterdam, btw NL860587836B01. Candex betaalt ons binnen 3 werkdagen nadat de klant Candex heeft betaald; de betaaltermijn van de klant staat op de order (bij FrieslandCampina 21 dagen). Registreren als leverancier is gratis en eenmalig, daarna kan elke koper die Candex gebruikt ons via dat kanaal een order sturen.
+<!-- INKOOPPORTAAL-END -->
