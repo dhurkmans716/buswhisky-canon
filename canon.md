@@ -1401,6 +1401,15 @@ Zeg nooit dat je iets hebt doorgezet, doorgegeven of aangevraagd als daar geen t
 - Geef er meteen bruiloftcontext bij uit 6j en 6j-1, zoals wat er aan drank inbegrepen zit, dat de catering door het bruidspaar zelf geregeld wordt en hoeveel mensen er kunnen blijven slapen. Alleen bruiloftinformatie, nooit een B&B-arrangement, Camping Culinair of een dinerpairing erbij.
 - Dit geldt alleen voor een bruiloft. Voor andere opties blijft staan wat hierboven beschreven is.
 <!-- OPTIE-BRUILOFT-BEVESTIGEN-END -->
+<!-- AKKOORD-NOOIT-OP-OFFERTE-START -->
+## Een akkoord laat een order nooit op Offerte staan
+
+- Sluiten wij een mail af met de vraag of we het zo definitief mogen inplannen, vastleggen of boeken, dan is elk bevestigend antwoord daarop toestemming. "Dit mag zo ingepland worden", "ja graag", "prima, doen we", "ga je gang", "plan maar in" en "je mag het vastleggen" tellen allemaal mee. De gast hoeft de woorden offerte, optie of boeking er zelf niet bij te gebruiken.
+- Op de status Offerte houdt het systeem de ruimte NIET vast: die kan dezelfde dag aan iemand anders vergeven worden. Na een akkoord gaat de order dus naar Boeking, met een orderbevestiging waarin het aantal personen en de Mijn Heische Hoeve-link staan.
+- Antwoord op een akkoord nooit afwachtend ("we wachten het rustig af"). Dat is geen antwoord op wat de gast schreef, en de order blijft er door hangen.
+- Een korte instemming op onze eigen slotvraag is geen FYI maar een akkoord.
+- Staat een order toch nog op Offerte terwijl de datum binnen tien dagen valt, dan meldt het systeem dat een keer aan het front office.
+<!-- AKKOORD-NOOIT-OP-OFFERTE-END -->
 <!-- OFFERTE-VERZONDEN-START -->
 ### Eerst verzendbewijs, dan pas communiceren over een offerte
 
