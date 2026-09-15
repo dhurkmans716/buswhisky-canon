@@ -1304,9 +1304,9 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 - Meivakantie Special: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=fadf1964&ft-friend=6DDA3FE5C78C03295DC6643E181B963C
 - Reservering Boerderijrestaurant: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=398ca47b&ft-friend=C9D6763C04C0C5AD3AB53539141F34BF
 - Rondleiding Bus whiskystokerij (60 min): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=ef9aafe5&ft-friend=53EB738F07BD1CCB5012D37BF8026793
-- Vrijdagdeal: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=4b60286e&ft-friend=68BB974FAC70E1C1A87E35ACD306633D
-  Programma: 17.00 uur inloop · 17.30 uur rondleiding whiskystokerij inclusief een proefglaasje · 19.00 uur culinair drie gangen verrassingsdiner · 21.00 uur einde van een geslaagde avond
-  Voorwaarden: Reserveren van de vrijdagdeal is alleen online mogelijk; Minimaal 1 dag vooraf reserveren; De aanbieding is exclusief drankjes
+- Woensdagdeal (voorheen de vrijdagdeal, zelfde ticket): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=4b60286e&ft-friend=68BB974FAC70E1C1A87E35ACD306633D
+  Programma: 15.30 uur inloop · 16.00 uur rondleiding whiskystokerij inclusief een proefglaasje · 17.30 uur culinair drie gangen verrassingsdiner · 20.00 uur einde van een geslaagde avond
+  Voorwaarden: Reserveren van de woensdagdeal is alleen online mogelijk; Minimaal 1 dag vooraf reserveren; De aanbieding is exclusief drankjes
 - Weekendje Bus: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=15992a71&ft-friend=3000C0C5587973175036F0D84E5DBBFE
   Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.30 uur | Vier gangen verrassingsmenu · 9.00 uur | Ontbijt in het boerderijrestaurant · 10.30 uur | Lekker op pad! · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
 - Whiskydeal 1 persoonskamer (vrij&za, €209,50) - 3 gangen, voor 1 persoon: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=196a1421&ft-friend=156B6CDD5B3A2EFE93DCA873FC1E7259
