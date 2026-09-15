@@ -1307,6 +1307,10 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 - Woensdagdeal: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=4b60286e&ft-friend=68BB974FAC70E1C1A87E35ACD306633D
   Programma: 15.30 uur inloop · 16.00 uur rondleiding whiskystokerij inclusief een proefglaasje · 17.30 uur culinair drie gangen verrassingsdiner · 20.00 uur einde van een geslaagde avond
   Voorwaarden: Reserveren van de woensdagdeal is alleen online mogelijk; Minimaal 1 dag vooraf reserveren; De aanbieding is exclusief drankjes
+- Woensdagactie (5 gangen B&B met fles, ALLEEN op woensdag): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=532d2fb3&ft-friend=739525CC460A751E3C7AC5153A23F26C
+  Programma: 15.00 uur ontvangst en inchecken · 16.00 uur rondleiding whiskystokerij inclusief een proefglaasje · 17.00 uur opfrissen · 17.30 uur borrelen · 18.00 uur vijf gangen verrassingsmenu · overnachting in een tweepersoonskamer · 9.00 uur ontbijt en uitchecken · 10.30 uur vertrek
+  Prijs: EUR 119,50 p.p. in plaats van EUR 199,50, inclusief een flesje BUS single malt 20cl om mee naar huis te nemen
+  Voorwaarden: alleen op woensdag te boeken; minimaal 1 dag vooraf; exclusief consumpties tijdens het verblijf; exclusief toeristenbelasting EUR 2,50 p.p.
 - Weekendje Bus: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=15992a71&ft-friend=3000C0C5587973175036F0D84E5DBBFE
   Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.30 uur | Vier gangen verrassingsmenu · 9.00 uur | Ontbijt in het boerderijrestaurant · 10.30 uur | Lekker op pad! · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
 - Whiskydeal 1 persoonskamer (vrij&za, €209,50) - 3 gangen, voor 1 persoon: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=196a1421&ft-friend=156B6CDD5B3A2EFE93DCA873FC1E7259
