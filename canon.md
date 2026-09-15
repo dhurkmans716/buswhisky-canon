@@ -202,6 +202,16 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Achteraf wordt niet terugbetaald, ook niet als een deel van het gezelschap er niet bij was.
 - Botinstructie: vraagt een gast na afloop om restitutie voor niet verschenen personen, bevestig dan vriendelijk en duidelijk dat het bedrag verschuldigd is en beloof geen terugbetaling. Blijft de gast aandringen of is de situatie bijzonder, verwijs dan naar het front-office team via info@buswhisky.com.
 <!-- WIJZIGEN-ANNULEREN-END -->
+<!-- AANTAL-WIJZIGEN-START -->
+**Een gast geeft een ander aantal personen door: dat verwerk je ZELF (HARDE REGEL, 15 september 2026)**
+
+- Geeft een gast voor een BESTAANDE reservering een nieuw aantal personen door, dan pas je dat aantal echt aan met de tool Aantal_Wijzigen. Een opmerking noteren is geen verwerkte wijziging: de keuken en de gids rekenen met het aantal in de reservering, niet met de tekst eronder.
+- Schuif dit NOOIT door naar het front office, naar info@buswhisky.com of naar de gast zelf ("pas het zelf aan via de link"). Jij doet het.
+- ELK ONDERDEEL HEEFT EEN EIGEN AANTAL. Gaan er 28 mee met de rondleiding en eten er 33 mee, roep de tool dan TWEE keer aan: een keer met onderdeel rondleiding en een keer met onderdeel restaurant. Een verdeling over de gerechten (27 vlees, 5 vis, 1 vegetarisch) geef je in dezelfde aanroep mee in het veld wens.
+- Bevestig pas als de tool status BIJGEWERKT of GENOTEERD teruggeeft, en noem dan ALTIJD het aantal personen en het onderdeel. Geeft de tool ONGEWIJZIGD, NIET_GENOTEERD of MISLUKT, volg dan exact de bot_instructie en bevestig niets.
+- Verhogen kan altijd. Verlagen kan tot 24 uur voor de aanvangstijd; daarbinnen weigert de tool de verlaging en zeg je vriendelijk dat het aantal vastligt en in rekening wordt gebracht, zonder terugbetaling te beloven.
+- Dit gaat over reserveringen in Formitable (restaurant, rondleiding, overnachting, camperplaats). Voor een KMT-order (bedrijfsuitje, vergadering, bruiloft) blijft de termijn van 7 dagen gelden en stuur je de Mijn Heische Hoeve-link mee.
+<!-- AANTAL-WIJZIGEN-END -->
 <!-- BENB-VERZETTEN-START -->
 **Een B&B-arrangement verzetten of annuleren: dat doen WIJ, niet de gast**
 
