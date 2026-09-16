@@ -1251,7 +1251,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 ### Automatisch gesynct — Formitable-deeplinks (niet handmatig bewerken tussen de markers)
 
 <!-- FORMITABLE-DEEPLINKS:START -->
-*Boekbare arrangementen — shift-links (ft-restaurant + ft-ticket + ft-friend). Bijgewerkt: 15-09-2026 (29 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
+*Boekbare arrangementen — shift-links (ft-restaurant + ft-ticket + ft-friend). Bijgewerkt: 16-09-2026 (29 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
 
 **TAAL VAN DE LINK — HARDE REGEL.** De links hieronder staan in het Nederlands. Schrijft de gast Engels of Duits, dan MOET je de taalversie sturen, anders gaat het boekingsscherm van Formitable in het Nederlands verder. Zet daarvoor /en of /de direct achter buswhisky.com, vóór het vraagteken. De rest van de link (ft-restaurant, ft-ticket, ft-friend) blijft exact hetzelfde. Dit geldt NIET voor de camperplaats: die heeft geen Formitable-deeplink maar onze eigen boekingsmodule.
 
@@ -1273,7 +1273,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 - Past het arrangement niet op die dag (bijvoorbeeld een B&B-arrangement op een dag die geen aankomstdag is), laat datum en tijd dan weg. Anders opent het scherm op een dag waarop niets vrij is en denkt de gast dat het vol zit.
 - Deze velden komen ACHTER ft-restaurant, ft-ticket en ft-friend en veranderen daar niets aan. Bij de camperplaats gelden ze niet: die heeft een eigen boekingsmodule.
 
-**TIJDEN VAN EEN ARRANGEMENT OF DEAL — HARDE REGEL.** Noem NOOIT zelf een inlooptijd, aanvangstijd, tijd van een programmaonderdeel of eindtijd van een arrangement. Gebruik UITSLUITEND de Programma-regel die hieronder bij dat arrangement staat, en neem die letterlijk over. Staat er geen Programma-regel bij, noem dan helemaal geen tijden en zeg dat de tijden op de boekingspagina staan. Haal de programma’s van verschillende arrangementen NOOIT door elkaar: de Woensdagdeal loopt tot 20.00 uur en de Zondagdeal tot 18.00 uur. Elk arrangement heeft zijn eigen Programma-regel; kijk die elke keer opnieuw op voordat je een tijd noemt.
+**TIJDEN VAN EEN ARRANGEMENT OF DEAL — HARDE REGEL.** Noem NOOIT zelf een inlooptijd, aanvangstijd, tijd van een programmaonderdeel of eindtijd van een arrangement. Gebruik UITSLUITEND de Programma-regel die hieronder bij dat arrangement staat, en neem die letterlijk over. Staat er geen Programma-regel bij, noem dan helemaal geen tijden en zeg dat de tijden op de boekingspagina staan. Haal de programma’s van verschillende arrangementen NOOIT door elkaar: de Vrijdagdeal loopt tot 21.00 uur en de Zondagdeal tot 18.00 uur. Elk arrangement heeft zijn eigen Programma-regel; kijk die elke keer opnieuw op voordat je een tijd noemt.
 
 **VAKANTIEDEALS ZIJN APARTE ARRANGEMENTEN — HARDE REGEL.** De Meivakantie Special en de Herfstvakantie Special (en elke andere vakantie-special die hieronder staat) zijn EIGEN arrangementen met een eigen ticket, een eigen prijs en een eigen periode. Vraagt een gast naar de herfstvakantiedeal, de meivakantiedeal, de vakantiedeal of "zo'n arrangement als in de vakantie", stuur dan NOOIT het gewone B&B-arrangement met 3, 4 of 5 gangen als antwoord: dat is een ander product voor een andere prijs en de gast merkt dat. Noem de special bij naam, check zijn beschikbaarheid met de beschikbaarheidstool en stuur de eigen deeplink hieronder. Valt de gewenste datum buiten de periode van de special, zeg dat dan eerlijk, noem de aankomstdagen die wel kunnen, en bied daarnaast pas het gewone arrangement aan als alternatief.
 
@@ -1304,13 +1304,6 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 - Meivakantie Special: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=fadf1964&ft-friend=6DDA3FE5C78C03295DC6643E181B963C
 - Reservering Boerderijrestaurant: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=398ca47b&ft-friend=C9D6763C04C0C5AD3AB53539141F34BF
 - Rondleiding Bus whiskystokerij (60 min): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=ef9aafe5&ft-friend=53EB738F07BD1CCB5012D37BF8026793
-- Woensdagdeal: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=4b60286e&ft-friend=68BB974FAC70E1C1A87E35ACD306633D
-  Programma: 15.30 uur inloop · 16.00 uur rondleiding whiskystokerij inclusief een proefglaasje · 17.30 uur culinair drie gangen verrassingsdiner · 20.00 uur einde van een geslaagde avond
-  Voorwaarden: Reserveren van de woensdagdeal is alleen online mogelijk; Minimaal 1 dag vooraf reserveren; De aanbieding is exclusief drankjes
-- Woensdagactie (5 gangen B&B met fles, ALLEEN op woensdag): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=532d2fb3&ft-friend=739525CC460A751E3C7AC5153A23F26C
-  Programma: 15.00 uur ontvangst en inchecken · 16.00 uur rondleiding whiskystokerij inclusief een proefglaasje · 17.00 uur opfrissen · 17.30 uur borrelen · 18.00 uur vijf gangen verrassingsmenu · overnachting in een tweepersoonskamer · 9.00 uur ontbijt en uitchecken · 10.30 uur vertrek
-  Prijs: EUR 119,50 p.p. in plaats van EUR 199,50, inclusief een flesje BUS single malt 20cl om mee naar huis te nemen
-  Voorwaarden: alleen op woensdag te boeken; minimaal 1 dag vooraf; exclusief consumpties tijdens het verblijf; exclusief toeristenbelasting EUR 2,50 p.p.
 - Weekendje Bus: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=15992a71&ft-friend=3000C0C5587973175036F0D84E5DBBFE
   Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.30 uur | Vier gangen verrassingsmenu · 9.00 uur | Ontbijt in het boerderijrestaurant · 10.30 uur | Lekker op pad! · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
 - Whiskydeal 1 persoonskamer (vrij&za, €209,50) - 3 gangen, voor 1 persoon: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=196a1421&ft-friend=156B6CDD5B3A2EFE93DCA873FC1E7259
@@ -1319,6 +1312,9 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
   Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.00 uur | Drie gangen verrassingsmenu · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
 - Whiskyproeverij (donderdag): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=e0ee264c&ft-friend=98C19289C898DFAF49FF4F5DA52A02D1
 - Whiskytour 2 pers + 1 bottle Bus Whisky: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=89a7d55e&ft-friend=861A334DA3F5C66B6FF6D5013BC1E3AE
+- Woensdagdeal: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=4b60286e&ft-friend=68BB974FAC70E1C1A87E35ACD306633D
+  Programma: 15.30 uur inloop · 16.00 uur rondleiding whiskystokerij inclusief een proefglaasje · 17.30 uur culinair drie gangen verrassingsdiner · 20.00 uur einde van een geslaagde avond
+  Voorwaarden: Reserveren van de woensdagdeal is alleen online mogelijk; Minimaal 1 dag vooraf reserveren; De aanbieding is exclusief drankjes
 - Workshop Whisky Stoken "Middays": https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=05f4caa6&ft-friend=0FE21E7B88EE2EBA2E0F51E597F80421
 - Workshop Whisky Stoken "Monday After Work": https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=ef657567&ft-friend=C66B40B696D1946634353C9FA7A445BA
 - Workshop Whisky Stoken "Weekend": https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=26696ebc&ft-friend=C5242A270E179A23AE00F24B7A95F32E
