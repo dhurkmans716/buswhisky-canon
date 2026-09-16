@@ -1261,7 +1261,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 ### Automatisch gesynct — Formitable-deeplinks (niet handmatig bewerken tussen de markers)
 
 <!-- FORMITABLE-DEEPLINKS:START -->
-*Boekbare arrangementen — shift-links (ft-restaurant + ft-ticket + ft-friend). Bijgewerkt: 16-09-2026 (29 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
+*Boekbare arrangementen — shift-links (ft-restaurant + ft-ticket + ft-friend). Bijgewerkt: 16-09-2026 (30 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
 
 **TAAL VAN DE LINK — HARDE REGEL.** De links hieronder staan in het Nederlands. Schrijft de gast Engels of Duits, dan MOET je de taalversie sturen, anders gaat het boekingsscherm van Formitable in het Nederlands verder. Zet daarvoor /en of /de direct achter buswhisky.com, vóór het vraagteken. De rest van de link (ft-restaurant, ft-ticket, ft-friend) blijft exact hetzelfde. Dit geldt NIET voor de camperplaats: die heeft geen Formitable-deeplink maar onze eigen boekingsmodule.
 
@@ -1314,7 +1314,9 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 - Meivakantie Special: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=fadf1964&ft-friend=6DDA3FE5C78C03295DC6643E181B963C
 - Reservering Boerderijrestaurant: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=398ca47b&ft-friend=C9D6763C04C0C5AD3AB53539141F34BF
 - Rondleiding Bus whiskystokerij (60 min): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=ef9aafe5&ft-friend=53EB738F07BD1CCB5012D37BF8026793
-- Weekendje Bus: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=15992a71&ft-friend=3000C0C5587973175036F0D84E5DBBFE
+- Weekendje Bus (2 nachten, aankomst za, €249,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=15992a71&ft-friend=3000C0C5587973175036F0D84E5DBBFE
+  Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.30 uur | Vier gangen verrassingsmenu · 9.00 uur | Ontbijt in het boerderijrestaurant · 10.30 uur | Lekker op pad! · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
+- Weekendje Bus (2 nachten, aankomst zo, €199,50): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=c7e3b965&ft-friend=9C81B71CF9DC16B0CF1CEEEFC7E7DD26
   Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.30 uur | Vier gangen verrassingsmenu · 9.00 uur | Ontbijt in het boerderijrestaurant · 10.30 uur | Lekker op pad! · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
 - Whiskydeal 1 persoonskamer (vrij&za, €209,50) - 3 gangen, voor 1 persoon: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=196a1421&ft-friend=156B6CDD5B3A2EFE93DCA873FC1E7259
   Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding Whiskystokerij · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Gelegenheid om te borrelen · 18.00 uur | Drie gangen verrassingsmenu · 9.00 uur | Uitchecken & ontbijt in het boerderijrestaurant · 10.30 uur | Vertrek
