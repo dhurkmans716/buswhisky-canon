@@ -1243,7 +1243,8 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
  - B&B 3-gangen — aankomst vr/za: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=06ef4002&ft-friend=1CD88408D99732F3F18D5675ABDF4E52 | zo/ma: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=136c5210&ft-friend=723C2389CA61B48B8797BE2D0C9A96FB
  - B&B 4-gangen — aankomst vr/za: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=1ea3b7b8&ft-friend=50CC4FB5DDF5075B5D4308CB6D073306 | zo/ma: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=6ff63a2d&ft-friend=94773A865DC22B5DC7FD76D8630C35F6
  - B&B 5-gangen — aankomst vr/za: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=dd25f0f7&ft-friend=65A0C73208FCCEC37B67925279D577E7 | zo/ma: https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=64e7f446&ft-friend=D25F4335445F3391221FC9C3996F4033
- - Weekendje Bus (2 nachten, aankomst za): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=15992a71&ft-friend=3000C0C5587973175036F0D84E5DBBFE
+ - Weekendje Bus (2 nachten, aankomst za, € 249,50 p.p.): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=15992a71&ft-friend=3000C0C5587973175036F0D84E5DBBFE
+ - Weekendje Bus (2 nachten, aankomst zo, € 199,50 p.p.): https://www.buswhisky.com?ft-restaurant=59f03a82&ft-ticket=c7e3b965&ft-friend=9C81B71CF9DC16B0CF1CEEEFC7E7DD26
  - B&B-actie inclusief fles Bus Whisky (lopende social-media actie, staat niet in de reguliere lijst maar is gewoon boekbaar): https://buswhisky.com/bed-breakfast-brabant-whiskystokerij?ft-restaurant=59f03a82&ft-ticket=2dfb0dff&ft-friend=5998F5140DF8F5FC56D094180C770099
 - Theatershow: buswhisky.com/theatershow
 - Camperplaats reserveren (directe boekingslink, nooit het kale domein sturen): https://buswhisky.com/camperplaats-brabant-vlakbij-Oss-Uden-Den-Bosch-Veghel#camperplaats
