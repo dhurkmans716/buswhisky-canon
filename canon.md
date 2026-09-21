@@ -498,7 +498,7 @@ Bron: heischehoeve.com/bekijk-locatie. Gebruik deze aantallen als maximum per op
 - **Locatie:** ruim 40.000 m² met tuinen, waterpartijen, trouweiland, wijngaard, fruitboomgaarden, moestuinen en de eigen whiskystokerij. Overdekt terras voor diner in de tuin; zalen met dansvloer voor binnen.
 - **Capaciteit:** minimaal 40, maximaal 200 personen. Overnachten voor 56 personen (28 hotelkamers).
 - **Altijd 2 overnachtingen:** de huur is op basis van 2 nachten (dag ervoor, trouwdag, dag erna). Een bruiloft zonder overnachting of met slechts 1 overnachting is niet mogelijk. Een bruiloft bij ons is dus ALTIJD een driedaags verblijf: weekend van vrijdag tot en met zondag, midweek (alleen juli en augustus) van dinsdag tot en met donderdag, met de trouwdag in het midden. Vraagt een bruidspaar om een driedaags feest, een driedaags verblijf of een feest verspreid over drie dagen, dan is het antwoord JA: dat IS ons bruiloftarrangement. Zeg nooit dat drie dagen niet kan en noem het nooit een arrangement van 2 dagen.
-- **Arrangementen (2 dagen, inclusief onbeperkt koffie/thee/frisdrank, 2 fusten bier van 50 liter en 40 flessen wijn):**
+- **Arrangementen (3 dagen met 2 overnachtingen, inclusief onbeperkt koffie/thee/frisdrank, 2 fusten bier van 50 liter en 40 flessen wijn):**
  - Weekendbruiloft LIGHT laagseizoen (vrijdag–zondag, 1 november–31 maart): € 6.950
  - Midweekbruiloft hoogseizoen (dinsdag–donderdag, juli/augustus): € 8.950
  - Weekendbruiloft hoogseizoen (vrijdag–zondag, juli/augustus): € 11.950
