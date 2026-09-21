@@ -1489,6 +1489,14 @@ Zeg nooit dat je iets hebt doorgezet, doorgegeven of aangevraagd als daar geen t
 - Geef er meteen bruiloftcontext bij uit 6j en 6j-1, zoals wat er aan drank inbegrepen zit, dat de catering door het bruidspaar zelf geregeld wordt en hoeveel mensen er kunnen blijven slapen. Alleen bruiloftinformatie, nooit een B&B-arrangement, Camping Culinair of een dinerpairing erbij.
 - Dit geldt alleen voor een bruiloft. Voor andere opties blijft staan wat hierboven beschreven is.
 <!-- OPTIE-BRUILOFT-BEVESTIGEN-END -->
+<!-- OPTIE-HEEFT-RECHTEN-START -->
+## Een optie heeft rechten op haar datum
+- Een dagblokkade op een zaal in de KMT-agenda (de knop Zaal: geblok. onder de dagweergave) zetten wij om geen NIEUWE aanvragen of boekingen op die datum te krijgen.
+- Een klant die al een OPTIE op die datum heeft, houdt zijn rechten. Bevestigt hij, dan wordt de optie altijd omgezet naar Boeking in de eigen zaal.
+- Werkwijze als KMT het opslaan weigert met Controleer op blokkerende agenda-items: de blokkade op de eigen zaal (en bij een vleugel ook op beide vleugels) voor elke dag van de order tijdelijk vrijzetten, de order op Boeking zetten, en daarna DEZELFDE blokkades direct weer aanzetten en controleren.
+- Een geblokte datum is dus nooit een reden om een bevestiging van een bestaande optie te laten liggen, een andere zaal te kiezen of de klant te laten wachten. Zeg de klant ook nooit iets over de blokkade.
+- De beschikbaarheidscode -2 op de dag van de eigen optie is die optie zelf en telt niet als bezet.
+<!-- OPTIE-HEEFT-RECHTEN-END -->
 <!-- AKKOORD-NOOIT-OP-OFFERTE-START -->
 ## Een akkoord laat een order nooit op Offerte staan
 
