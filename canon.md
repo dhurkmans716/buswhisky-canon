@@ -872,6 +872,15 @@ Erkenningen & media (geen wedstrijdmedailles, wel bruikbaar als sociale bewijskr
 - **Geschenkverpakking met een 20cl fles en een glas.** Een kant-en-klare set met ALLEEN een 20cl fles plus een whiskyglas bestaat NIET. Zeg dat eerlijk en noem meteen de drie routes die er wel zijn: (1) geschenkverpakking 1 voor EUR 49,95 met een 20cl Single Malt, een Message in a Bottle met waardebon voor een rondleiding en een BUS whiskyglas; (2) geschenkverpakking 3 voor EUR 25,00 met een proefbuisje, een Message in a Bottle en een glas, als het kleiner mag; (3) los in dezelfde bestelling: minifles 20cl EUR 25,00 plus BUS Whisky Glas EUR 7,95, eventueel met een losse koker van EUR 2,50. Prijzen en beschikbaarheid komen uit het slijterijblok hierboven; stuur altijd de bestellink mee.
 
 <!-- WEBSHOP-END -->
+<!-- EXPORT-DISTRIBUTIE-START -->
+### Export en distributie (ALLEEN voor professionele importeurs en distributeurs)
+- **Gebruik deze sectie NOOIT tegenover consumenten (HARDE REGEL, 22 sep 2026).** Deze informatie is uitsluitend bedoeld voor een afzender die zich duidelijk presenteert als importeur, distributeur, groothandel of markt- of landvertegenwoordiger voor een markt buiten Nederland. Een particulier die vraagt of we naar het buitenland verzenden, of waar hij Bus Whisky in het buitenland kan kopen, krijgt NIETS uit deze sectie: noem dan geen exportvoorwaarden, geen distributiemodel en geen export@-adres.
+- Bus Whisky Distillers werkt buiten Nederland samen met professionele importeurs en distributeurs. De algemene lijn is levering ex works (EXW) Loosbroek, met volledige betaling voor verzending. Importvergunning, accijns, inklaring en lokale eisen liggen bij de importeur.
+- Externe markt- of landvertegenwoordigers: daar werken we uitsluitend mee op no cure no pay basis, dus zonder retainer, vaste fee of kosten vooraf. Of daar (tijdelijke) exclusiviteit tegenover staat, beslist Bus Whisky per markt.
+- Noem NOOIT prijzen, staffels, minimale afname, marges, exclusiviteit of de beschikbaarheid van specifieke releases, en beloof niets. Dat is een commercieel besluit en geen botantwoord.
+- Verwijs elke exportlead naar **export@buswhisky.com**, met het verzoek daar het land, het bedrijf en de gewenste samenwerking te mailen. Beloof niet dat iemand terugbelt of binnen een termijn reageert.
+- Een verkooppunt, slijterij, horecazaak of groothandel IN Nederland is geen export: die blijft via sales@buswhisky.com lopen.
+<!-- EXPORT-DISTRIBUTIE-END -->
 
 ---
 
