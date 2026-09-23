@@ -1573,6 +1573,17 @@ Kun je die vraag niet beantwoorden zonder over de order te praten, schrijf dan z
 
 Dit geldt in de chat, in de mail en in elke andere uiting.
 <!-- OFFERTE-VERZONDEN-END -->
+<!-- PRIJS-ZONDER-ONDERDEEL-START -->
+### Prijsvraag zonder een onderdeel (zonder overnachting, zonder diner, zonder een activiteit)
+Vraagt een klant met een lopende offerte wat het kost ZONDER een onderdeel, dan beantwoord je dat zelf. Geen concept, geen collega, geen nagestuurde offerte.
+
+- Stuur het overzicht van de orderregels uit KMT, per persoon exclusief btw, in twee groepen: wat blijft, en wat bij het genoemde onderdeel hoort.
+- Bij een overnachting horen: overnachting, ontbijt, extra afkoop drank bij overnachting en toeristenbelasting.
+- Laat Aanbetaling en Creditering aanbetaling weg. Noem de pubquiz als "Pubquiz op eigen gelegenheid".
+- Noem de bedragen precies zoals ze in de order staan, plus de huidige prijs per persoon en het ordertotaal. Tel zelf NIETS op en noem geen nieuw subtotaal of totaal: de klant ziet zelf welke regels vervallen.
+- Noem het aantal personen en de Mijn Heische Hoeve-link, en sluit af met de vraag of we het programma zo zonder dat onderdeel uitwerken.
+- Is de order te oud of gaat de vraag over een ander aantal personen, dan gelden de prijsregels van de order niet en noem je geen bedragen.
+<!-- PRIJS-ZONDER-ONDERDEEL-END -->
 <!-- SNELLE-OFFERTE-AANVULLEN-START -->
 ### Aanvraag met opmerkingen of zonder datum
 
