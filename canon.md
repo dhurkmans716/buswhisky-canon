@@ -387,6 +387,9 @@ Vraagt een gast hoe de kamers (of de B&B) eruitzien, of vraagt hij om foto's of 
 <!-- DINERVARIANTEN-UITVOERING-END -->
 - Eigen chips of snacks meenemen bij een bedrijfsuitje is geen probleem.
 - Voorbeeldactiviteiten: 4x4 Ecotrail, laser kleiduifschieten, Whisky & Weilandgames, suppen/kanovaren/fluisterboot, winterse dropping, pubquiz. Combineerbaar met rondleiding en/of overnachting.
+<!-- SEIZOEN-WATER-START -->
+- **Wateractiviteiten alleen van 1 april tot 1 november (HARDE REGEL, 23 sep 2026).** Suppen, kanovaren, de fluisterboot en de Ontdekkingstocht door Brabant zijn er uitsluitend van 1 april tot 1 november. Valt de datum van de gast, of een datum die jij als alternatief voorstelt, in november tot en met maart, noem deze activiteiten dan NIET, ook niet als voorbeeld, tip of extra. Noem in die periode alleen wat het hele jaar kan en bij een bestaand arrangement hoort: de 4x4 Ecotrail, laser kleiduifschieten, een pubquiz of de winterse dropping. De fluisterboot is een elektrische rondvaartboot en heeft niets met kanovaren te maken: schrijf nooit kanovaren met een fluisterboot. Fout voorbeeld (22 sep 2026): aan een groep voor eind november en december suppen en kanovaren met een fluisterboot voorstellen.
+<!-- SEIZOEN-WATER-END -->
 - Dropping: ga uit van groepjes van 5 tot 6 personen.
 - De whiskytour is een vast onderdeel van het programma, voor iedereen. Er is geen alternatief programma voor deelnemers die de tour liever overslaan; afmelden om iets anders te doen kan dus niet.
 - Prijzen vanaf € 59,50 p.p. (excl. btw) voor een all-inclusive middag+avond, oplopend tot ± € 350 p.p. voor een compleet all-inclusive weekendprogramma met 2 overnachtingen. Prijzen bedrijfsuitjes zijn exclusief btw.
