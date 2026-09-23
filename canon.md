@@ -492,6 +492,16 @@ Vraagt een klant hoe de groepen worden ingedeeld (loting, willekeurig, afdelinge
 - Maakt de klant wel een eigen indeling, dan vraag je die mee te sturen en zet je dat ook in de outdoornotities.
 - Noem in het antwoord het aantal personen en de Mijn Heische Hoeve-link, cc de orderbox.
 <!-- GROEPSINDELING-END -->
+<!-- GROEPSINDELING-ECOTRAIL-START -->
+### Groepsindeling bij een programma MET de 4x4 Ecotrail
+Zit de 4x4 Ecotrail in het programma en vraagt de klant naar teams, groepsindeling of de verdeling per activiteit:
+- Laat de klant vooraf GROEPJES VAN 4 maken. Elk groepje is een jeepteam (4 personen per jeep). Reken het voor met het aantal personen uit de order, bijvoorbeeld 38 personen = 8 groepjes van 4 en 2 groepjes van 3. Nooit meer dan 4 in een groepje.
+- Dezelfde groepjes strijden ook tegen elkaar bij de games (Weilandgames of andere spellen in het programma), zodat de teams de hele dag gelijk blijven.
+- De activiteiten rouleren waarschijnlijk: een deel van de groep rijdt de 4x4 terwijl een ander deel een andere activiteit doet (bijvoorbeeld laserkleiduifschieten), daarna wisselen ze. De groepjes blijven bij elkaar. Noem geen exacte tijden of aantallen per ronde, die maken wij op de dag.
+- Rijbewijs: elk groepje heeft minimaal een bestuurder van 24 jaar of ouder met een T-rijbewijs, of een rijbewijs B uitgegeven voor 1 juli 2015. Passagiers hebben geen eisen. Vraag de organisator dit vooraf aan de deelnemers door te geven. Geen alcohol voor en tijdens het rijden.
+- Maakt de klant geen eigen indeling, dan tellen wij de groepjes van 4 ter plekke willekeurig af (zie het blok hierboven).
+- Beantwoord dit zelf, zet in de OUTDOORnotities dat de klant groepjes van 4 maakt (of dat wij aftellen), mail met het aantal personen en de Mijn Heische Hoeve-link, cc de orderbox.
+<!-- GROEPSINDELING-ECOTRAIL-END -->
 - E-bikes kunnen niet worden opgeladen bij de 8 laadplekken voor elektrische auto's. Bij de fietsenstalling zijn wél stopcontacten aanwezig om je e-bike gratis op te laden.
 
 ---
