@@ -1555,6 +1555,13 @@ Zeg nooit dat je iets hebt doorgezet, doorgegeven of aangevraagd als daar geen t
 - Een korte instemming op onze eigen slotvraag is geen FYI maar een akkoord.
 - Staat een order toch nog op Offerte terwijl de datum binnen tien dagen valt, dan meldt het systeem dat een keer aan het front office.
 <!-- AKKOORD-NOOIT-OP-OFFERTE-END -->
+<!-- VERGADERING-OPTIE-START -->
+### Vergaderarrangementen: altijd een passende zaal en vrijblijvend in optie (23 sep 2026)
+- Een vergaderarrangement (dagvergadering, 24-uurs, 32-uurs, heisessie) wordt standaard op beschikbaarheid gecheckt en meteen VRIJBLIJVEND IN OPTIE gezet, 14 dagen, kosteloos. Zo houden we de ruimte vast terwijl de klant beslist.
+- De zaal komt uit productenbeheer: alleen een zaal die bij het arrangement hoort. Een vergadering komt nooit in het restaurant.
+- Richting de gast: zeg dat de datum vrijblijvend in optie staat, noem NOOIT een zaalnaam.
+- Is er op de gevraagde dag geen passende zaal vrij, dan gaat het voorstel toch uit met de mededeling dat die datum niet meer kan en de vraag of de klant flexibel is in de datum.
+<!-- VERGADERING-OPTIE-END -->
 <!-- OFFERTE-VERZONDEN-START -->
 ### Eerst verzendbewijs, dan pas communiceren over een offerte
 
