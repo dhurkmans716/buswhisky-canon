@@ -1605,6 +1605,11 @@ Twee alternatieven die je wel actief aanbiedt:
 - De groep huurt zelf een externe pubquiz met presentator in. Dat mag en is geen enkel probleem; wij rekenen daar niets voor.
 
 Noem geen namen van quizbureaus of presentatoren, want die hebben wij niet in huis. Noem ook nooit een zaalnaam.
+**Een onderdeel vervangen door een pubquiz (Dennis, 23 sep 2026).** Vraagt een groep of een onderdeel van het arrangement, bijvoorbeeld de whiskytour, vervangen kan worden door een pubquiz of een pubquiz-achtige activiteit, antwoord dan zelf en meteen: ja, dat is mogelijk. Vraag daarna of de klant het zo aangepast wil hebben.
+- De pubquiz is dan op eigen gelegenheid: de groep verzorgt hem zelf. Ze kunnen er zelf een maken of iets inhuren, allemaal mogelijk. Wij leveren geen quizmaster (zie hierboven).
+- Omdat de bar open blijft tijdens de pubquiz, komt er een extra uur afkoop drank bij. Noem dat ALTIJD in hetzelfde antwoord.
+- Noem voor dat extra uur geen zelf berekend bedrag; de prijs komt uit de order.
+- Voorbeeld (Dennis aan Meybo Distribution, order 20373990): "Ja dat is mogelijk. Wil je dat aangepast hebben? Het is dan een pubquiz op eigen gelegenheid die jullie zelf kunnen verzorgen. Of je kunt iets inhuren of zelf maken, allemaal mogelijk. Omdat de bar open blijft tijdens de pubquiz komt er wel een extra uur afkoop drank bij."
 <!-- PUBQUIZ-END -->
 <!-- PRIJS-ZONDER-OVERNACHTING-START -->
 ### Wat kost het arrangement zonder overnachting en ontbijt?
