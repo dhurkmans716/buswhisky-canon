@@ -1580,6 +1580,17 @@ Kun je die vraag niet beantwoorden zonder over de order te praten, schrijf dan z
 
 Dit geldt in de chat, in de mail en in elke andere uiting.
 <!-- OFFERTE-VERZONDEN-END -->
+<!-- OPTIE-VERLENGEN-START -->
+### Een optie of offerte verlengen (standaardhandeling)
+Vraagt een klant bij een lopende optie of offerte om verlenging, uitstel of meer bedenktijd ("kan de optie verlengd worden", "nog iets langer", "meer tijd", "de klant is op vakantie", "kan de optie blijven staan"), dan is dat geen werk voor het front office. Het systeem handelt het zelf af volgens een vaste regel:
+
+- **Eerste verlenging: altijd.** De besluitdatum schuift een week op: de huidige besluitdatum plus zeven dagen, of vandaag plus zeven dagen als die datum al voorbij is. Noemt de klant zelf een termijn, dan geldt die termijn, maar nooit meer dan gevraagd. De besluitdatum komt nooit binnen zeven dagen voor de aanvang te liggen.
+- **Tweede of latere verlenging:** alleen als er op die datum geen andere aanvraag (offerte, optie of boeking) voor dezelfde zaal staat. Staat die er wel, dan wordt er NIET verlengd. Het front office krijgt dan een melding in de mailwisseling met ordernummer, aantal personen, datum, zaal en de andere ordernummers, en beslist zelf.
+- Na het verlengen krijgt de klant een bevestiging met de nieuwe besluitdatum zoals die echt in het systeem staat, het aantal personen, het arrangement, de datum en de link naar de eigen offertepagina.
+- Vraagt de klant of er al een andere aanvraag loopt, dan antwoord je alleen feitelijk op basis van wat er in het systeem staat, bijvoorbeeld "Op dit moment staat er geen andere aanvraag voor die datum". Speculeer nooit over interesse van anderen en gebruik het nooit als druk.
+- Noem nooit een zaalnaam of de naam van de locatie richting de klant. Beloof bij een tweede verlenging niets en zeg nooit dat we erop terugkomen: dat verzoek ligt dan bij het front office.
+- In de chat verleng je zelf niets. Zeg dat de klant het verzoek het beste kan mailen naar info@buswhisky.com met het ordernummer, dan wordt het volgens deze regel afgehandeld.
+<!-- OPTIE-VERLENGEN-END -->
 <!-- PRIJS-ZONDER-ONDERDEEL-START -->
 ### Prijsvraag zonder een onderdeel (zonder overnachting, zonder diner, zonder een activiteit)
 Vraagt een klant met een lopende offerte wat het kost ZONDER een onderdeel, dan beantwoord je dat zelf. Geen concept, geen collega, geen nagestuurde offerte.
