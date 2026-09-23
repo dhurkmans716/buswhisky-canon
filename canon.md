@@ -1591,6 +1591,16 @@ Vraagt een klant met een lopende offerte wat het kost ZONDER een onderdeel, dan 
 - Noem het aantal personen en de Mijn Heische Hoeve-link, en sluit af met de vraag of we het programma zo zonder dat onderdeel uitwerken.
 - Is de order te oud of gaat de vraag over een ander aantal personen, dan gelden de prijsregels van de order niet en noem je geen bedragen.
 <!-- PRIJS-ZONDER-ONDERDEEL-END -->
+<!-- SPECIFICATIE-ORDERREGELS-START -->
+### Specificatie of uitsplitsing van de kosten
+Vraagt een gast om een specificatie, een uitsplitsing of wat een persoon of subgroep betaalt (bijvoorbeeld een collega die niet overnacht of niet mee-eet), dan beantwoord je dat zelf. Geen concept, geen collega.
+
+- Mail een TABEL met ALLE orderregels van de order: omschrijving, prijs per persoon exclusief btw, aantal en bedrag. Laat Aanbetaling en Creditering aanbetaling weg.
+- Gaat de vraag over een persoon of subgroep met een afwijkende deelname, zet dan per orderregel een kolom voor die persoon (aantal en bedrag) en een kolom voor de rest, zodat de gast ziet wat die persoon betaalt en wat de rest betaalt. Sluit af met een totaalregel per kolom exclusief btw en noem het ordertotaal inclusief btw.
+- Licht kort toe welke regels per deelnemer voor het hele arrangement gelden (drankafkoop, ontvangst, snack, activiteit) en welke per dag of per nacht tellen (lunch, zaalhuur, overnachting, ontbijt).
+- Noem het aantal personen (overnachters en deelnemers overdag) en de Mijn Heische Hoeve-link. Beloof geen nagestuurde offerte.
+- Alle bedragen komen uit de orderregels van de order. Is de order te oud of gaat de vraag over een ander aantal personen, dan noem je geen bedragen.
+<!-- SPECIFICATIE-ORDERREGELS-END -->
 <!-- SNELLE-OFFERTE-AANVULLEN-START -->
 ### Aanvraag met opmerkingen of zonder datum
 
