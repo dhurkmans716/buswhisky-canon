@@ -174,7 +174,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 
 ## 6d. Rondleidingen / whiskytours
 
-- De whiskystokerij is 7 dagen per week geopend voor rondleidingen. Elke dag om 16:00 uur; extra tour op vrijdag om 17:30 uur en op zaterdag en zondag om 14:30 uur.
+- De whiskystokerij is 7 dagen per week geopend voor rondleidingen. Elke dag om 16:00 uur; extra tour op zaterdag en zondag om 14:30 uur. Er is geen vrijdagavondtour meer.
 - Een tour duurt ruim 60 minuten en kost **€ 17,50 p.p.**, inclusief 1 glaasje om te proeven.
 - Groepsrondleidingen vanaf 15 personen: **€ 15,00 p.p.**; tijdstip in overleg.
 <!-- TRAVELTRADE-START -->
