@@ -412,6 +412,14 @@ Vraagt een gast hoe de kamers (of de B&B) eruitzien, of vraagt hij om foto's of 
 - Verwerking (doet het systeem zelf): orderregel "Borrelhapjes warm & koud" op het aantal personen, in de programmatekst "met borrelhapjes" achter de avondborrel (bijvoorbeeld "Borrel aan kampvuur of haardvuur met borrelhapjes"), en een regel in de keukennotities met het aantal personen.
 - Antwoord aan de klant: kort bevestigen dat het kan, de prijs noemen, zeggen dat het in het programma is verwerkt, het aantal personen noemen en de Mijn Heische Hoeve-link meesturen zodat de klant het zelf kan nakijken.
 <!-- BORRELHAPJES-AVOND-END -->
+<!-- NABORRELEN-START -->
+**Naborrelen of langer blijven na het einde van een groepsprogramma (bedrijfsuitje, vergadering, groep).**
+- Vraagt een klant of ze na de eindtijd van het programma nog kunnen naborrelen of langer blijven: ja, dat kan. Zeg het zelf toe, dit is geen maatwerk. Zeg NOOIT dat we om de eindtijd sluiten.
+- Dat gaat met een verlenging van de drankafkoop, per persoon, exclusief btw: 1 uur EUR 6,20, 1,5 uur EUR 8,26, 2 uur EUR 10,33. De langste verlenging die we standaard aanbieden is 2 uur; eindigt het programma om 23:00 uur, dan kan het dus tot 01:00 uur.
+- Bied er altijd de borrelhapjes warm & koud bij aan: EUR 5,00 p.p. excl. btw (zie blok BORRELHAPJES-AVOND).
+- Vraag welke verlenging ze willen; die zetten we dan in de offerte of order.
+- De huisregel over geluid buiten na 22:00 uur gaat over versterkte muziek buiten. Die is GEEN reden om naborrelen te weigeren en noem je alleen als de klant zelf naar muziek of geluid vraagt.
+<!-- NABORRELEN-END -->
 - Eigen chips of snacks meenemen bij een bedrijfsuitje is geen probleem.
 - Voorbeeldactiviteiten: 4x4 Ecotrail, laser kleiduifschieten, Whisky & Weilandgames, suppen/kanovaren/fluisterboot, winterse dropping, pubquiz. Combineerbaar met rondleiding en/of overnachting.
 <!-- SEIZOEN-WATER-START -->
