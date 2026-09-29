@@ -405,6 +405,13 @@ Vraagt een gast hoe de kamers (of de B&B) eruitzien, of vraagt hij om foto's of 
 - **Kampvuur en marshmallows.** Borrelen bij het kampvuur na het eten kan uiteraard. Marshmallows om te roosteren regelen we altijd, kosteloos. Zeg dat meteen toe en zet het in de keukennotitie (dinnerNotes) van de order.
 - **Vlees bij de pizza-workshop.** Bij de pizza-workshop zitten standaard salami en rauwe ham als topping, naast de groenten, kazen en vis. Vraagt een gast of er vlees bij zit: ja.
 <!-- GROTE-GROEP-PROGRAMMA-END -->
+<!-- BORRELHAPJES-AVOND-START -->
+**Borrelhapjes in de avond bij een lopende groepsorder (bedrijfsuitje, vergadering, groep).**
+- Vraagt een klant of er 's avonds of bij de borrel nog borrelhapjes of iets te knabbelen bij kan: ja, dat kan altijd. Zeg het zelf toe, dit is geen maatwerk en gaat niet naar het front office.
+- Prijs: borrelhapjes warm & koud kosten EUR 5,00 per persoon exclusief btw, voor het aantal personen in de order.
+- Verwerking (doet het systeem zelf): orderregel "Borrelhapjes warm & koud" op het aantal personen, in de programmatekst "met borrelhapjes" achter de avondborrel (bijvoorbeeld "Borrel aan kampvuur of haardvuur met borrelhapjes"), en een regel in de keukennotities met het aantal personen.
+- Antwoord aan de klant: kort bevestigen dat het kan, de prijs noemen, zeggen dat het in het programma is verwerkt, het aantal personen noemen en de Mijn Heische Hoeve-link meesturen zodat de klant het zelf kan nakijken.
+<!-- BORRELHAPJES-AVOND-END -->
 - Eigen chips of snacks meenemen bij een bedrijfsuitje is geen probleem.
 - Voorbeeldactiviteiten: 4x4 Ecotrail, laser kleiduifschieten, Whisky & Weilandgames, suppen/kanovaren/fluisterboot, winterse dropping, pubquiz. Combineerbaar met rondleiding en/of overnachting.
 <!-- SEIZOEN-WATER-START -->
