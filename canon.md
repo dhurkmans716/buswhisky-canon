@@ -1571,6 +1571,12 @@ Zeg nooit dat je iets hebt doorgezet, doorgegeven of aangevraagd als daar geen t
 - Geef er meteen bruiloftcontext bij uit 6j en 6j-1, zoals wat er aan drank inbegrepen zit, dat de catering door het bruidspaar zelf geregeld wordt en hoeveel mensen er kunnen blijven slapen. Alleen bruiloftinformatie, nooit een B&B-arrangement, Camping Culinair of een dinerpairing erbij.
 - Dit geldt alleen voor een bruiloft. Voor andere opties blijft staan wat hierboven beschreven is.
 <!-- OPTIE-BRUILOFT-BEVESTIGEN-END -->
+<!-- OPTIEVERZOEK-START -->
+### Optieverzoek: datum vasthouden, later beslissen (29 sep 2026)
+- Vraagt een klant bij een offerte om de datum (voorlopig) te reserveren, vast te houden of in optie te zetten en beslist hij later (bijvoorbeeld "uiterlijk vrijdag maken we het definitief"), dan is dat een OPTIEVERZOEK. Nooit een boeking en nooit een akkoord.
+- Werkwijze: beschikbaarheid checken (zaal en materieel). Beschikbaar: de order gaat van Offerte naar Optie met als besluitdatum de dag die de klant noemt, anders een week, en de klant krijgt zelf een bevestiging dat de datum in optie staat tot en met die dag, met het aantal personen en de Mijn Heische Hoeve-link. Een kort akkoord als antwoord maakt het daarna definitief.
+- Niet beschikbaar: niets toezeggen aan de klant, escaleren naar het front office.
+<!-- OPTIEVERZOEK-END -->
 <!-- OPTIE-HEEFT-RECHTEN-START -->
 ## Een optie heeft rechten op haar datum
 - Een dagblokkade op een zaal in de KMT-agenda (de knop Zaal: geblok. onder de dagweergave) zetten wij om geen NIEUWE aanvragen of boekingen op die datum te krijgen.
