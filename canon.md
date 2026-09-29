@@ -398,6 +398,13 @@ Vraagt een gast hoe de kamers (of de B&B) eruitzien, of vraagt hij om foto's of 
   - **Optie 4: Luxe stamppottenbuffet.** Een winterse ervaring met verfijnde aardappelgerechten, bijvoorbeeld fluweelzachte aardappelpuree met truffelolie, knapperige spekjes en huisgemaakte piccalilly, of romige pompoensoep met gestoofde boerenkool, ambachtelijke worstjes en speklapjes. Wat het seizoen ook brengt.
   - Twijfelt een gast tussen pizza-workshop en BBQ, benoem dan actief het verschil: de pizza-workshop is de actiefste keuze, want je maakt je eten zelf; de BBQ is de ontspannen keuze, samen grillen en aanschuiven. De prijs is bij alle vier gelijk (zie hierboven).
 <!-- DINERVARIANTEN-UITVOERING-END -->
+<!-- GROTE-GROEP-PROGRAMMA-START -->
+- **Grote groep splitsen en rouleren (Dennis, 29 sep 2026).** Bij een groep van rond de 40 personen splitsen we de groep idealiter in twee groepen van 20, zodat niemand lang hoeft te wachten. De groepen rouleren over de activiteiten: de ene helft rijdt de 4x4 Ecotrail terwijl de andere helft laser kleiduifschiet, daarna wisselen. Daarna doen beide groepen tegelijk de rondleiding door de stokerij. Vraagt een groep om een eigen volgorde (eerst ecotrail, dan kleiduif, dan de tour), leg dan zelf en stellig uit dat we het zo draaien. Geen front-officewerk.
+- **Proeverij na de rondleiding.** Wil een groep na de rondleiding proeven, bied dan zelf de BUS Tafelproeverij aan tafel aan: flight van 3 glaasjes EUR 19,50 p.p. of flight van 6 glaasjes EUR 29,50 p.p. Vraag welke van de twee ze willen; na hun keuze komt die als orderregel voor het hele gezelschap in de order.
+- **Pubquiz laten vervallen** is geen probleem. Haal hem uit het programma en de orderregels (hij staat op EUR 0,00, dus de prijs verandert niet) en bevestig dat.
+- **Kampvuur en marshmallows.** Borrelen bij het kampvuur na het eten kan uiteraard. Marshmallows om te roosteren regelen we altijd, kosteloos. Zeg dat meteen toe en zet het in de keukennotitie (dinnerNotes) van de order.
+- **Vlees bij de pizza-workshop.** Bij de pizza-workshop zitten standaard salami en rauwe ham als topping, naast de groenten, kazen en vis. Vraagt een gast of er vlees bij zit: ja.
+<!-- GROTE-GROEP-PROGRAMMA-END -->
 - Eigen chips of snacks meenemen bij een bedrijfsuitje is geen probleem.
 - Voorbeeldactiviteiten: 4x4 Ecotrail, laser kleiduifschieten, Whisky & Weilandgames, suppen/kanovaren/fluisterboot, winterse dropping, pubquiz. Combineerbaar met rondleiding en/of overnachting.
 <!-- SEIZOEN-WATER-START -->
