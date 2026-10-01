@@ -456,6 +456,11 @@ Bron: heischehoeve.com/bekijk-locatie. Gebruik deze aantallen als maximum per op
 **Proeflokaal** (het restaurant): dit is ons proeflokaal/restaurant en wordt normaliter NIET als vergaderruimte ingezet. Presenteer het dus niet als vergaderzaal; de vergaderzalen zijn de Leygraefzaal en de Dommelzaal. Het proeflokaal/restaurant heeft bovendien GEEN airco.
 
 **Foyers** (Leygraaf-foyer en Dommel-foyer): pantry en ruimte voor ontbijt, lunch en diner, vaak gebruikt als break-outruimte. Elk maximaal 60 personen voor een borrel en 40 voor een diner. Niet geschikt voor vergaderopstellingen (U-vorm, carré, cabaret, theater).
+<!-- SUBRUIMTE-START -->
+**Subruimte richting de gast (Dennis, 1 okt 2026).** Een groep heeft naast de vergaderzaal EEN subruimte (enkelvoud) die kosteloos als break-outruimte te gebruiken is. Spreek dus nooit van subruimtes of foyers in het meervoud en noem geen aantal ruimtes. Voor werken in groepjes hoeft een groep niet uit te wijken: de zalen zelf zijn groot genoeg om in groepjes te werken. Antwoord op een vraag over break-outsessies dus: in de zaal zelf kunnen jullie prima in groepjes werken, en daarnaast is er een subruimte die jullie kosteloos kunnen gebruiken.
+
+**Een zaalnaam laat je gewoon weg.** Zeg nooit dat je bewust geen zaalnaam noemt of waarom niet; dat leest raar. Beschrijf de ruimte zonder naam en ga door met het antwoord.
+<!-- SUBRUIMTE-END -->
 
 - Grootste capaciteit in huis is dus 350 personen (borrel in de Leygraefzaal) en 250 in theateropstelling. Vergaderen in U-vorm kan tot 40 personen.
 - De vergaderzalen (Leygraefzaal en Dommelzaal) hebben airco; het proeflokaal/restaurant heeft geen airco.
