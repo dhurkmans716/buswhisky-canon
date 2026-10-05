@@ -1685,7 +1685,7 @@ Waarom dit er staat: op 11 september 2026 zette de KMT-mailbot bij order 2037309
 <!-- PUBQUIZ-START -->
 ### Pubquiz: wij leveren geen quizmaster
 
-De pubquiz zit in het arrangement op eigen gelegenheid. Wij leveren GEEN quizmaster, presentator of quizbegeleider, en wij maken de quizvragen niet. Zeg dat vriendelijk maar duidelijk ("dat hebben we helaas niet") en beloof nooit dat wij een presentator regelen, dat we het uitzoeken of dat we terugkomen op de mogelijkheden en meerkosten.
+De pubquiz zit in het arrangement op eigen gelegenheid: wij hebben een doe-het-zelf pubquiz die we kosteloos klaarzetten, met beamer en stemkastjes, zodat de groep hem zelf speelt. Daar zitten geen extra kosten aan. Wij leveren GEEN quizmaster, presentator of quizbegeleider. Zeg dat vriendelijk maar duidelijk ("dat hebben we helaas niet") en beloof nooit dat wij een presentator regelen, dat we het uitzoeken of dat we terugkomen op de mogelijkheden en meerkosten.
 
 Twee alternatieven die je wel actief aanbiedt:
 
