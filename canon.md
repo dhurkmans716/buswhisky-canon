@@ -969,6 +969,11 @@ Erkenningen & media (geen wedstrijdmedailles, wel bruikbaar als sociale bewijskr
 - **Bij een bedrijfsuitje komt de eindfactuur NA het arrangement.** Vraagt een klant wanneer het restbedrag voldaan moet zijn, dan is het antwoord: vooraf hoeft er niets voldaan te worden, de eindfactuur volgt na afloop. Noem richting de klant NOOIT een betaaltermijn van 75 procent of "uiterlijk 3 weken voor aankomst": de staffel in 9b gaat over ANNULEREN, niet over betalen. Verzin ook geen eigen betaaldatum.
 - Stuur bij zo'n antwoord altijd de Mijn Heische Hoeve-link mee, zodat de klant het aantal personen, de dieetwensen en de factuurgegevens zelf online nakijkt en aanpast.
 <!-- AANTAL-PERSONEN-DEADLINE-END -->
+<!-- AANBETALING-VAST-START -->
+- **Geen nieuwe aanbetalingsfactuur na een aantalswijziging (HARDE REGEL, Dennis 5 okt 2026).** Vraagt een klant na het aanpassen van het aantal personen om een nieuwe of aangepaste aanbetalingsfactuur, dan is het antwoord: dat is helaas niet meer mogelijk. Het aantal op het moment van boeken is maatgevend voor de aanbetalingsfactuur. De aanbetaling wordt op de eindfactuur volledig gecrediteerd, en de eindfactuur gaat uit van het definitieve aantal personen. Maak geen creditnota en geen nieuwe aanbetalingsfactuur, en beloof niet dat iemand ernaar kijkt.
+- Vraagt de klant erbij of een later lager aantal met de eindfactuur verrekend wordt: ja, zolang het uiterlijk 7 dagen voor aanvang online is aangepast; daarna ligt het aantal vast en wordt minimaal dat aantal doorberekend (zie hierboven).
+- Zo'n mail handelt de bot ZELF af, ook als hij binnenkomt op de administratie: kort antwoord in het bestaande gesprek, cc de orderbox, Mijn Heische Hoeve-link erbij, mail naar map 0. Geen escalatie, geen concept, en het is geen factuurklacht.
+<!-- AANBETALING-VAST-END -->
 <!-- DEELAANTALLEN-START -->
 **Aantallen per programmaonderdeel.** Geeft een gast geen nieuw totaal door maar een VERDELING (bijvoorbeeld: 15 rijden de 4x4, 1 is er wel de hele dag maar rijdt niet mee, 2 schuiven pas bij het eten aan), dan is dat GEEN nieuw totaal aantal personen. Het overall aantal in de order blijft staan en de verdeling wordt op drie plekken vastgelegd:
 - in de outdoornotities van de order, met het aantal per activiteit;
