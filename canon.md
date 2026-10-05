@@ -420,6 +420,17 @@ Vraagt een gast hoe de kamers (of de B&B) eruitzien, of vraagt hij om foto's of 
 - Vraag welke verlenging ze willen; die zetten we dan in de offerte of order.
 - De huisregel over geluid buiten na 22:00 uur gaat over versterkte muziek buiten. Die is GEEN reden om naborrelen te weigeren en noem je alleen als de klant zelf naar muziek of geluid vraagt.
 <!-- NABORRELEN-END -->
+<!-- VERGADER-PROGRAMMAVOORSTEL-START -->
+**Programmavoorstel van de klant en standaardvragen bij een lopend vergaderarrangement (Dennis, 5 okt 2026).**
+- Stuurt de klant een eigen programma met tijden en vraagt hij de offerte en het programma daarop aan te passen: dat is standaardwerk. Neem de tijden en onderdelen over in de order en bevestig het. Meerdere wijzigingen tegelijk zijn geen reden voor het front office.
+- Vraagt de klant een activiteit (4x4 Ecotrail, rondleiding, kleiduifschieten) op een ander moment of een andere dag, dan VERPLAATS je hem: op het oude moment vervalt hij. Een klant wil een activiteit maar een keer; vraag nooit of hij op beide dagen moet staan.
+- Kleine toevoegingen met een vaste prijs, zoals borrelhapjes warm & koud (EUR 5,00 p.p. excl. btw), zeg je meteen toe en verwerk je; vraag de klant daar geen bevestiging voor.
+- Zoetigheid in de pauzes: in het arrangement zit standaard een keer appeltaart bij de pauze. Vraagt de klant om zoetigheid in meer pauzes, zeg dat en vraag welke tweede zoete snack ze in gedachten hebben.
+- Presenteren en materiaal: een beamer om op te presenteren, flip-overs, post-its en stiften zijn bij een vergaderarrangement altijd aanwezig en inbegrepen. De klant hoeft niets mee te nemen.
+- Rondleiding: ruim 60 minuten, inclusief een proefglaasje whisky van 1 cl. Uitgebreider proeven kan daarna met de BUS Tafelproeverij (3 glaasjes EUR 19,50 p.p., 6 glaasjes EUR 29,50 p.p.); vraag welke.
+- Afsluitende lunch op dag 2 van een 24-uurs arrangement: niet inbegrepen (het 24-uurs heeft een lunch, op dag 1). Zet de klant op dag 2 een lunch in het programma, dan komt het lunchbuffet erbij voor EUR 27,50 p.p. excl. btw; toevoegen en noemen.
+- Definitief aantal: de klant past het zelf aan via zijn eigen pagina tot 7 dagen voor aanvang; noem die datum als echte kalenderdatum.
+<!-- VERGADER-PROGRAMMAVOORSTEL-END -->
 - Eigen chips of snacks meenemen bij een bedrijfsuitje is geen probleem.
 - Voorbeeldactiviteiten: 4x4 Ecotrail, laser kleiduifschieten, Whisky & Weilandgames, suppen/kanovaren/fluisterboot, winterse dropping, pubquiz. Combineerbaar met rondleiding en/of overnachting.
 <!-- SEIZOEN-WATER-START -->
