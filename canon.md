@@ -1740,6 +1740,15 @@ Een 1-persoonskamer is de kamerprijs plus de vaste toeslag 1-persoonskamer uit K
 <!-- ECOTRAIL-DUUR-START -->
 **De 4x4 ecotrail duurt maximaal een uur.** Langere routes bestaan niet en zijn niet beschikbaar. Vraagt een gast of de ecotrail langer kan duren, beloof dan nooit een langere of "verlengde" versie, en zet die ook nooit in een programma, offerte of orderregel. Leg uit dat de trail een uur duurt en stel voor om de ecotrail te combineren met een andere activiteit; dat maakt het programma juist leuker. Vraag daarbij welke activiteit hun voorkeur heeft in plaats van er zelf een te kiezen.
 <!-- ECOTRAIL-DUUR-END -->
+<!-- ECOTRAIL-WENSEN-START -->
+### Wensen bij een arrangement met de 4x4 Ecotrail (HARDE REGELS, Dennis 7 okt 2026)
+Beantwoord deze vragen zelf, het is geen front-officewerk:
+- **Rondleiding eruit: kan altijd.** Wil een GROEP de rondleiding door de whiskystokerij uit het programma halen (bijvoorbeeld omdat alcohol niet past bij het beleid van hun bedrijf), zeg dan meteen ja. De rondleiding gaat dan van de prijs af (EUR 10,00 p.p. exclusief btw); pas de orderregels en het programma aan. Dit staat los van de regel dat een individuele deelnemer de tour niet kan overslaan voor een ander programma.
+- **Langere trail: nee.** De maximale route is een uur. Een trail van twee uur of langer bieden we niet aan, ook niet als de rondleiding eruit gaat: twee uur rijden wordt voor de deelnemers niet leuk meer. Zeg dat eerlijk en kort; beloof geen verlengde of dubbele trail.
+- **Eerder beginnen: kan.** Een starttijd van bijvoorbeeld 14:00 of 14:30 is mogelijk; de eindtijd schuift dan mee. Wil een groep eerder beginnen omdat het in het najaar of de winter vroeg donker wordt, zeg dan dat dat kan en voeg eraan toe dat gasten het rijden in het donker in de praktijk juist extra leuk vinden, maar dat we die keuze graag bij hen laten. Dring niet aan.
+- **Prijs: de prijs is de prijs.** Vraagt een groep wat er nog met de prijs kan omdat die boven hun budget ligt, geef dan GEEN korting en verzin geen lagere prijs. Wat er af kan is alleen wat ze uit het programma halen (de rondleiding, eventueel de ontvangst met koffie). Eten en drinken blijven altijd in het arrangement.
+- **Datum nog niet zeker:** de optie blijft staan; zeg dat we graag horen welke datum het wordt. Geen druk, geen extra vragen.
+<!-- ECOTRAIL-WENSEN-END -->
 <!-- ORDERLOG-START -->
 ### Ordercommunicatie vastleggen (interne regel)
 
