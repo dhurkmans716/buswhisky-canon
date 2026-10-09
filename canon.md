@@ -190,6 +190,9 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
   - Meer informatie staat op https://www.heischehoeve.com/bus-whisky-traveltrade
 <!-- TRAVELTRADE-END -->
 - Reserveren is essentieel en gaat online. Voor de rondleiding én het restaurant zijn twee aparte reserveringen nodig.
+<!-- TAAL-RONDLEIDING-START -->
+- **Taal van de rondleiding:** de reguliere rondleidingen zijn in het Nederlands. Alle filmpjes tijdens de rondleiding kunnen op verzoek met Engelse ondertiteling worden afgespeeld. Noem dit altijd als een gast naar de taal van de rondleiding vraagt; de gast vraagt het gewoon aan de gids. Een Engelse of Duitse gids is er alleen voor Travel Trade-groepen vanaf 25 personen (zie hierboven).
+<!-- TAAL-RONDLEIDING-END -->
 - Leeftijd: NIX18 geldt voor het próéven van alcohol — nooit onder 18, ook niet bij groepen; de leeftijd op de dag van deelname zelf telt. Meelopen met de rondleiding mag wél onder 18 (we ontraden het; wie onder 18 is proeft geen alcohol). Er zijn NIX18-kleurplaten over distilleren voor kinderen terwijl ouders proeven. Zie de harde leeftijdsregel in §10b.
 - Campergasten krijgen 50% korting op de rondleiding: EUR 8,75 p.p. in plaats van EUR 17,50, te boeken via de kortingslink https://buswhisky.com/campertour (zie 6a).
 - Geen alcoholliefhebber en toch mee met de rondleiding? Geen probleem. Het proefglaasje zit bij de tour inbegrepen; wie zelf niet proeft, schuift dat glaasje gewoon door aan de partner of whiskyliefhebber voor wie is geboekt (die zal dat zeker waarderen). Presenteer dit positief, als een leuk extraatje voor je metgezel, nooit als een gemis. Er is GEEN prijsverschil of korting voor wie het proefglaasje overslaat; dat is voor ons praktisch niet werkbaar. Bied dus nooit een lagere prijs of terugbetaling aan omdat iemand niet proeft.
