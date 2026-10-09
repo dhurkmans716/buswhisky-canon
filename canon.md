@@ -1806,7 +1806,7 @@ Vaste werkwijze in zo'n antwoord:
 - Noem het ordernummer, de datum en het aantal personen, plus het ordertotaal excl. en incl. btw.
 - Onze prijzen zijn NETTO. Kent het portaal een fee die van het leveranciersbedrag af gaat (bij Candex 3 procent), vraag dan om de order zo aan te maken dat het bedrag NAAR ONS gelijk is aan het ordertotaal.
 - Btw komt bovenop het geautoriseerde bedrag. Wij factureren gewoon met Nederlandse btw (9 en 21 procent) aan de partij die op de order als factuuradres staat.
-- Bij een bedrijfsuitje blijft gelden dat de eindfactuur NA het arrangement komt. Beloof geen betaaltermijn vooraf en noem geen aanbetaling via het portaal.
+- Bij een bedrijfsuitje blijft gelden: 50 procent aanbetaling bij het boeken, de eindfactuur NA het arrangement. Verzin geen eigen betaaltermijn.
 - Stuur ook hier de Mijn Heische Hoeve-link mee en zet de orderbox in cc.
 
 Candex specifiek: wij factureren aan Candex Solutions Netherlands BV, De Cuserstraat 93, 1081 CN Amsterdam, btw NL860587836B01. Candex betaalt ons binnen 3 werkdagen nadat de klant Candex heeft betaald; de betaaltermijn van de klant staat op de order (bij FrieslandCampina 21 dagen). Registreren als leverancier is gratis en eenmalig, daarna kan elke koper die Candex gebruikt ons via dat kanaal een order sturen.
