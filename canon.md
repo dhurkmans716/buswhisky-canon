@@ -981,7 +981,7 @@ Erkenningen & media (geen wedstrijdmedailles, wel bruikbaar als sociale bewijskr
 
 ## 9a-1. Facturatie & aanbetaling (bedrijfsuitjes en events)
 
-- De aanbetalingsfactuur wordt bij reservering gestuurd op basis van het op dat moment bekende aantal personen; op de eindafrekening wordt gecorrigeerd naar het daadwerkelijke aantal.
+- De aanbetalingsfactuur van **50 procent** wordt bij reservering gestuurd op basis van het op dat moment bekende aantal personen; op de eindafrekening wordt de aanbetaling volledig gecrediteerd en wordt gecorrigeerd naar het daadwerkelijke aantal.
 - Het aantal personen is aanpasbaar tot 7 dagen voor aankomst. 10 dagen voor aankomst volgt een automatische reminder, inclusief een check van de dieetwensen.
 <!-- AANTAL-PERSONEN-DEADLINE-START -->
 - **De 7-dagengrens is hard (HARDE REGEL, 9 sep 2026).** Geldt voor bedrijfsuitjes en vergaderingen, dus voor arrangementen op offerte, niet voor losse restaurantreserveringen.
