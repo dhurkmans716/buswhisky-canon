@@ -880,7 +880,7 @@ Erkenningen & media (geen wedstrijdmedailles, wel bruikbaar als sociale bewijskr
 
 ---
 
-## 8. Openingstijden (definitief — 7 dagen open)
+## 8. Openingstijden (definitief — april t/m oktober 7 dagen open, november t/m maart restaurant dicht op di en wo)
 
 | Dag | Restaurant | Winkel & receptie | Rondleidingen |
 |---|---|---|---|
