@@ -935,6 +935,9 @@ Erkenningen & media (geen wedstrijdmedailles, wel bruikbaar als sociale bewijskr
 - Die 7 dagen gelden voor het DINER. Alleen op zaterdag en zondag is het restaurant al vanaf 12:00 open en kun je er ook lunchen. Die lunch is nooit het meergangen verrassingsmenu: zie de harde lunchregel in §6e.
 - **Winkel en receptie** zijn los van het restaurant geopend: maandag t/m vrijdag 8:00–17:30, zaterdag en zondag 10:00–17:30
 - Let op: het restaurant opent pas om 15:30 (za & zo 12:00), maar winkel en receptie zijn overdag al eerder open — verwar deze tijden niet. Wie langs wil komen voor bijvoorbeeld een cadeaubon of aankoop kan overdag terecht tijdens de winkel-/receptietijden
+<!-- WINKEL-NA-SLUITING-START -->
+- **Aankoop na 17:30 (HARDE REGEL, Dennis 16 okt 2026): wees flexibel, nooit star.** Wil een gast na sluiting van winkel en receptie toch nog iets kopen of ophalen (een geschenkset, fles, cadeaubon of afhaalbestelling), zeg dan NOOIT dat het niet kan. Zolang het restaurant die dag open is, kan hij gewoon in het restaurant langskomen en zich melden bij de bediening; een collega loopt dan even met hem mee naar de winkel om af te rekenen. Zeg dat warm en zonder voorbehoud. Is het restaurant die dag dicht (bijvoorbeeld dinsdag of woensdag tijdens de wintersluiting, check met de Kalender-tool), noem dan de winkeltijden en de eerstvolgende dag waarop het restaurant open is.
+<!-- WINKEL-NA-SLUITING-END -->
 - Tijden altijd met dubbele punt: 16:00 (niet 16.00)
 - Rondleidingen in vaste volgorde vroeg naar laat
 - De sluitingstijd 22:00 geldt voor het restaurant. Groepen, bedrijfsuitjes en bruiloften hebben een eigen programma met eigen eindtijden die per programma verschillen.
