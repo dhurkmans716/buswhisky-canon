@@ -1605,7 +1605,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 ### Whiskyproeverijen (meerdere vormen — niet door elkaar halen)
 - **BUS Tafelproeverij** — in het restaurant, met kaartje met uitleg over de smaakprofielen; géén reservering nodig. Flight 3 glaasjes € 19,50 p.p. · flight 6 glaasjes € 29,50 p.p.
 - **BUS Whiskyproeverij in het Theater** — 5 proeverijen met muziek en verhaal door oprichter Dennis Hurkmans; reserveren nodig. Vanaf € 29,50 p.p.
-- **BUS Whiskyproeverij op de Stokerij** (exclusief/begeleid) — uitgebreide rondleiding + uitleg door de whisky-experts, new make en 4 whisky's; donderdagavond om de 8 weken, aanvang 20:00; te combineren met diner. € 50,00 p.p.
+- **BUS Whiskyproeverij op de Stokerij** (exclusief/begeleid) — uitgebreide rondleiding + uitleg door de whisky-experts, new make en 4 whisky's; op woensdagavond (niet elke woensdag, data in de online reservering); groepen vanaf 15 op aanvraag ook op een andere dag in overleg; te combineren met diner. € 50,00 p.p.
 - **BUS Whiskyproeverij op locatie** — bij jou op locatie. Particulier € 35,00 p.p. (min. 10 personen); zakelijk/events op aanvraag vanaf € 350.
 - **Cadeaubon whiskyproeverij** — verkrijgbaar.
 - Overzicht van alle vormen: buswhisky.com/whiskyproeverij
