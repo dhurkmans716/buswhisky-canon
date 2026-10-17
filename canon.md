@@ -1453,7 +1453,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 - Rondleiding voor campergasten (50% korting, EUR 8,75 p.p.): gewone rondleidingslink hierboven, de receptie verrekent het verschil bij aankomst (zie 6a). De oude link buswhisky.com/campertour werkt niet meer.
  - Groepsrondleiding (vanaf 15 personen, scherper tarief € 15,00 p.p. en tijd in overleg): https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=KME6ugg
 - Whisky-proeverijen boeken: buswhisky.com/whiskyproeverij
- - Donderdagproeverij (rondleiding + uitgebreide whiskyproeverij, donderdag 20:00, één keer per 8 weken, € 50 p.p.) — deeplink: https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=Fc7ZW1
+ - Woensdagproeverij (rondleiding + uitgebreide whiskyproeverij met expert, op woensdagavond, niet elke woensdag, € 50 p.p.; groepen vanaf 15 op aanvraag ook op een andere dag) — deeplink: https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=Fc7ZW1
 - Bed & Breakfast: buswhisky.com/bed-breakfast-brabant-whiskystokerij
  - B&B 3-gangen — aankomst vr/za: https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=9v16vHU | zo/ma: https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=Ltnx4j2 | wo: https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=CTyDfXp
  - B&B 4-gangen — aankomst vr/za: https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=8xaX6xY | zo/ma: https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=5qXESKN | wo: https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=GEUMhCt
