@@ -1477,7 +1477,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 ### Automatisch gesynct: boekingslinks uit Guestplan (niet handmatig bewerken tussen de markers)
 
 <!-- FORMITABLE-DEEPLINKS:START -->
-*Boekbare arrangementen: Guestplan-links (i + serviceCode). Bijgewerkt: 17-10-2026 (36 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
+*Boekbare arrangementen: Guestplan-links (i + serviceCode). Bijgewerkt: 18-10-2026 (36 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
 
 **FORMITABLE BESTAAT NIET MEER OP DE WEBSITE (HARDE REGEL, 15 okt 2026).** Sinds 14 oktober 2026 boeken gasten via Guestplan. Links met ft-restaurant, ft-ticket, ft-friend, ft-partysize of ft-shop openen GEEN boekingsscherm meer en stuur je NOOIT. Gebruik uitsluitend de links hieronder. Staat er in een oude mail of in een eerder bericht nog een ft-link, stuur dan de Guestplan-link van hetzelfde arrangement.
 
@@ -1569,7 +1569,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
   Geldig: dagen: ma, zo · personen: 1 tot 1
   Programma: 15.00 uur Ontvangst en inchecken in je B&B kamer · 16.00 uur Rondleiding door brouwerij, stokerij, warehouse en bottelarij, met een proefglaasje · 17.00 uur Even opfrissen of borrelen · 18.00 uur Drie gangen verrassingsmenu van onze chef (extra gangen ter plekke mogelijk, indicatief € 10 per gang) · 9.00 uur Ontbijt in het boerderijrestaurant · 10.30 uur Vertrek
 - Whiskyproeverij (EUR 50,00 p.p.): https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=Fc7ZW1
-  Geldig: dagen: do · periode: 2026-11-26 t/m 2027-03-18
+  Geldig: dagen: wo, do · periode: 2026-11-26 t/m 2027-04-28
 - WOENSDAGACTIE: 5 gangen B&B + fles single malt 20cl (EUR 119,50 p.p.): https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=UXR9vGC
   Geldig: dagen: wo · personen: 1 tot 2
   Programma: 15.00 uur Ontvangst en inchecken in je B&B kamer · 16.00 uur Rondleiding door brouwerij, stokerij, warehouse en bottelarij, met een proefglaasje · 17.00 uur Even opfrissen of borrelen · 18.00 uur Vijf gangen verrassingsmenu van onze chef · 9.00 uur Ontbijt in het boerderijrestaurant · 10.30 uur Vertrek
