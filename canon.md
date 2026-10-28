@@ -1477,7 +1477,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 ### Automatisch gesynct: boekingslinks uit Guestplan (niet handmatig bewerken tussen de markers)
 
 <!-- FORMITABLE-DEEPLINKS:START -->
-*Boekbare arrangementen: Guestplan-links (i + serviceCode). Bijgewerkt: 27-10-2026 (35 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
+*Boekbare arrangementen: Guestplan-links (i + serviceCode). Bijgewerkt: 28-10-2026 (34 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
 
 **FORMITABLE BESTAAT NIET MEER OP DE WEBSITE (HARDE REGEL, 15 okt 2026).** Sinds 14 oktober 2026 boeken gasten via Guestplan. Links met ft-restaurant, ft-ticket, ft-friend, ft-partysize of ft-shop openen GEEN boekingsscherm meer en stuur je NOOIT. Gebruik uitsluitend de links hieronder. Staat er in een oude mail of in een eerder bericht nog een ft-link, stuur dan de Guestplan-link van hetzelfde arrangement.
 
@@ -1540,8 +1540,6 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
   Programma: 15.00 uur Ontvangst en inchecken in je B&B kamer · 16.00 uur Rondleiding door brouwerij, stokerij, warehouse en bottelarij, met een proefglaasje · 17.00 uur Even opfrissen of borrelen · 18.00 uur Vijf gangen verrassingsmenu van onze chef · 9.00 uur Ontbijt in het boerderijrestaurant · 10.30 uur Vertrek
 - Reservering Boerderijrestaurant (tafel, geen arrangement): https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=CewjJvV
   Geldig: dagen: ma, do, vr, za, zo
-- Reservering Boerderijrestaurant op dinsdag of woensdag: https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=4cSbXnj
-  Geldig: dagen: di, wo
 - Rondleiding + 4 gangen diner voor 2 | Crowdfunders (EUR 67,00 p.p.): https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=JNvgpW1
   Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding whiskystokerij met tourguide langs brouwerij, stokerij, warehouse en bottelarij, inclusief 1 proefglaasje. · 17.30 uur | Gelegenheid om te borrelen · 18.00 uur | Vier gangen verrassingsmenu van onze chef.
 - Rondleiding BUS Whiskystokerij (60 min) (EUR 17,50 p.p.): https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=42SA1mn
