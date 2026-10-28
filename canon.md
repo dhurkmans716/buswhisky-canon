@@ -685,7 +685,7 @@ Alleen noemen als de gast er expliciet naar vraagt, daarna altijd doorverwijzen 
 Bij vertrek levert het bruidspaar de locatie op aan de hand van een oplever-checklist.
 
 - De bedden moeten na het verblijf afgehaald worden.
-- Bij een overnachting op een **doordeweekse dag** moeten de kamers om **10.30 uur** uitgecheckt zijn, zodat housekeeping genoeg tijd heeft voor de volgende groep. Op **zondag** is een late checkout geen probleem.
+- Bij een overnachting op een **doordeweekse dag** moeten de kamers om **10.30 uur** uitgecheckt zijn, zodat housekeeping genoeg tijd heeft voor de volgende groep. Een latere check-out (bijvoorbeeld 11.00 uur) kan bij een bruiloft NIET, ook niet op zondag en ook niet tegen betaling: housekeeping moet de kamers diezelfde middag weer klaar hebben voor de volgende check-in. Met een paar kamers lukt dat soms, met alle kamers niet. Zeg dus nooit toe dat later uitchecken kan.
 - Verblijfsruimtes veegschoon opleveren.
 - Keuken en spoelkeuken helemaal schoon en gedweild opleveren.
 - Wijnglazen, bierglazen en bestek moeten na het afwassen gepolijst worden.
