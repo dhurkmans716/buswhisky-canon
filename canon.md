@@ -1498,7 +1498,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 ### Automatisch gesynct: boekingslinks uit Guestplan (niet handmatig bewerken tussen de markers)
 
 <!-- FORMITABLE-DEEPLINKS:START -->
-*Boekbare arrangementen: Guestplan-links (i + serviceCode). Bijgewerkt: 30-10-2026 (35 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
+*Boekbare arrangementen: Guestplan-links (i + serviceCode). Bijgewerkt: 31-10-2026 (36 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
 
 **FORMITABLE BESTAAT NIET MEER OP DE WEBSITE (HARDE REGEL, 15 okt 2026).** Sinds 14 oktober 2026 boeken gasten via Guestplan. Links met ft-restaurant, ft-ticket, ft-friend, ft-partysize of ft-shop openen GEEN boekingsscherm meer en stuur je NOOIT. Gebruik uitsluitend de links hieronder. Staat er in een oude mail of in een eerder bericht nog een ft-link, stuur dan de Guestplan-link van hetzelfde arrangement.
 
@@ -1552,6 +1552,8 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
   Geldig: dagen: zo · periode: 2027-06-27 t/m 2027-06-27
 - Groepsrondleiding Bus Whiskystokerij (vanaf 15 personen) (EUR 15,00 p.p.): https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=KME6ugg
   Geldig: personen: 10 tot 25
+- Losse overnachting 1PK + ontbijt (EUR 149,50 p.p.): https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=QroaBzE
+  Geldig: personen: 1 tot 1
 - Losse overnachting 2PK + ontbijt (EUR 86,00): https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=3EzdLfy
   Geldig: personen: 1 tot 2
 - Lunchdeal (EUR 35,00 p.p.): https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=GhDVYP4
