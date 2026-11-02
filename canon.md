@@ -821,7 +821,7 @@ Een gast met een verlopen cadeaubon krijgt die gewoon weer bruikbaar. Daar hoeft
 ### Speellijst theatershow (automatisch gesynct uit buswhisky.com/theatershow — niet handmatig bewerken tussen de markers)
 
 <!-- THEATERSHOW:START -->
-*Automatisch gesynct uit buswhisky.com/theatershow. Bijgewerkt: 01-11-2026 (1 voorstellingen). Controleer kaartverkoop en actuele data bij het theater.*
+*Automatisch gesynct uit buswhisky.com/theatershow. Bijgewerkt: 02-11-2026 (1 voorstellingen). Controleer kaartverkoop en actuele data bij het theater.*
 
 - zaterdag 13 maart 2027 — Heesch, CC De Pas (muziek: Erwin Nyhoff)
 <!-- THEATERSHOW:END -->
