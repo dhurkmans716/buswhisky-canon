@@ -1497,7 +1497,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 ### Automatisch gesynct: boekingslinks uit Guestplan (niet handmatig bewerken tussen de markers)
 
 <!-- FORMITABLE-DEEPLINKS:START -->
-*Boekbare arrangementen: Guestplan-links (i + serviceCode). Bijgewerkt: 02-11-2026 (36 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
+*Boekbare arrangementen: Guestplan-links (i + serviceCode). Bijgewerkt: 03-11-2026 (37 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
 
 **FORMITABLE BESTAAT NIET MEER OP DE WEBSITE (HARDE REGEL, 15 okt 2026).** Sinds 14 oktober 2026 boeken gasten via Guestplan. Links met ft-restaurant, ft-ticket, ft-friend, ft-partysize of ft-shop openen GEEN boekingsscherm meer en stuur je NOOIT. Gebruik uitsluitend de links hieronder. Staat er in een oude mail of in een eerder bericht nog een ft-link, stuur dan de Guestplan-link van hetzelfde arrangement.
 
@@ -1568,6 +1568,9 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 - Slijters Invite ambassadeursprogramma: https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=DH1Ch9s
   Geldig: dagen: ma, zo · personen: 1 tot 2
   Programma: 15.00 uur | Ontvangst & incheck in de B&B-kamer · 16.00 uur | Rondleiding door brouwerij, stokerij, warehouse en bottelarij, natuurlijk met een glaasje om te proeven · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Whiskyproeverij · 18.30 uur | Vier gangen verrassingsmenu van onze chef · 9.00 uur | Ontbijt in het boerderijrestaurant · 10.00 uur | Vertrek, vaak met nog even gelegenheid om kennis te maken met de master distiller
+- Voorjaarsvakantie Special (EUR 149,50 p.p.): https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=RYD4wmp
+  Geldig: dagen: ma, di, wo, do, zo · periode: 2027-02-13 t/m 2027-02-28 · personen: 1 tot 2
+  Programma: 13.00 uur - ontvangst bij BUS Whisky en inchecken in de B&B. · 16.00 uur - grain-to-glass rondleiding door brouwerij, stokerij, warehouse en bottelarij, inclusief een proefglaasje whisky. · 18.30 uur - culinair 3-gangen verrassingsdiner in het Proeflokaal. · 09.00 uur - uitgebreid boerenontbijt. Je maakt daarbij je eigen lunchpakket voor onderweg. · 09.00 uur - uitgebreid boerenontbijt.
 - Weekenddeal - vrijdag (EUR 49,50 p.p.): https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=6Lp8wwf
   Geldig: dagen: vr
   Programma: 17.00 uur inloop · 17.30 uur rondleiding whiskystokerij inclusief een proefglaasje · 19.00 uur culinair drie gangen verrassingsdiner · 21.00 uur einde van een geslaagde avond
