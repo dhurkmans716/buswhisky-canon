@@ -1497,7 +1497,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 ### Automatisch gesynct: boekingslinks uit Guestplan (niet handmatig bewerken tussen de markers)
 
 <!-- FORMITABLE-DEEPLINKS:START -->
-*Boekbare arrangementen: Guestplan-links (i + serviceCode). Bijgewerkt: 04-11-2026 (37 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
+*Boekbare arrangementen: Guestplan-links (i + serviceCode). Bijgewerkt: 04-11-2026 (38 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
 
 **FORMITABLE BESTAAT NIET MEER OP DE WEBSITE (HARDE REGEL, 15 okt 2026).** Sinds 14 oktober 2026 boeken gasten via Guestplan. Links met ft-restaurant, ft-ticket, ft-friend, ft-partysize of ft-shop openen GEEN boekingsscherm meer en stuur je NOOIT. Gebruik uitsluitend de links hieronder. Staat er in een oude mail of in een eerder bericht nog een ft-link, stuur dan de Guestplan-link van hetzelfde arrangement.
 
@@ -1546,7 +1546,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 - Camping Culinair - Winteredition (EUR 99,50 p.p.): https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=TXMVYTw
   Geldig: dagen: vr, za · periode: 2026-12-18 t/m 2026-12-19 · personen: 1 tot 8
 - Camping Culinair (EUR 99,50 p.p.): https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=VfVGRnM
-  Geldig: dagen: vr, za · periode: 2026-10-30 t/m 2027-11-27 · personen: 1 tot 2
+  Geldig: dagen: za · periode: 2026-10-30 t/m 2027-11-27 · personen: 1 tot 2
 - Dutch Whisky Event (EUR 34,95 p.p.): https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=Uc6FXYq
   Geldig: dagen: zo · periode: 2027-06-27 t/m 2027-06-27
 - Groepsrondleiding Bus Whiskystokerij (vanaf 15 personen) (EUR 15,00 p.p.): https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=KME6ugg
@@ -1565,6 +1565,8 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 - Rondleiding + 4 gangen diner voor 2 | Crowdfunders (EUR 67,00 p.p.): https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=JNvgpW1
   Programma: 15.00 uur | Ontvangst · 16.00 uur | Rondleiding whiskystokerij met tourguide langs brouwerij, stokerij, warehouse en bottelarij, inclusief 1 proefglaasje. · 17.30 uur | Gelegenheid om te borrelen · 18.00 uur | Vier gangen verrassingsmenu van onze chef.
 - Rondleiding BUS Whiskystokerij (60 min) (EUR 17,50 p.p.): https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=42SA1mn
+- Rondleiding BUS Whiskystokerij 14:30 (za & zo) (EUR 17,50 p.p.): https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=79BAxWL
+  Geldig: dagen: za, zo
 - Slijters Invite ambassadeursprogramma: https://widget.guestplan.com/?i=7d419ba4c783b5392f74a49242a0a84e2c1167a5&serviceCode=DH1Ch9s
   Geldig: dagen: ma, zo · personen: 1 tot 2
   Programma: 15.00 uur | Ontvangst & incheck in de B&B-kamer · 16.00 uur | Rondleiding door brouwerij, stokerij, warehouse en bottelarij, natuurlijk met een glaasje om te proeven · 17.00 uur | Gelegenheid om even op te frissen · 17.30 uur | Whiskyproeverij · 18.30 uur | Vier gangen verrassingsmenu van onze chef · 9.00 uur | Ontbijt in het boerderijrestaurant · 10.00 uur | Vertrek, vaak met nog even gelegenheid om kennis te maken met de master distiller
