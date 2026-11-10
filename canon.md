@@ -75,6 +75,7 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 <!-- WHISKY-USPS-START -->
 - **USP's van onze whisky (Dennis, 10 nov 2026).** Noem deze als een gast vraagt wat Bus Whisky bijzonder maakt, of er toevoegingen in zitten, of als hij twijfelt over proefnotities:
   - Lange vergisting van 5 dagen of meer; dat levert veel smaak op.
+Ter vergelijking: in Schotland is de fermentatie vaak maar 48 uur.
   - Non chill filtered (niet koudgefilterd).
   - Hoger alcoholpercentage dan gebruikelijk.
   - Geen toevoegingen voor kleur of smaak: geen karamelkleurstof (E150a) en geen aroma's.
