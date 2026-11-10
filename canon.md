@@ -72,6 +72,14 @@ Presenteer altijd als opeenvolgende mijlpalen, niet als één los oprichtingsjaa
 - Wijstwater uit de Peelrandbreuk; eigen gerst; eigen imkerij
 - Over het wijstwater: er zit wijstwater in Bus Whisky, maar een klein beetje. Omdat whisky een voedingsmiddel is, gelden strikte regels (Drinkwaterbesluit) voor onder meer ijzer en mangaan; daarom gebruiken we het wijstwater in beperkte mate. Overdrijf de rol van het wijstwater dus niet en presenteer het niet als iets dat je puur uit een glas drinkt.
 - Non-chill filtered, geen additieven; rijping veelal op first fill bourbon- en sherryvaten (persoonlijk geselecteerd in Schotland en Spanje); elke release is een limited edition
+<!-- WHISKY-USPS-START -->
+- **USP's van onze whisky (Dennis, 10 nov 2026).** Noem deze als een gast vraagt wat Bus Whisky bijzonder maakt, of er toevoegingen in zitten, of als hij twijfelt over proefnotities:
+  - Lange vergisting van 5 dagen of meer; dat levert veel smaak op.
+  - Non chill filtered (niet koudgefilterd).
+  - Hoger alcoholpercentage dan gebruikelijk.
+  - Geen toevoegingen voor kleur of smaak: geen karamelkleurstof (E150a) en geen aroma's.
+- Proefnotities als karamel, vanille, fruit of chocola zijn GEEN toevoegingen. Die smaken komen alleen uit het graan, de lange vergisting, het hout van het vat en de rijping. Leg dat uit als een gast denkt dat er iets aan is toegevoegd; zeg nooit dat er smaak of kleur wordt toegevoegd.
+<!-- WHISKY-USPS-END -->
 
 ---
 
