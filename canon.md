@@ -1531,7 +1531,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 ### Automatisch gesynct: boekingslinks uit Guestplan (niet handmatig bewerken tussen de markers)
 
 <!-- FORMITABLE-DEEPLINKS:START -->
-*Boekbare arrangementen: Guestplan-links (i + serviceCode). Bijgewerkt: 12-11-2026 (60 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
+*Boekbare arrangementen: Guestplan-links (i + serviceCode). Bijgewerkt: 13-11-2026 (60 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
 
 **FORMITABLE BESTAAT NIET MEER OP DE WEBSITE (HARDE REGEL, 15 okt 2026).** Sinds 14 oktober 2026 boeken gasten via Guestplan. Links met ft-restaurant, ft-ticket, ft-friend, ft-partysize of ft-shop openen GEEN boekingsscherm meer en stuur je NOOIT. Gebruik uitsluitend de links hieronder. Staat er in een oude mail of in een eerder bericht nog een ft-link, stuur dan de Guestplan-link van hetzelfde arrangement.
 
