@@ -2026,3 +2026,6 @@ Vaste werkwijze in zo'n antwoord:
 
 Candex specifiek: wij factureren aan Candex Solutions Netherlands BV, De Cuserstraat 93, 1081 CN Amsterdam, btw NL860587836B01. Candex betaalt ons binnen 3 werkdagen nadat de klant Candex heeft betaald; de betaaltermijn van de klant staat op de order (bij FrieslandCampina 21 dagen). Registreren als leverancier is gratis en eenmalig, daarna kan elke koper die Candex gebruikt ons via dat kanaal een order sturen.
 <!-- INKOOPPORTAAL-END -->
+
+## Zakelijke combinatiereserveringen op rekening
+Zakelijke combinatiereservering (besluit 16 november 2026): een zakelijke rondleiding en diner op rekening zijn beide ONBETAALD en moeten samen als afzonderlijke posten op precies een open Nappkin-restaurantrekening staan. Rondleiding nooit als vooruitbetaald aannemen. Vastleggen: bedrijf, contactpersoon, e-mail, factuuradres, PO indien bekend, tijdstippen en aantallen per onderdeel. Voor definitieve bevestiging beide capaciteitsclaims en Nappkin rekening-ID met alle posten en betaalstatus OPEN teruglezen. Medewerkerwaarschuwing: ZAKELIJK OP REKENING, RONDLEIDING NIET VOORUITBETAALD. Geen bewijs betekent aanvraagstatus en opvolging, geen bevestiging. Geen simulatie via Mollie, geen Guestplan. Een verzamelfactuur via KMT/Exact, correcte btw en entiteit, zonder dubbele omzet.
