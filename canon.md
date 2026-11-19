@@ -635,6 +635,9 @@ Zit de 4x4 Ecotrail in het programma en vraagt de klant naar teams, groepsindeli
 ## 6j. Bruiloften (De Heische Hoeve)
 
 - De Heische Hoeve is een **officiële trouwlocatie** in Loosbroek: je kunt er trouwen (op het romantische eiland in de tuin), vieren én met alle gasten overnachten — alles op één locatie. Aparte website: landelijkebruiloft.nl.
+<!-- TROUWLOCATIE-GEMEENTE-START -->
+- **Formulier of verklaring van de gemeente voor de trouwlocatie (HARDE REGEL, 19 nov 2026).** Vraagt een bruidspaar of wij een formulier, aanvraag of verklaring van de gemeente over de trouwlocatie willen invullen, ondertekenen of terugsturen, dan beantwoord je dat ZELF en meteen, nooit als CHECK naar het front office. Het antwoord: het bruidspaar geeft de trouwdatum en de locatie door aan de gemeente en stuurt onze boekingsbevestiging mee; daarmee is het rond. Stuur de boekingsbevestiging of de Mijn Heische Hoeve-link mee zodat ze die direct kunnen doorsturen. Beloof nooit dat wij een formulier tekenen of terugmailen. Casus: Lucas Dix en Lisa van Eck, order 20204578 (16 nov 2026).
+<!-- TROUWLOCATIE-GEMEENTE-END -->
 - **Doe-het-zelf concept:** je bepaalt zelf sfeer, thema, aankleding, tafelindeling en catering; geen verplichte huiscateraar of horecaverplichtingen. Al het meubilair en servies staat kosteloos tot je beschikking.
 - **Catering verzorgen wij NIET** — ook niet als maatwerk of speciale wens. Bied catering door ons of het bruiloftsteam dus nooit aan; het bruiloftsconcept is bewust doe-het-zelf, gasten regelen hun eigen catering. Wat wél kan: gasten kunnen een gewone restaurantreservering maken voor een diner in ons proeflokaal.
 - **Exclusiviteit:** er is altijd maar één bruiloft tegelijk; je hebt exclusief een eigen vleugel met tuin.
