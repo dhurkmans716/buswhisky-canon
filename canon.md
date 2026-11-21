@@ -1535,7 +1535,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 ### Automatisch gesynct: boekingslinks uit Guestplan (niet handmatig bewerken tussen de markers)
 
 <!-- FORMITABLE-DEEPLINKS:START -->
-*Boekbare arrangementen: links naar de eigen BUS-widget op buswhisky.com. Bijgewerkt: 20-11-2026 (60 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
+*Boekbare arrangementen: links naar de eigen BUS-widget op buswhisky.com. Bijgewerkt: 21-11-2026 (60 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
 
 **FORMITABLE BESTAAT NIET MEER OP DE WEBSITE (HARDE REGEL, 15 okt 2026).** Gasten boeken via de eigen BUS-widget op buswhisky.com. Guestplan-links (widget.guestplan.com) stuur je NOOIT meer. Links met ft-restaurant, ft-ticket, ft-friend, ft-partysize of ft-shop openen GEEN boekingsscherm meer en stuur je NOOIT. Gebruik uitsluitend de links hieronder. Staat er in een oude mail of in een eerder bericht nog een ft-link, stuur dan de link hieronder van hetzelfde arrangement.
 
@@ -1643,8 +1643,8 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 - Voorjaarsvakantie Special (betaald via website): https://www.buswhisky.com/#reserveren?arrangement=EwF81Vn
   Geldig: dagen: ma, di, wo, do, zo · periode: 2027-02-13 t/m 2027-02-28 · personen: 1 tot 2
   Programma: 13.00 uur - ontvangst bij BUS Whisky en inchecken in de B&B. · 16.00 uur - grain-to-glass rondleiding door brouwerij, stokerij, warehouse en bottelarij, inclusief een proefglaasje whisky. · 18.30 uur - culinair 3-gangen verrassingsdiner in het Proeflokaal. · 09.00 uur - uitgebreid boerenontbijt. Je maakt daarbij je eigen lunchpakket voor onderweg. · 09.00 uur - uitgebreid boerenontbijt.
-- Voorjaarsvakantie Special (EUR 149,50 p.p.): https://www.buswhisky.com/#reserveren?arrangement=RYD4wmp
-  Geldig: dagen: ma, di, wo, do, zo · periode: 2027-02-13 t/m 2027-02-28 · personen: 1 tot 2
+- Voorjaarsvakantie Special (EUR 199,50 p.p.): https://www.buswhisky.com/#reserveren?arrangement=RYD4wmp
+  Geldig: dagen: ma, di, wo, do, zo · periode: 2027-02-13 t/m 2027-02-28 · personen: 1 tot 8
   Programma: 13.00 uur - ontvangst bij BUS Whisky en inchecken in de B&B. · 16.00 uur - grain-to-glass rondleiding door brouwerij, stokerij, warehouse en bottelarij, inclusief een proefglaasje whisky. · 18.30 uur - culinair 3-gangen verrassingsdiner in het Proeflokaal. · 09.00 uur - uitgebreid boerenontbijt. Je maakt daarbij je eigen lunchpakket voor onderweg. · 09.00 uur - uitgebreid boerenontbijt.
 - Weekenddeal - vrijdag (EUR 49,50 p.p.): https://www.buswhisky.com/#reserveren?arrangement=6Lp8wwf
   Geldig: dagen: vr
