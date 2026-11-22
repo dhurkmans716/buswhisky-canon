@@ -1535,7 +1535,7 @@ Deel links desgevraagd (bij telefonie: bied aan om ze na het gesprek via WhatsAp
 ### Automatisch gesynct: boekingslinks uit Guestplan (niet handmatig bewerken tussen de markers)
 
 <!-- FORMITABLE-DEEPLINKS:START -->
-*Boekbare arrangementen: links naar de eigen BUS-widget op buswhisky.com. Bijgewerkt: 21-11-2026 (60 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
+*Boekbare arrangementen: links naar de eigen BUS-widget op buswhisky.com. Bijgewerkt: 22-11-2026 (60 arrangementen). Controleer altijd de actuele beschikbaarheid voordat je een datum toezegt.*
 
 **FORMITABLE BESTAAT NIET MEER OP DE WEBSITE (HARDE REGEL, 15 okt 2026).** Gasten boeken via de eigen BUS-widget op buswhisky.com. Guestplan-links (widget.guestplan.com) stuur je NOOIT meer. Links met ft-restaurant, ft-ticket, ft-friend, ft-partysize of ft-shop openen GEEN boekingsscherm meer en stuur je NOOIT. Gebruik uitsluitend de links hieronder. Staat er in een oude mail of in een eerder bericht nog een ft-link, stuur dan de link hieronder van hetzelfde arrangement.
 
