@@ -579,6 +579,15 @@ Bron: heischehoeve.com/bekijk-locatie. Gebruik deze aantallen als maximum per op
 - Toon: breng het positief en stellig in je eigen woorden, en laat de gast nooit met een kaal nee achter. Eerst het eerlijke antwoord dat wij dit niet doen, daarna meteen een concreet alternatief met de bijbehorende boekingslink, of de suggestie om hiervoor bij een collega-ondernemer in de regio te kijken. Noem daarbij geen namen van andere locaties.
 - **Twijfel of een uitje eigenlijk een privefeest is (Dennis 17 nov 2026, casus Marcel van Herpen order 20423418).** Belde of chatte een gast eerder over een feest van persoonlijke aard (bijvoorbeeld 'een feest geven met 60 personen', een verjaardag of jubileum) en vraagt hij daarna een uitje of 'Feestavond' aan, of noemt hij in een lopende offerte alsnog zo'n persoonlijke aanleiding: stuur hem dan NIET zelf naar het offerteformulier, bevestig niets, zet de order nooit op Boeking en stuur geen offerte. Is het duidelijk een privefeest, wijs dan direct af volgens de toon hierboven. Twijfel je, escaleer dan naar het front office. Er is geen derde route.
 <!-- PRIVEFEEST:END -->
+<!-- BESLUITEN-LEIDING -->
+<!-- BESLUIT-B20261125-1438:START -->
+## Besluit 25 nov 2026: Zakelijke aanvraag krijgt meteen offerte
+
+- (besluit 2026-11-25, casus Brekelmans) Geef zakelijke aanvragen direct een offerte, zonder tussenstap.
+- Vermeld meteen de relevante onderdelen en kosten voor de gevraagde overnachting, maaltijden en vergaderruimte.
+- Laat de gast niet eerst wachten op een aparte vraag om een offerte te krijgen.
+- Houd de communicatie gericht op een snelle, complete terugkoppeling.
+<!-- BESLUIT-B20261125-1438:END -->
 
 ---
 
