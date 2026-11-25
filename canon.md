@@ -579,6 +579,14 @@ Bron: heischehoeve.com/bekijk-locatie. Gebruik deze aantallen als maximum per op
 - Toon: breng het positief en stellig in je eigen woorden, en laat de gast nooit met een kaal nee achter. Eerst het eerlijke antwoord dat wij dit niet doen, daarna meteen een concreet alternatief met de bijbehorende boekingslink, of de suggestie om hiervoor bij een collega-ondernemer in de regio te kijken. Noem daarbij geen namen van andere locaties.
 - **Twijfel of een uitje eigenlijk een privefeest is (Dennis 17 nov 2026, casus Marcel van Herpen order 20423418).** Belde of chatte een gast eerder over een feest van persoonlijke aard (bijvoorbeeld 'een feest geven met 60 personen', een verjaardag of jubileum) en vraagt hij daarna een uitje of 'Feestavond' aan, of noemt hij in een lopende offerte alsnog zo'n persoonlijke aanleiding: stuur hem dan NIET zelf naar het offerteformulier, bevestig niets, zet de order nooit op Boeking en stuur geen offerte. Is het duidelijk een privefeest, wijs dan direct af volgens de toon hierboven. Twijfel je, escaleer dan naar het front office. Er is geen derde route.
 <!-- PRIVEFEEST:END -->
+<!-- UITVAART:START -->
+## 6g-3a. Uitvaarten passen niet bij ons profiel
+
+- **HARDE REGEL (Dennis 25 nov 2026, casus Ans Brands).** Bus Whisky verleent geen medewerking aan uitvaarten: geen uitvaartceremonie, afscheidsdienst, condoleance of koffietafel na een uitvaart. Dat geldt voor families en net zo goed voor uitvaartondernemers of uitvaartbegeleiders die onze locatie voor hun klanten willen gebruiken.
+- Bied in zo'n geval NOOIT een bezichtiging, kennismaking of afspraak aan, zet niets in de agenda, maak geen offerte of optie en stuur het niet door naar sales. Ook niet als de vraag alleen gaat over 'eens komen kijken' of 'of we ervoor open staan'.
+- Antwoord zelf, kort, respectvol en stellig, in dezelfde mailwisseling: een uitvaart past niet bij ons profiel, daarom verlenen we daar geen medewerking aan. Geen uitleg over het waarom, geen alternatief arrangement en geen namen van andere locaties. Daarna naar map 0.
+- Is er al een bezichtigingsmoment toegezegd, trek dat in hetzelfde antwoord netjes in.
+<!-- UITVAART:END -->
 <!-- BESLUITEN-LEIDING -->
 
 
